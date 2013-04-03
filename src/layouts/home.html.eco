@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<!-- Our site title and description -->
+	<title><%= @getPreparedTitle() %></title>
+	<meta name="description" content="<%= @getPreparedDescription() %>" />
+	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+	<meta name="author" content="<%= @site.author or '' %>" />
+
+	<!-- Output DocPad produced meta elements -->
+	<%- @getBlock('meta').toHTML() %>
+
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width" />
+
+	<!-- Icons -->
+    <link rel="shortcut icon" href="ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+
+	<!-- Shims: IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
+</head>
+
+<body>
+	<!-- Markup -->	
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<ul class="nav">
+						<li class="active">
+							<a href="/">Home</a>
+						</li>
+					<% for document in @getCollection('pages').toJSON(): %>
+						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
+							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+
+						</li>
+					<% end %>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div id="myCarousel" class="carousel slide">
+		
+		<!-- Carousel items -->
+		<div class="carousel-inner">
+			<div class="item active">
+				<img src="/assets/carousel/slide-02.jpg" alt="">
+				<div class="container">
+					<div class="carousel-caption">
+						<h1>Another example headline.</h1>
+						<p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<a class="btn btn-large btn-primary" href="#">Learn more</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="item">
+				<img src="/assets/carousel/slide-02.jpg" alt="">
+				<div class="container">
+					<div class="carousel-caption">
+						<h1>Another example headline.</h1>
+						<p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<a class="btn btn-large btn-primary" href="#">Learn more</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="item">
+				<img src="/assets/carousel/slide-02.jpg" alt="">
+				<div class="container">
+					<div class="carousel-caption">
+						
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<!-- Carousel nav -->
+		<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+	</div>
+
+	<div id="wrap">
+		<div class="container">
+			<section id="content" class="content">
+				<%- @content %>
+			</section>		
+		</div>
+	</div><!-- /container -->
+
+	<div id="footer">
+		<div class="container">
+			<div class="row">
+				
+				<div class="span3">
+					<h4>About Me</h4>
+					<p>I am a wedding and landscape photographer nestled in the rolling oaks of northern California. I live on a ranch in the quiet town of Red Bluff where I'm married and have 5 boys.</p>
+				</div>
+				<div class="span3">
+					<h4>Contact</h4>
+					<p><i class="icon-user icon-white"></i> 530-727-8020</p>
+					<p><i class="icon-envelope icon-white"></i> <a href="mailto:eric@ericleslie.com">Eric@ericleslie.com</a></p>
+					<p><i class="icon-map-marker icon-white"></i> Red Bluff, Ca</p>
+				</div>
+				<div class="span3">
+					<h4>Image Use</h4>
+					<p>Images are Creative Commons, Non-Commercial.</p>
+					<p>For commercial use, please email me, <a href="mailto:eric@ericleslie.com">Eric@ericleslie.com</a></p>
+					<p>Feel free to use any image on your blog or for fun but you must: <br>
+						<strong>› Anchor Link</strong> to EricLeslie.com <br>
+						<strong>› Give credit</strong> to Eric Leslie.
+					</p>
+				</div>
+				<div class="span3">
+					<h4>Clients</h4>
+					<p>Stuff goes here</p>
+				</div>
+			</div>
+		</div>	
+	</div><!-- /footer -->
+
+	<!-- Scripts -->
+	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js"]).toHTML() %>
+</body>
+</html>

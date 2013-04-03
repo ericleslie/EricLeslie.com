@@ -1,0 +1,14 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<a class="brand" href="/">Welcome</a>
+			<ul class="nav">
+				<% for document in @getCollection('pages').toJSON(): %>
+					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
+						<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+					</li>
+				<% end %>
+			</ul>
+		</div>
+	</div>
+</div>
