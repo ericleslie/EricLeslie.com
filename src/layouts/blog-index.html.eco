@@ -2,11 +2,10 @@
 layout: blog
 ---
 
-<article id="post" class="post">
-	<h1><%= @document.title %></h1>
-	<p><small><%= @document.date.toLocaleDateString() %> by <%= @document.author %></small></p>
-	<div class="post-content"><%- @content %></div>
-</article>
+
+<h1><%= @document.title %></h1>
+<div class="post-content"><%- @content %></div>
+
 
 <footer>
 	<% if  @document.relatedDocuments and @document.relatedDocuments.length: %>

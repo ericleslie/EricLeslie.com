@@ -40,71 +40,76 @@
 
 <body>
 	<!-- Markup -->	
-		
-		<div class="navbar navbar-inverse navbar-fixed">
-			<div class="navbar-inner">
-				<div class="container">
-					<a class="brand" href="/">Welcome</a>
-					<ul class="nav">
-						<% for document in @getCollection('pages').toJSON(): %>
-							<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active' if @document.url is document.url %>">
-								<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
-							</li>
-						<% end %>
+
+	<div class="row" id="header">
+		<div class="container">
+			<div class="row">
+				<div class="span3"><h1>Eric<span style="color:blue">Leslie</span>.com</div>
+				<div class="span9">
+					<ul class="nav nav-pills pull-right">
+						<li class="active">
+							<a href="#">Home</a>
+						</li>
+						<li><a href="#">...</a></li>
+						<li>
+							<form class="form-search" id="searchbox_016047566110296273829:WMX-469924523">
+								<input value="016047566110296273829:WMX-469924523" name="cx" type="hidden"/>
+  								<input value="FORID:11" name="cof" type="hidden"/>
+								<div class="input-append">
+									<input type="text" class="span2 search-query" id="q" name="q">
+									<button type="submit" class="btn" name="sa">Search</button>
+								</div>
+							</form>
+
+							<script>
+							  (function() {
+							    var cx = '016047566110296273829:WMX-469924523';
+							    var gcse = document.createElement('script');
+							    gcse.type = 'text/javascript';
+							    gcse.async = true;
+							    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							        '//www.google.com/cse/cse.js?cx=' + cx;
+							    var s = document.getElementsByTagName('script')[0];
+							    s.parentNode.insertBefore(gcse, s);
+							  })();
+							</script>
+
+						</li>
 					</ul>
 				</div>
 			</div>
-
 		</div>
+	</div><!-- /header -->
 
+	<!--
+		<div class="navbar">
+			<div class="navbar-inner">
+				<ul class="nav">
+						<li class="active">
+							<a href="/">Home</a>
+						</li>
+					<% for document in @getCollection('pages').toJSON(): %>
+						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
+							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
 
-	<div id="myCarousel" class="carousel slide">
-		
-		<!-- Carousel items -->
-		<div class="carousel-inner">
-			<div class="item active">
-				<img src="/assets/carousel/slide-02.jpg" alt="">
-				<div class="container">
-					<div class="carousel-caption">
-						<h1>Another example headline.</h1>
-						<p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-						<a class="btn btn-large btn-primary" href="#">Learn more</a>
-					</div>
-				</div>
+						</li>
+					<% end %>
+				</ul>
 			</div>
-
-			<div class="item">
-				<img src="/assets/carousel/slide-02.jpg" alt="">
-				<div class="container">
-					<div class="carousel-caption">
-						<h1>Another example headline.</h1>
-						<p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-						<a class="btn btn-large btn-primary" href="#">Learn more</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="/assets/carousel/slide-02.jpg" alt="">
-				<div class="container">
-					<div class="carousel-caption">
-						
-					</div>
-				</div>
-			</div>
-
 		</div>
-
-		<!-- Carousel nav -->
-		<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-		<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 	</div>
+-->
+
+	<div class="container">
+		<row class="span9"><gcse:searchresults-only></gcse:searchresults-only></div>
+	</div>
+	
+	<section id="content" class="content">
+
+		<%- @content %>
+	</section>
 
 	<div class="container">	
-
-		<section id="content" class="content">
-			<%- @content %>
-		</section>
 		<footer>
 			<p>&copy; EricLeslie.com 2013</p>
 			<p style="float:right;">
