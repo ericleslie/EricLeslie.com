@@ -1,0 +1,14 @@
+[1m[32minfo:[39m Welcome to DocPad v6.29.0[22m
+[1m[32minfo:[39m Plugins: cleanurls, coffeescript, eco, less, livereload, marked, partials, related, stylus, text[22m
+[1m[32minfo:[39m Environment: development[22m
+[1m[32minfo:[39m DocPad listening to http://localhost:9778/ on directory c:\node\ericleslie.com\out[22m
+[1m[32minfo:[39m LiveReload listening to new socket on channel /docpad-livereload with log level 1[22m
+[1m[32minfo:[39m Generating...[22m
+[1m[32minfo:[39m Generated all 49 files in 1.23 seconds[22m
+[1m[32minfo:[39m Watching setup starting...[22m
+[1m[32minfo:[39m Watching setup[22m
+[1m[32minfo:[39m The action completed successfully[22m
+[1m[32minfo:[39m Regenerating at 14:55:07[22m
+[1m[32minfo:[39m Generating...[22m
+[1m[32minfo:[39m Generated 16 files in 0.229 seconds[22m
+[1m[32minfo:[39m Regenerated at 14:55:07[22m

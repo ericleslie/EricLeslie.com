@@ -10,7 +10,20 @@ layout: default
 			</div>
 
 			<div class="span3 sidebar">
-				menu
+				<ul class="nav nav-list">
+					<li class="nav-header">Recent Posts</li>
+				<% for post in @getCollection('posts').toJSON(): %>
+					<li><a href="<%= post.url %>"><%= post.title %></a></a>
+				<% end %>
+
+				<% if @document.relatedDocuments and @document.relatedDocuments.length: %>
+					<li class="divider"></li>
+					<li class="nav-header">Related Posts</li>
+					<% for post in @document.relatedDocuments: %>
+					<li><a href="<%= post.url %>"><%= post.title %></a></li>
+					<% end %>
+				<% end %>
+				</ul>
 			</div>
 		</div>
 	</div>
