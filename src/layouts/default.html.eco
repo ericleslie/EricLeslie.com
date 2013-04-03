@@ -47,12 +47,13 @@
 				<div class="span3"><h1>Eric<span style="color:blue">Leslie</span>.com</div>
 				<div class="span9">
 					<ul class="nav nav-pills pull-right">
-						<li class="active">
+						<li class="<%= 'active'  if @document.url.split('/')[1] is '' %>">
 							<a href="#">Home</a>
 						</li>
-						<li><a href="#">...</a></li>
+						<li class="<%= 'active'  if @document.url.split('/')[1] is 'blog' %>">
+							<a href="/blog/">Blog</a></li>
 						<li>
-							<form class="form-search" id="searchbox_016047566110296273829:WMX-469924523">
+							<form class="form-search" id="searchbox_016047566110296273829:WMX-469924523" action="/search/">
 								<input value="016047566110296273829:WMX-469924523" name="cx" type="hidden"/>
   								<input value="FORID:11" name="cof" type="hidden"/>
 								<div class="input-append">
@@ -73,7 +74,6 @@
 							    s.parentNode.insertBefore(gcse, s);
 							  })();
 							</script>
-
 						</li>
 					</ul>
 				</div>
@@ -100,12 +100,7 @@
 	</div>
 -->
 
-	<div class="container">
-		<row class="span9"><gcse:searchresults-only></gcse:searchresults-only></div>
-	</div>
-	
 	<section id="content" class="content">
-
 		<%- @content %>
 	</section>
 
