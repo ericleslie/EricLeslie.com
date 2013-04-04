@@ -44,14 +44,35 @@
 	<div class="row" id="header">
 		<div class="container">
 			<div class="row">
-				<div class="span3"><!--<h1>Eric<span style="color:blue">Leslie</span>.com--></div>
+				<div class="span3"><h1><a href="/" style="color:black">Eric<span style="color:#0088cc">Leslie</span>.com</a></div>
 				<div class="span9">
 					<ul class="nav nav-pills pull-right">
 						<li class="<%= 'active'  if @document.url.split('/')[1] is '' %>">
-							<a href="#">Home</a>
+							<a href="/">Home</a>
 						</li>
+						
 						<li class="<%= 'active'  if @document.url.split('/')[1] is 'blog' %>">
-							<a href="/blog/">Blog</a></li>
+							<a href="/blog/">Blog</a>
+						</li>
+						
+						<li class="dropdown <%= 'active'  if @document.url.split('/')[1] is 'wedding-photography' %>">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">People <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+						    	<li><a href="/wedding-photography"><i class="icon-camera"></i> Weddings</a></li>
+						    	<li><a href="/portrait-photography"><i class="icon-camera"></i> Portraits</a></li>
+						    </ul>
+						<li>
+						
+
+						<li class="dropdown <%= 'active'  if @document.url.split('/')[1] is 'about' %>">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+						    	<li><a href="/about/"><i class="icon-user"></i> Eric (<i class="icon-backward"></i> Me)</a></li>
+						    	<li><a href="/about/prints"><i class="icon-picture"></i> Fine Art-Prints</a></li>
+						    	<li><a href="/about/licensing"><i class="icon-shopping-cart"></i> Image Licensing</a></li>
+						    </ul>
+						<li>
+
 						<li>
 							<form class="form-search" id="searchbox_016047566110296273829:WMX-469924523" action="/search/">
 								<input value="016047566110296273829:WMX-469924523" name="cx" type="hidden"/>

@@ -1,0 +1,235 @@
+[1m[32minfo:[39m Welcome to DocPad v6.29.0[22m
+[1m[32minfo:[39m Plugins: cleanurls, coffeescript, eco, less, livereload, marked, partials, stylus, text[22m
+[1m[32minfo:[39m Environment: development[22m
+[1m[32minfo:[39m DocPad listening to http://localhost:9778/ on directory c:\node\ericleslie.com\out[22m
+[1m[32minfo:[39m LiveReload listening to new socket on channel /docpad-livereload with log level 1[22m
+[1m[32minfo:[39m Generating...[22m
+[1m[33mwarning:[39m Something went wrong while rendering: c:\node\ericleslie.com\src\layouts\blog-index.html.eco[22m
+[1m[33mwarning:[39m Something went wrong while rendering: c:\node\ericleslie.com\src\documents\blog\index.html.eco[22m
+[1m[31merror:[39m Something went wrong with the action[22m
+[1m[31merror:[39m An error occured: 
+TypeError: Cannot read property '0' of undefined
+    at Object.eval (eval at <anonymous> (c:\node\ericleslie.com\node_modules\docpad-plugin-eco\node_modules\eco\lib\compiler.js:19:12), <anonymous>:61:48)
+    at Object.eval (eval at <anonymous> (c:\node\ericleslie.com\node_modules\docpad-plugin-eco\node_modules\eco\lib\compiler.js:19:12), <anonymous>:81:8)
+    at eval (eval at <anonymous> (c:\node\ericleslie.com\node_modules\docpad-plugin-eco\node_modules\eco\lib\compiler.js:19:12), <anonymous>:83:6)
+    at Function.eco.render (c:\node\ericleslie.com\node_modules\docpad-plugin-eco\node_modules\eco\lib\index.js:26:25)
+    at EcoPlugin.render (c:\node\ericleslie.com\node_modules\docpad-plugin-eco\out\eco.plugin.js:22:35)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:36:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:50:9)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:783:18)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at DocPad.EventEmitterEnhanced.emitSerial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:53:52)
+    at DocPad.EventEmitterEnhanced.emitSync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:46:28)
+    at DocumentModel.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:1744:30)
+    at triggerEvents (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:205:57)
+    at DocumentModel.Backbone.Events.trigger (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:146:19)
+    at Object.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:369:21)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at _Class.serial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:295:10)
+    at _Class.sync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:291:17)
+    at DocumentModel.renderExtensions (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:385:11)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:490:21
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at _Class.serial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:295:10)
+    at _Class.sync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:291:17)
+    at DocumentModel.render (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:522:11)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:432:23
+    at DocumentModel.getLayout (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:276:14)
+    at DocumentModel.renderLayouts (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:426:17)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:513:21
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:507:18
+    at _Class.next (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:409:14)
+    at _Class.exit (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:174:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:130:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at c:\node\ericleslie.com\node_modules\docpad-plugin-text\out\text.plugin.js:131:18
+    at _Class.next (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\out\lib\html.js:65:14)
+    at _Class.exit (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:174:12)
+    at _Class.run (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:275:14)
+    at _Class.serial (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:295:10)
+    at _Class.sync (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:291:17)
+    at Object.balUtilHTML.replaceElementAsync (c:\node\ericleslie.com\node_modules\docpad-plugin-text\node_modules\bal-util\out\lib\html.js:87:11)
+    at TextPlugin.populateText (c:\node\ericleslie.com\node_modules\docpad-plugin-text\out\text.plugin.js:92:15)
+    at TextPlugin.renderDocument (c:\node\ericleslie.com\node_modules\docpad-plugin-text\out\text.plugin.js:122:19)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at _Class.next (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29)
+    at _Class.exit (c:\node\ericleslie.com\node_modules\docpad-plugin-partials\node_modules\taskgroup\out\lib\taskgroup.js:174:12)
+    at _Class.run (c:\node\ericleslie.com\node_modules\docpad-plugin-partials\node_modules\taskgroup\out\lib\taskgroup.js:275:14)
+    at _Class.parallel (c:\node\ericleslie.com\node_modules\docpad-plugin-partials\node_modules\taskgroup\out\lib\taskgroup.js:286:10)
+    at _Class.async (c:\node\ericleslie.com\node_modules\docpad-plugin-partials\node_modules\taskgroup\out\lib\taskgroup.js:282:17)
+    at PartialsPlugin.renderDocument (c:\node\ericleslie.com\node_modules\docpad-plugin-partials\out\partials.plugin.js:195:13)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:783:18)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at DocPad.EventEmitterEnhanced.emitSerial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:53:52)
+    at DocPad.EventEmitterEnhanced.emitSync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:46:28)
+    at DocumentModel.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:1750:30)
+    at triggerEvents (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:205:57)
+    at DocumentModel.Backbone.Events.trigger (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:146:19)
+    at DocumentModel.renderDocument (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:408:10)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:501:21
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:495:18
+    at _Class.next (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:350:14)
+    at _Class.exit (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:174:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:130:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at _Class.next (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:381:18)
+    at _Class.exit (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:174:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:130:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at StylusPlugin.render (c:\node\ericleslie.com\node_modules\docpad-plugin-stylus\out\stylus.plugin.js:45:16)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at MarkedPlugin.render (c:\node\ericleslie.com\node_modules\docpad-plugin-marked\out\marked.plugin.js:35:14)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at LessPlugin.render (c:\node\ericleslie.com\node_modules\docpad-plugin-less\out\less.plugin.js:70:16)
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:50:9)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at Object.ambi [as fireWithOptionalCallback] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:50:9)
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\plugin.js:84:26)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.complete (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:128:16)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:144:29
+    at DocPad.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:783:18)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:36:16
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at DocPad.EventEmitterEnhanced.emitSerial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:53:52)
+    at DocPad.EventEmitterEnhanced.emitSync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\out\lib\events.js:46:28)
+    at DocumentModel.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:1744:30)
+    at triggerEvents (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:205:57)
+    at DocumentModel.Backbone.Events.trigger (c:\Program Files\nodejs\node_modules\docpad\node_modules\backbone\backbone.js:146:19)
+    at Object.<anonymous> (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:369:21)
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at _Class.serial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:295:10)
+    at _Class.sync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:291:17)
+    at DocumentModel.renderExtensions (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:385:11)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:490:21
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at _Class.runTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:247:9)
+    at _Class.nextTask (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:216:12)
+    at _Class.run (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:266:16)
+    at _Class.serial (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:295:10)
+    at _Class.sync (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:291:17)
+    at DocumentModel.render (c:\Program Files\nodejs\node_modules\docpad\out\lib\models\document.js:522:11)
+    at renderFile (c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:2277:22)
+    at c:\Program Files\nodejs\node_modules\docpad\out\lib\docpad.js:2306:18
+    at ambi (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\ambi\out\lib\ambi.js:21:27)
+    at run [as _onTimeout] (c:\Program Files\nodejs\node_modules\docpad\node_modules\bal-util\node_modules\taskgroup\out\lib\taskgroup.js:242:16)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)[22m
