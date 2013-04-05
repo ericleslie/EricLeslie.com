@@ -4,7 +4,12 @@ layout: page-sidebar
 
 <article id="post" class="post">
 	<h1><%= @document.title %></h1>
-	<p><small><%= @document.date.toLocaleDateString() %> by <%= @document.author %></small></p>
+	<p><small><%= @document.date.toLocaleDateString() %> by <a href="mailto:<%- @document.email %>"><%= @document.author %></a></small></p>
+	<p>
+		Tags: <%- console.log(@document.meta) %>
+	
+
+	</p>
 	<div class="post-content"><%- @content %></div>
 </article>
 
