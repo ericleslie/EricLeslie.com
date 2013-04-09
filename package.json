@@ -38,7 +38,8 @@
     "docpad-plugin-partials": "~2.5.1",
     "docpad-plugin-stylus": "2.x",
     "docpad-plugin-text": "2.x",
-    "docpad-plugin-related": "~2.0.5"
+    "docpad-plugin-related": "~2.0.5",
+    "docpad-plugin-paged": "~2.1.4"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"

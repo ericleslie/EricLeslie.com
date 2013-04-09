@@ -2,6 +2,8 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
 
+	watchOptions: preferredMethods: ['watchFile','watch']
+
 	# =================================
 	# Template Data
 	# These are variables that will be accessible via our templates
