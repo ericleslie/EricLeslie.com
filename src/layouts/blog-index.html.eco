@@ -6,12 +6,8 @@ layout: page-sidebar
 <h2><a href="<%- post.url %>"><%- post.title %></a></h2>
 <p><small><%= post.date.toLocaleDateString() %> by <%= post.author %>	</small></p>
 <p><%- post.contentRenderedWithoutLayouts %></p>
+<br>
 <% end %>
-
-<p> Related docs: 
-<%- @document.relatedDocuments[0] %>
-</p>
-
 
 <footer>
 	<% if  @document.relatedDocuments and @document.relatedDocuments.length: %>
