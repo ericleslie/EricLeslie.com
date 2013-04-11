@@ -2,6 +2,14 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
 
+	plugins:
+	    feedr:
+	        feeds:
+	            twitter:
+	                url: "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=ericlesliephoto&count=2&include_entities=true&include_rts=true"
+
+            
+
 	watchOptions: preferredMethods: ['watchFile','watch']
 
 	# =================================
@@ -108,6 +116,9 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+
+
+
 }
 
 
