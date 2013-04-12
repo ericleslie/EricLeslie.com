@@ -1,0 +1,97 @@
+---
+layout: page
+---
+
+<div class="row">
+	<div class="span12">
+		<img src="/assets/gallery/<%=@document.image_filename%>-L.jpg">
+	</div>
+</div>
+
+<div class="row image">
+	<div class="span8">
+		<h2><%= @document.place %> <small><%= @document.name %></h2>
+		<%- @content %>
+
+		<% if @getEnvironment() isnt "development": %>
+		<!-- START: Livefyre Embed -->
+		<div id="livefyre-comments"></div>
+		<script type="text/javascript">
+		(function () {
+		    var articleId = fyre.conv.load.makeArticleId(null);
+		    fyre.conv.load({}, [{
+		        el: 'livefyre-comments',
+		        network: "livefyre.com",
+		        siteId: "297421",
+		        articleId: articleId,
+		        signed: false,
+		        collectionMeta: {
+		            articleId: articleId,
+		            url: fyre.conv.load.makeCollectionUrl(),
+		        }
+		    }], function() {});
+		}());
+		</script>
+		<!-- END: Livefyre Embed -->
+		<% end %>
+
+	</div>
+	<div class="span4">
+		<h4>Photo Details</h4>
+		<dl class="dl-horizontal">
+			<dt>Exposure</dt>
+			<dd><%= @document.exposure %> sec</dd>
+			<dt>Aperture</dt>
+			<dd><%= @document.aperture %></dd>
+			<dt>ISO</dt>
+			<dd><%= @document.iso %></dd>
+			<dt>Focal Length</dt>
+			<dd><%= @document.focal_length %></dd>
+			<dt>Camera</dt>
+			<dd><%= @document.camera %></dd>
+			<dt>Lens</dt>
+			<dd><%= @document.lens %></dd>
+			<dt>Uploaded</dt>
+			<dd><%= @document.date.toLocaleDateString() %></dd>
+		</dl>
+
+		<h4>Tags</h4>
+		<ul class="inline">
+		<% for tag in @document.tags: %>
+			<li><i class="icon-tag"></i> <%= tag %></li>
+		<% end %>
+		</ul>
+
+		<% if @document.lat and @getEnvironment() isnt "development": %>
+		<div id="google_map" style="width:100%; height:250px;"></div>
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC3YkhCTdVk8w51gGq2RvtybFEzLTisx0g&sensor=false"></script>
+		<script type="text/javascript">
+			(function() {
+				var latlng = new google.maps.LatLng(<%-@document.lat%>, <%-@document.lon%>);
+				var myOptions = {
+					zoom: 14,
+					center: latlng,
+					mapTypeId: google.maps.MapTypeId.SATELLITE
+				};
+				var map = new google.maps.Map(document.getElementById("google_map"), myOptions);
+				var marker = new google.maps.Marker({
+					position: latlng,
+					map: map,
+					title: "<?php echo $photo->title ?>"
+				});
+			}());
+		</script>
+		<% end %>
+
+		<% if @getEnvironment() isnt "development": %>
+		<div class="btn-group">
+			<button class="btn btn-primary">Get a Print</button>
+			<button class="btn">Download</button>
+			<button class="btn">Get Link</button>
+		</div>
+		<% end %>
+
+		<br>
+		<p></p>
+	</div>
+</div>

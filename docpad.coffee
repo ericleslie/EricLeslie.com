@@ -13,6 +13,16 @@ docpadConfig = {
 	watchOptions: preferredMethods: ['watchFile','watch']
 
 	# =================================
+	# Patterns to ignore
+	# Use this to expclude files/location from beging watched.
+	ignoreCommonPatterns: process.env.NODE_IGNORE_COMMON_PATTERNS ? ///
+		^(
+			gallery|
+
+		)$
+		///i
+
+	# =================================
 	# Template Data
 	# These are variables that will be accessible via our templates
 	# To access one of these within our templates, refer to the FAQ: https://github.com/bevry/docpad/wiki/FAQ
@@ -88,6 +98,10 @@ docpadConfig = {
 		posts: (database) ->
 			database.findAllLive({post: $has: true}, [date:-1])
 
+		# This one, will fetch in all documents that have the tag "post" specified in their meta data
+		images: (database) ->
+			database.findAllLive({image: $has: true}, [date:-1])
+
 
 	# =================================
 	# DocPad Events
@@ -117,7 +131,18 @@ docpadConfig = {
 				else
 					next()
 
+	# =================================
+    # Environment Configuration
 
+    # Locale Code
+    # The code we shall use for our locale (e.g. `en`, `fr`, etc)
+    # If not set, we will attempt to detect the system's locale, if the locale can't be detected or if our locale file is not found for it, we will revert to `en`
+    localeCode: null  # default
+
+    # Environment
+    # Which environment we should load up
+    # If not set, we will default the `NODE_ENV` environment variable, if that isn't set, we will default to `development`
+    env: production  # default: null
 
 }
 

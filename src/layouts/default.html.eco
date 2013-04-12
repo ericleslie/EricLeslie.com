@@ -74,6 +74,10 @@
 						    </ul>
 						<li>
 
+						<li class="<%= 'active'  if @document.url.split('/')[1] is 'image' or @document.url.split('/')[1] is 'images' %>">
+							<a href="/images/">Fine-art</a>
+						</li>
+
 						<li>
 							<form class="form-search" id="searchbox_016047566110296273829:WMX-469924523" action="/search/">
 								<input value="016047566110296273829:WMX-469924523" name="cx" type="hidden"/>
@@ -107,30 +111,7 @@
 		<%- @content %>
 	</section>
 
-	<% if @getEnvironment() isnt "development": %>
-
-	<!-- START: Livefyre Embed -->
-	<div id="livefyre-comments"></div>
-	<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
-	<script type="text/javascript">
-	(function () {
-	    var articleId = fyre.conv.load.makeArticleId(null);
-	    fyre.conv.load({}, [{
-	        el: 'livefyre-comments',
-	        network: "livefyre.com",
-	        siteId: "297421",
-	        articleId: articleId,
-	        signed: false,
-	        collectionMeta: {
-	            articleId: articleId,
-	            url: fyre.conv.load.makeCollectionUrl(),
-	        }
-	    }], function() {});
-	}());
-	</script>
-	<!-- END: Livefyre Embed -->
-
-	<% end %>
+	
 
 	<div id="footer">
 		<div class="container">
@@ -165,6 +146,6 @@
 	</div><!-- /footer -->
 
 	<!-- Scripts -->
-	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js","http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"]).toHTML() %>
 </body>
 </html>
