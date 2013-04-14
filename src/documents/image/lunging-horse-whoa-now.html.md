@@ -6,6 +6,7 @@ name: Whoa Now!
 smug_key: 'QJ77tNC'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454838331&ImageKey=QJ77tNC&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454838331&k=QJ77tNC&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454838331_QJ77tNC/
 size: XL
 tags: ['Horse', 'HDR', 'Lunging', 'California']
 alt: 'Quarter horse being lunged in a circle'

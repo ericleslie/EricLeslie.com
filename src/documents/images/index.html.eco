@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Fine-art Images
+description: Fine art image archive
+keywords: fine art, images, photos, archive, exif
 isPaged: true
 pageOrder: 0
 pagedCollection: 'images'
-pageSize: 20
+pageSize: 15
 ---
 
 <% images = @getCollection('images') %>

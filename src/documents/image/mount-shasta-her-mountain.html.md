@@ -6,6 +6,7 @@ name: Her Mountain
 smug_key: 'bSfxKhm'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454836914&ImageKey=bSfxKhm&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454836914&k=bSfxKhm&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454836914_bSfxKhm/
 size: XL
 tags: ['Mount Shasta', 'Mountain', 'Peak', 'Alpenglow', 'California']
 alt: 'Mount Shasta covered in alpenglow'

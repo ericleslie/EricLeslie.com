@@ -6,6 +6,7 @@ name: Spring Fling
 smug_key: 'WZTfc69'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454837468&ImageKey=WZTfc69&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454837468&k=WZTfc69&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454837468_WZTfc69/
 size: XL
 tags: ['Quater Horse', 'Equine', 'Horse', 'Spring', 'Red Bluff', 'California']
 alt: 'Quarter horse grazing in the spring time.'

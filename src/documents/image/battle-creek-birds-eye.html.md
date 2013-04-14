@@ -6,6 +6,7 @@ name: Birds Eye
 smug_key: '8d8dgsQ'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454837924&ImageKey=8d8dgsQ&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454837924&k=8d8dgsQ&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454837924_8d8dgsQ/
 size: XL
 tags: ['Battle Creek', 'Landscape', 'Creek', 'Mineral', 'California']
 alt: 'Quarter horse grazing in the spring time.'

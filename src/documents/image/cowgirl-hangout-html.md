@@ -6,6 +6,7 @@ name: Golden Lines
 smug_key: 'ZbcmfjM'
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454833962&k=ZbcmfjM&lb=1&s=A
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454833962&ImageKey=ZbcmfjM&how=forum&Page=1
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454833962_ZbcmfjM/
 size: XL
 tags: ['Cowgirl', 'Etna', 'California', 'Western', 'Horse']
 alt: 'Cowgirl hanging out on horseback'

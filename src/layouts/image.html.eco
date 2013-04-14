@@ -85,7 +85,7 @@ layout: page
 
 		<% if @getEnvironment() is "development": %>
 		<div class="btn-group">
-			<a href="<%-@document.lightbox %>" class="btn btn-primary" target="_blank">Get a Print</a>
+			<a href="<%-@document.buy %>" class="btn btn-primary" target="_blank">Get a Print</a>
 			<a href="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/O/<%=@document.noun.replace(" ", "-") %>.jpg" class="btn">Download</a>
 			<a href="<%-@document.links %>" class="btn" target="_blank">Get Links</a>
 		</div>

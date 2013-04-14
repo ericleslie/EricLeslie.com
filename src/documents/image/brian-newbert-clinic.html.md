@@ -5,6 +5,7 @@ noun: Etna Arena
 name: Brian Newbert Demo
 smug_key: KGPD92N
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454832864&k=KGPD92N&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454832864_KGPD92N/
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454832864&ImageKey=KGPD92N&how=forum&Page=1
 size: X2
 tags: ['Equine', 'Etna', 'California', 'Rodeo', 'Clinic']

@@ -6,6 +6,7 @@ name: Forgotten
 smug_key: Wpz6vKG
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454839506&ImageKey=Wpz6vKG&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454839506&k=Wpz6vKG&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454839506_Wpz6vKG/
 size: XL
 tags: ['Telephone Pole', 'Rain', 'DoF', 'Dew']
 alt: 'Rain drops on a telephone pole'

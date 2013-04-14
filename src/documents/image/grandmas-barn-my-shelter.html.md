@@ -6,6 +6,7 @@ name: Invitation
 smug_key: 'kJvnBTW'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454835772&ImageKey=kJvnBTW&how=forum&Page=1
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454835772&k=kJvnBTW&lb=1&s=A
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454835772_kJvnBTW/
 size: XL
 tags: ['Barn', 'Western', 'Black & White', 'California']
 alt: 'Grandmas old horse barn under a stormy sky'
