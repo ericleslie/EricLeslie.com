@@ -36,6 +36,8 @@
 
 	<!-- Styles -->
 	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -157,6 +159,6 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js","http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js","http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js", "/vendor/modernizr.js","/vendor/jquery.masonry.min.js"]).toHTML() %>
 </body>
 </html>

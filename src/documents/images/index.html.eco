@@ -4,16 +4,16 @@ title: Fine-art Images
 isPaged: true
 pageOrder: 0
 pagedCollection: 'images'
-pageSize: 8
+pageSize: 20
 ---
 
 <% images = @getCollection('images') %>
 
-<ul class="thumbnails">
+<ul class="thumbnails" id="images">
 <% for i in [@document.page.startIdx...@document.page.endIdx]: %>
     <% image = images.at(i).toJSON() %>
-    <li class="span6">
-    	<a href="<%-image.url %>" class="thumbnail"><img src="/assets/gallery/<%-image.image_filename %>-S.jpg"></a>
+    <li class="span3 item">
+    	<a href="<%-image.url %>" class="thumbnail"><img src="http://www.lesliephotos.com/i-<%=image.smug_key%>/9/M/<%=image.noun.replace(" ", "-") %>.jpg" alt="<%=image.alt%>"></a>
     </li>
 <% end %>
 </ul>
@@ -30,4 +30,43 @@ pageSize: 8
 <% else: %>
     <li class="next"><a href="<%= @getDocument().getNextPage() %>">Newer &rarr;</a></li>
 <% end %>
-</ul> 
+</ul>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+	var $container = $('ul.thumbnails');
+
+	$container.imagesLoaded( function(){
+		$container.masonry({
+			itemSelector : '.item',
+			isAnimated: !Modernizr.csstransitions,
+			columnWidth: function( containerWidth ) {
+				// do nothing for browsers with no media query support
+				// .container will always be 940px
+				if($(".container").width() == 940) {
+					return 240;
+				}	
+
+				var width = $(window).width();
+				var col = 300;
+
+				if(width < 1200 && width >= 980) {
+					col = 240;
+				}
+				else if(width < 980 && width >= 768) {
+					col = 186;
+				}
+
+				return col;
+
+			}
+			
+		});
+	});
+
+})
+
+
+	
+</script>

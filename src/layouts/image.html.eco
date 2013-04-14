@@ -3,14 +3,14 @@ layout: page
 ---
 
 <div class="row">
-	<div class="span12">
-		<img src="http://www.lesliephotos.com/i-<%=@document.image_filename%>/9/L/image.jpg">
+	<div class="span12 text-center">
+		<img src="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg" class="img-rounded" alt="<%=@document.alt%>">
 	</div>
 </div>
 
 <div class="row image">
 	<div class="span8">
-		<h2><%= @document.place %> <small><%= @document.name %></h2>
+		<h2><%= @document.noun %> <small><%= @document.name %></h2>
 		<%- @content %>
 
 		<% if @getEnvironment() isnt "development": %>
@@ -40,13 +40,13 @@ layout: page
 		<h4>Photo Details</h4>
 		<dl class="dl-horizontal">
 			<dt>Exposure</dt>
-			<dd><%= @document.exposure %> sec</dd>
+			<dd><%= @document.exposure %>sec</dd>
 			<dt>Aperture</dt>
-			<dd><%= @document.aperture %></dd>
+			<dd>f/<%= @document.aperture %></dd>
 			<dt>ISO</dt>
 			<dd><%= @document.iso %></dd>
 			<dt>Focal Length</dt>
-			<dd><%= @document.focal_length %></dd>
+			<dd><%= @document.focal_length %>mm</dd>
 			<dt>Camera</dt>
 			<dd><%= @document.camera %></dd>
 			<dt>Lens</dt>
@@ -83,11 +83,11 @@ layout: page
 		</script>
 		<% end %>
 
-		<% if @getEnvironment() isnt "development": %>
+		<% if @getEnvironment() is "development": %>
 		<div class="btn-group">
-			<button class="btn btn-primary">Get a Print</button>
-			<button class="btn">Download</button>
-			<button class="btn">Get Link</button>
+			<a href="<%-@document.lightbox %>" class="btn btn-primary" target="_blank">Get a Print</a>
+			<a href="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/O/<%=@document.noun.replace(" ", "-") %>.jpg" class="btn">Download</a>
+			<a href="<%-@document.links %>" class="btn" target="_blank">Get Links</a>
 		</div>
 		<% end %>
 
