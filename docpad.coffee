@@ -144,6 +144,28 @@ docpadConfig = {
     # If not set, we will default the `NODE_ENV` environment variable, if that isn't set, we will default to `development`
     env: production  # default: null
 
+    # Environments
+    # Allows us to set custom configuration for specific environments
+    environments:  # default
+        development:  # default
+            # Always refresh from server
+            maxAge: false  # default
+
+            # Only do these if we are running standalone via the `docpad` executable
+            checkVersion: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+            welcome: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+            prompts: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+
+            # Listen to port 9005 on the development environment
+            port: 9005  # example
+
+        production:  # default
+            # Always refresh from server
+            maxAge: false  # default
+
+            # Listen to port 9005 on the development environment
+            port: 80  # example
+
 }
 
 

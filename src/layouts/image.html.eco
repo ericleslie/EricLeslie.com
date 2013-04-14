@@ -4,7 +4,7 @@ layout: page
 
 <div class="row">
 	<div class="span12">
-		<img src="/assets/gallery/<%=@document.image_filename%>-L.jpg">
+		<img src="http://www.lesliephotos.com/i-<%=@document.image_filename%>/9/L/image.jpg">
 	</div>
 </div>
 

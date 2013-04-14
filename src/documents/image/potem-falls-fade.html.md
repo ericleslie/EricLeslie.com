@@ -1,9 +1,9 @@
 ---
-title: Potem Falls - Fade
+title: Sundial Bridge - Golden Lines
 date: 2012-1-1
-place: Nerds on Call
-name: Fade
-image_filename: '(Potem-Falls)-Fade'
+place: Sundial Bridge
+name: Golden Lines
+smug_name: 'qMQXFdv'
 tags: ['waterfall', 'Montgomery Creek', 'Potem Falls', 'landscape', 'California']
 alt: 
 exposure: 2
