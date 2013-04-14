@@ -142,7 +142,7 @@ docpadConfig = {
     # Environment
     # Which environment we should load up
     # If not set, we will default the `NODE_ENV` environment variable, if that isn't set, we will default to `development`
-    env: production  # default: null
+    env: null  # default: null
 
     # Environments
     # Allows us to set custom configuration for specific environments
