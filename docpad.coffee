@@ -15,7 +15,7 @@ docpadConfig = {
 
             
 
-	watchOptions: preferredMethods: ['watchFile','watch']
+	#watchOptions: preferredMethods: ['watchFile','watch']
 
 	# =================================
 	# Patterns to ignore

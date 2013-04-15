@@ -11,7 +11,7 @@
 	</author>
 
 	<% for document,i in @getCollection('posts').toJSON(): %>
-		<% break  if i > 10 %>
+		<% break  if i > 7 %>
 		<entry>
 			<title><%= document.title %></title>
 			<link href="<%= @site.url+document.url %>"/>

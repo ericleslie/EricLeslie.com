@@ -24,7 +24,7 @@ date: 2013-4-15
 	</li>
 	<li>
 		<strong><a href="https://plus.google.com/u/0/s/%23BathroomSelfie/posts" target="_blank">#BathroomSelfie</a>:</strong> Share creative and fun self portraits (selfies) taken in a bathroom. <br />
-		<a href="https://plus.google.com/102476152658204495450" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102476152658204495450?sz=50" title="Kelly-Shane Fuller"></a>
+		<a href="https://plus.google.com/102476152658204495450" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102476152658204495450?sz=50" title="Lotus Carroll"></a>
 	</li>
 	<li>
 		<strong><a href="https://plus.google.com/s/%23critiquepls/posts" target="_blank">#CrtiquePls</a>:</strong> Do you want to get serious constructive criticism on a photograph you've been working on? Simply use the tag <strong><em><a href="https://plus.google.com/s/%23critiquepls/posts" target="_blank">#CritiquePls</a></em></strong> in your post and share the photo publicly. That way people who see the tag will be free to share their thoughts knowing they won't hurt your feelings. Please keep the comments civil and professional. For more information read <a href="https://plus.google.com/u/0/117697399358826098478">Karin Nelson's</a> post found <a href="https://plus.google.com/u/0/117697399358826098478/posts/bwJX2ETpyAW" target="_blank">here</a>.</p>
@@ -264,150 +264,149 @@ date: 2013-4-15
 <ul class="gplus-themes">
 	<li>
 		<strong>My Town Tuesday</strong>: Share a photo taken locally. No wider than your county. Use <em><a href="https://plus.google.com/s/%23MyTownTuesday/posts" target="_blank">#MyTownTuesday</a></em> tag in your post. G+ Page: +<a href="https://plus.google.com/100503825046812729376" target="_blank">My Town Tuesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/114127684466692817416', Html::image('https://profiles.google.com/s2/photos/profile/114127684466692817416?sz=40', array('title'=>'Melanie Kintz', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/116042504805817667580', Html::image('https://profiles.google.com/s2/photos/profile/116042504805817667580?sz=40', array('title'=>'Jame Furlong', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/114127684466692817416" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114127684466692817416?sz=50" title="Melanie Kintz"></a>
+		<a href="https://plus.google.com/116042504805817667580" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116042504805817667580?sz=50" title="Jame Furlong"></a>
 	</li>
 	<li>
 		<strong>Tree Tuesday</strong>: Share a photo where a tree is the subject. Use <em><a href="https://plus.google.com/s/%23TreeTuesday/posts" target="_blank">#TreeTuesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/113847951893881070422', Html::image('https://profiles.google.com/s2/photos/profile/113847951893881070422?sz=40', array('title'=>'Christina Lawrie', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/117614470593378431513', Html::image('https://profiles.google.com/s2/photos/profile/117614470593378431513?sz=40', array('title'=>'Shannon S. Myers', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/113847951893881070422" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113847951893881070422?sz=50" title="Christina Lawrie"></a>
+		<a href="https://plus.google.com/117614470593378431513" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117614470593378431513?sz=50" title="Shannon S. Myers"></a>
 	</li>
 	<li> 
 		<strong>Tone-map HDR Tuesday</strong>: Share a photo that is processed as an HDR. Use <em><a href="https://plus.google.com/s/%23TonemapHDRTuesday/posts" target="_blank">#TonemapHDRTuesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/116351092074076481313', Html::image('https://profiles.google.com/s2/photos/profile/116351092074076481313?sz=40', array('title'=>'Drew Pion', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/109533441517984298838', Html::image('https://profiles.google.com/s2/photos/profile/109533441517984298838?sz=40', array('title'=>'Stephanie Suratos', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/116351092074076481313" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116351092074076481313?sz=50" title="Drew Pion"></a>
+		<a href="https://plus.google.com/109533441517984298838" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109533441517984298838?sz=50" title="Stephanie Suratos"></a>
 	</li>
 	<li>
 		<strong>Tuesday Decay:</strong> Share a photo centered around abandoned or forgotten architecture, engineering, infrastructure, etc. Use <em><a href="https://plus.google.com/s/%23TuesDecay/posts" target="_blank">#TuesDecay</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/111433926516886244464', Html::image('https://profiles.google.com/s2/photos/profile/111433926516886244464?sz=40', array('title'=>'Ian Ference', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111433926516886244464" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111433926516886244464?sz=50" title="Ian Ference"></a>
 	</li>
 	<li>
 		<strong>Today Tuesday</strong>: Share a photo that was taken TODAY. Use <em><a href="https://plus.google.com/s/%23TodayTuesday/posts" target="_blank">#TodayTuesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107188281763279197751', Html::image('https://profiles.google.com/s2/photos/profile/107188281763279197751?sz=40', array('title'=>'Brian White', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107188281763279197751" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107188281763279197751?sz=50" title="Brian White"></a>
 	</li>
 	<li>
 		<strong>Portrait Tuesday</strong>: Share any form of portraiture using natural and stobist light sources. Use <em><a href="https://plus.google.com/s/%23PortraitTuesday/posts" target="_blank">#PortraitTuesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/100081010984768669358', Html::image('https://profiles.google.com/s2/photos/profile/100081010984768669358?sz=40', array('title'=>'Laura Balc', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/100081010984768669358" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100081010984768669358?sz=50" title="Laura Balc"></a>
 	</li>
 	<li>
 		<strong>Toy Tuesday</strong>: Share a photo with a toy as the subject. Use <a href="https://plus.google.com/s/%23ToyTuesday/posts" target="_blank">#<em>ToyTuesday</em></a> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107902791674095682080', Html::image('https://profiles.google.com/s2/photos/profile/107902791674095682080?sz=40', array('title'=>'Lars Pixel Clausen', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107902791674095682080" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107902791674095682080?sz=50" title="Lars Pixel Clausen"></a>
 	</li>
 	<li>
 		<strong>Archi-Texture Tuesday</strong> Share a photo where architecture is the subject, with an emphasis on finding the right balance in the structure's texture. Use <em><a href="https://plus.google.com/s/%23ArchitextureTuesday/posts" target="_blank">#ArchiTextureTuesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/104900819062422452874', Html::image('https://profiles.google.com/s2/photos/profile/104900819062422452874?sz=40', array('title'=>'Ranjan Saraswati', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104900819062422452874" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104900819062422452874?sz=50" title="Ranjan Saraswati"></a>
 	</li>
 	<li>
 		<strong>Transport Tuesday: </strong>Share a photo that features all forms of transportation except 4-wheeled ones. Tag <em><a href="https://plus.google.com/s/%23TransportTuesday/posts" target="_blank">#TransportTuesday</a></em>. <a href="https://plus.google.com/108674867211728423383" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/111112809838472063992', Html::image('https://profiles.google.com/s2/photos/profile/111112809838472063992?sz=40', array('title'=>'Gene Bowker', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/113635217936692280136', Html::image('https://profiles.google.com/s2/photos/profile/113635217936692280136?sz=40', array('title'=>'Joe Paul', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/111764754316869949519', Html::image('https://profiles.google.com/s2/photos/profile/111764754316869949519?sz=40', array('title'=>'Steve Boyko', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/108258998494605140446', Html::image('https://profiles.google.com/s2/photos/profile/108258998494605140446?sz=40', array('title'=>'Michael Earley', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111112809838472063992" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111112809838472063992?sz=50" title="Gene Bowker"></a>
+		<a href="https://plus.google.com/113635217936692280136" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113635217936692280136?sz=50" title="Joe Paul"></a>
+		<a href="https://plus.google.com/111764754316869949519" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111764754316869949519?sz=50" title="Steve Boyko"></a>
+		<a href="https://plus.google.com/108258998494605140446" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108258998494605140446?sz=50" title="Michael Earley"></a>
 	</li>
 	<li>
 		<strong>Equine Tuesday: </strong>Share a photo featuring a horse. Tag <em><a href="https://plus.google.com/s/%23EquineTuesday/posts" target="_blank">#EquineTuesday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/115451993522621024283', Html::image('https://profiles.google.com/s2/photos/profile/115451993522621024283?sz=40', array('title'=>'Jillian Chilson', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/115451993522621024283" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115451993522621024283?sz=50" title="Jillian Chilson"></a>
 	</li>
 	<li>
 		<strong>Sea Tuesday: </strong>Share a photo of the sea or anything related to it. Tag <em><a href="https://plus.google.com/s/%23SeaTuesday/posts" target="_blank">#SeaTuesday</a></em> <a href="https://plus.google.com/106896393822919339856" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/117455365995643899222', Html::image('https://profiles.google.com/s2/photos/profile/117455365995643899222?sz=40', array('title'=>'Julia Anna Gospodarou', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/117455365995643899222" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117455365995643899222?sz=50" title="Julia Anna Gospodarou"></a>
 	</li>
 	<li>
 		<strong>Two Times Tuesday: </strong>Share a 2 photos that depict the before and after processing. Tag <em><a href="https://plus.google.com/s/%23TwoTimesTuesday/posts" target="_blank">#TwoTimesTuesday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/111697857700553321716', Html::image('https://profiles.google.com/s2/photos/profile/111697857700553321716?sz=40', array('title'=>'Robert McMillan', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111697857700553321716" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111697857700553321716?sz=50" title="Robert McMillan"></a>
 	</li>
 	<li>
 		<strong>Candid Mood Tuesday: </strong>Process a candid shot in any way to enhance the mood! Tag <em><a href="https://plus.google.com/s/%23CandidMoodTuesday/posts" target="_blank">#CandidMoodTuesday</a></em>. <a href="https://plus.google.com/102354689923051410133" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/104268432506616866039', Html::image('https://profiles.google.com/s2/photos/profile/104268432506616866039?sz=40', array('title'=>'Alexius Jørgensen', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104268432506616866039" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104268432506616866039?sz=50" title="Alexius Jørgensen"></a>
 	</li>
 	<li>
 		<strong>Vintage Camera Tuesday: </strong>Share a photo taken of a vintage camera. Tag <em><a href="https://plus.google.com/s/%23VintageCameraTuesday/posts" target="_blank">#VintageCameraTuesday</a></em> and G+ Page <a href="https://plus.google.com/110876596771939601831" target="_blank">+Vintage Camera Tuesday</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/108689150211316471049', Html::image('https://profiles.google.com/s2/photos/profile/108689150211316471049?sz=40', array('title'=>'Gerhard Müller', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/102714909528236560408', Html::image('https://profiles.google.com/s2/photos/profile/102714909528236560408?sz=40', array('title'=>'Manfred Berndtgen', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/108689150211316471049" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108689150211316471049?sz=50" title="Gerhard Müller"></a>
+		<a href="https://plus.google.com/102714909528236560408" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102714909528236560408?sz=50" title="Manfred Berndtgen"></a>
 	</li>
 	<li>
 		<strong>African Tuesday: </strong>Share an image that embodies any aspect of Africa: wildlife, landscapes, travel, documentary, rural, urban, culture or social issues. Tag <em><a href="https://plus.google.com/u/0/s/%23AfricanTuesday" target="_blank">#AfricanTuesday</a></em>. <a href="https://plus.google.com/115497426044801128880" target="_blank">+African Tuesday</a> G+ Page. <br />
-		<?php echo Html::anchor('https://plus.google.com/115370996311184482015', Html::image('https://profiles.google.com/s2/photos/profile/115370996311184482015?sz=40', array('title'=>'Morkel Erasmus', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/108082814806291478395', Html::image('https://profiles.google.com/s2/photos/profile/108082814806291478395?sz=40', array('title'=>'Dick Whitlock', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/114489931902706901983', Html::image('https://profiles.google.com/s2/photos/profile/114489931902706901983?sz=40', array('title'=>'Grobler du Preez', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/115370996311184482015" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115370996311184482015?sz=50" title="Morkel Erasmus"></a>
+		<a href="https://plus.google.com/108082814806291478395" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108082814806291478395?sz=50" title="Dick Whitlock"></a>
+		<a href="https://plus.google.com/114489931902706901983" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114489931902706901983?sz=50" title="Grobler du Preez"></a>
 	</li>
 </ul>
 <h2>Wednesday</h2>
 <ul class="gplus-themes">
 	<li>
 		<strong>Waterfall Wednesday:</strong> Share your best waterfall shot, big or small. Every week I try to list the best shots and showcase them here on my blog. Tag your post with <em><a href="https://plus.google.com/s/%23WaterfallWednesday/posts" target="_blank">#WaterfallWednesday</a></em><br />
-		<?php echo Html::anchor('https://plus.google.com/103216887847401478447', Html::image('https://profiles.google.com/s2/photos/profile/103216887847401478447?sz=40', array('title'=>'Eric Leslie (me)', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/117444429786943831860', Html::image('https://profiles.google.com/s2/photos/profile/117444429786943831860?sz=40', array('title'=>'Leon Turnbull', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-
+		<a href="https://plus.google.com/103216887847401478447" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103216887847401478447?sz=50" title="Eric Leslie (me)"></a>
+		<a href="https://plus.google.com/117444429786943831860" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117444429786943831860?sz=50" title="Leon Turnbull"></a>
 	</li>
 		<li><strong>Wildlife Wednesday:</strong> Share a photo with wild animals in their natural setting. Use <em><a href="https://plus.google.com/s/%23WildlifeWednesday/posts" target="_blank">#WildlifeWednesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/116043947632177598920', Html::image('https://profiles.google.com/s2/photos/profile/116043947632177598920?sz=40', array('title'=>'Mike Spinak', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/115370996311184482015', Html::image('https://profiles.google.com/s2/photos/profile/115370996311184482015?sz=40', array('title'=>'Morkel Erasmus', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+			<a href="https://plus.google.com/116043947632177598920" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116043947632177598920?sz=50" title="Mike Spinak"></a>
+			<a href="https://plus.google.com/115370996311184482015" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115370996311184482015?sz=50" title="Morkel Erasmus"></a>
 	</li>
 	<li>
 		<strong>We Love Music Wednesday:</strong> Share a photo where music/concerts are the subject. Use <em><a href="https://plus.google.com/s/%23WeLoveMusicWednesday/posts" target="_blank">#WeLoveMusicWednesday</a></em> tag in your posts. <br />
-		<?php echo Html::anchor('https://plus.google.com/104316443417435189825', Html::image('https://profiles.google.com/s2/photos/profile/104316443417435189825?sz=40', array('title'=>'Folletto Folletto', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/111747381273060022672', Html::image('https://profiles.google.com/s2/photos/profile/111747381273060022672?sz=40', array('title'=>'Harmony Goodson', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104316443417435189825" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104316443417435189825?sz=50" title="Folletto Folletto"></a>
+		<a href="https://plus.google.com/111747381273060022672" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111747381273060022672?sz=50" title="Harmony Goodson"></a>
 	</li>
 
 	<li>
 		<strong>Whatever Wednesday: </strong>Share images that make you laugh, surprise you or made you say “What in the world?". Use <em><a href="https://plus.google.com/s/%23WhateverWednesday/posts" target="_blank">#WhateverWednesda</a>y</em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/114153794734652455699', Html::image('https://profiles.google.com/s2/photos/profile/114153794734652455699?sz=40', array('title'=>'Cicely Robin Laing', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/114153794734652455699" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114153794734652455699?sz=50" title="Cicely Robin Laing"></a>
 	</li>
 	<li>
 		<strong>Women Wednesday:</strong> Share a photo that expresses the power and beauty of women. Use <em><a href="https://plus.google.com/s/%23WomenWednesday/posts" target="_blank">#WomenWednesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/109549749746353031555', Html::image('https://profiles.google.com/s2/photos/profile/109549749746353031555?sz=40', array('title'=>'Niki Aguirre', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/110258598415939907971', Html::image('https://profiles.google.com/s2/photos/profile/110258598415939907971?sz=40', array('title'=>'Athena Carey', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/104112700502285331526', Html::image('https://profiles.google.com/s2/photos/profile/104112700502285331526?sz=40', array('title'=>'Lee Daniels', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/113847951893881070422', Html::image('https://profiles.google.com/s2/photos/profile/113847951893881070422?sz=40', array('title'=>'Christina Lawrie', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/109549749746353031555" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109549749746353031555?sz=50" title="Niki Aguirre"></a>
+		<a href="https://plus.google.com/110258598415939907971" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/110258598415939907971?sz=50" title="Athena Carey"></a>
+		<a href="https://plus.google.com/104112700502285331526" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104112700502285331526?sz=50" title="Lee Daniels"></a>
+		<a href="https://plus.google.com/113847951893881070422" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113847951893881070422?sz=50" title="Christina Lawrie"></a>
 	</li>
 	<li>
 		<strong>One Prime Wednesday:</strong> Go out shooting restricting yourself to shooting with a single prime lens. 	Use <em><a href="https://plus.google.com/s/%23OnePrimeWednesday/posts" target="_blank">#OnePrimeWednesday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/109220060006128553211', Html::image('https://profiles.google.com/s2/photos/profile/109220060006128553211?sz=40', array('title'=>'Alfie Goodrich', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/109220060006128553211" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109220060006128553211?sz=50" title="Alfie Goodrich"></a>
 	</li>
 	<li>
 		<strong>Wide Wednesday Panoramas: </strong> Panoramas wide and tall, images cropped to a 2:1 aspect ratio or multiple frames stitched together. Tag <em><a href="https://plus.google.com/s/%23WideWednesdayPanorama/posts" target="_blank">#WideWednesdayPanorama</a></em> and G+ Page <a href="https://plus.google.com/117616575944208120950" target="_blank">+WideWednesdayPanorama</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/105844690378470320253', Html::image('https://profiles.google.com/s2/photos/profile/105844690378470320253?sz=40', array('title'=>'Ken McMahon', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/103330025858600351508', Html::image('https://profiles.google.com/s2/photos/profile/103330025858600351508?sz=40', array('title'=>'Lucille Galleli', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105844690378470320253" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105844690378470320253?sz=50" title="Ken McMahon"></a>
+		<a href="https://plus.google.com/103330025858600351508" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103330025858600351508?sz=50" title="Lucille Galleli"></a>
 	</li>
 	<li>
 		<strong>Light Writing Wednesday:</strong>  Share images with lightwriting and lightpainting. Tag <a href="https://plus.google.com/s/%23LightwritingWednesday" target="_blank">#LightwritingWednesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/105040001333571511595', Html::image('https://profiles.google.com/s2/photos/profile/105040001333571511595?sz=40', array('title'=>'Rznag Rmrod', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/108492526126263806887', Html::image('https://profiles.google.com/s2/photos/profile/108492526126263806887?sz=40', array('title'=>'Michael Sutton', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105040001333571511595" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105040001333571511595?sz=50" title="Rznag Rmrod"></a>
+		<a href="https://plus.google.com/108492526126263806887" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108492526126263806887?sz=50" title="Michael Sutton"></a>
 	</li>
 	<li>
 		<strong>Window Wednesday:</strong> Share a photograph taken through a window either from work, or home. Any window, window frame or interesting windows such as stain glass. Tag the image using by mentioning the Theme page <a href="https://plus.google.com/u/0/105326007029711200898" target="_blank">#Window Wednesday</a> in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/112180555080313027108', Html::image('https://profiles.google.com/s2/photos/profile/112180555080313027108?sz=40', array('title'=>'Simon Kitcher', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/100519245975462538531', Html::image('https://profiles.google.com/s2/photos/profile/100519245975462538531?sz=40', array('title'=>'Jules Hunter', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/106488284533523054088', Html::image('https://profiles.google.com/s2/photos/profile/106488284533523054088?sz=40', array('title'=>'Jason Kowing', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/117490971939325943142', Html::image('https://profiles.google.com/s2/photos/profile/117490971939325943142?sz=40', array('title'=>'Martin OBER', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/118333009720408143699', Html::image('https://profiles.google.com/s2/photos/profile/118333009720408143699?sz=40', array('title'=>'Cheryl Cooper', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/112180555080313027108" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112180555080313027108?sz=50" title="Simon Kitcher"></a>
+		<a href="https://plus.google.com/100519245975462538531" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100519245975462538531?sz=50" title="Jules Hunter"></a>
+		<a href="https://plus.google.com/106488284533523054088" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106488284533523054088?sz=50" title="Jason Kowing"></a>
+		<a href="https://plus.google.com/117490971939325943142" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117490971939325943142?sz=50" title="Martin OBER"></a>
+		<a href="https://plus.google.com/118333009720408143699" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/118333009720408143699?sz=50" title="Cheryl Cooper"></a>
 	</li>
 	<li>
 		<strong>Love Wednesday:</strong> Share a photo that expresses love. Tag <a href="https://plus.google.com/s/%23LoveWednesday" target="_blank">#LoveWednesday</a>. <a href="https://plus.google.com/116790648150853635328" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/100593696770419986561', Html::image('https://profiles.google.com/s2/photos/profile/100593696770419986561?sz=40', array('title'=>'Pierluigi Failla', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/100593696770419986561" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100593696770419986561?sz=50" title="Pierluigi Failla"></a>
 	</li>
 	<li>
 		<strong>Where Am I Wednesday:</strong> Share a photo of any place and have people try to guess where it is. Tag <a href="https://plus.google.com/s/%23WhereWednesday" target="_blank">#WhereWednesday</a> <a href="https://plus.google.com/u/0/116233371580205766392" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/113333199156559050845', Html::image('https://profiles.google.com/s2/photos/profile/113333199156559050845?sz=40', array('title'=>'Todd Williams', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/113333199156559050845" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113333199156559050845?sz=50" title="Todd Williams"></a>
 	</li>
 	<li>
 		<strong>Wide Angle Wednesday:</strong> Share a photo taken at a wide-angle focal length, less than 40 mm. Hash tag <a href="https://plus.google.com/s/%23WideAngleWednesday" target="_blank">#WideAngleWednesday</a> and G+ Page <a href="https://plus.google.com/113413820629101434595" target="_blank">+Wide Angle Wednesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/107916932044263516432', Html::image('https://profiles.google.com/s2/photos/profile/107916932044263516432?sz=40', array('title'=>'Asif Patel', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107916932044263516432" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107916932044263516432?sz=50" title="Asif Patel"></a>
 	</li>
 	<li>
 		<strong>Windy Wednesday:</strong> Share a photo that depicts the wind blowing. Hash tag <a href="https://plus.google.com/s/%23WindyWednesday" target="_blank">#WindyWednesday</a> and G+ Page <a href="https://plus.google.com/u/0/101049354571452393326/posts" target="_blank">+Windy Wednesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/103756720390960133254', Html::image('https://profiles.google.com/s2/photos/profile/103756720390960133254?sz=40', array('title'=>'Trevor Farrell', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/103756720390960133254" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103756720390960133254?sz=50" title="Trevor Farrell"></a>
 	</li>
 	<li>
 		<strong>Way Wednesday:</strong> Roads, trails, well trodden paths, any and all 'ways' imaginable.﻿ Hash tag <a href="https://plus.google.com/s/%23WayWednesday" target="_blank">#WayWednesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/117930635480648239039', Html::image('https://profiles.google.com/s2/photos/profile/117930635480648239039?sz=40', array('title'=>'Rob Tilley', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/109795502005319949067', Html::image('https://profiles.google.com/s2/photos/profile/109795502005319949067?sz=40', array('title'=>'Peter Carroll', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/117930635480648239039" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117930635480648239039?sz=50" title="Rob Tilley"></a>
+		<a href="https://plus.google.com/109795502005319949067" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109795502005319949067?sz=50" title="Peter Carroll"></a>
 	</li>
 	<li>
 		<strong>Wharf Wednesday:</strong> share your best Wharf shots on Wednesday. Use<a href="https://plus.google.com/s/%23WharfWednesday" target="_blank">#WharfWednesday</a> in your post. G+ Page <a href="https://plus.google.com/106756112284152078530">+Wharf Wednesday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/103182936240028103005', Html::image('https://profiles.google.com/s2/photos/profile/103182936240028103005?sz=40', array('title'=>'Michael Blyde', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/111892763335178073075', Html::image('https://profiles.google.com/s2/photos/profile/111892763335178073075?sz=40', array('title'=>'Blake Harrold', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/103182936240028103005" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103182936240028103005?sz=50" title="Michael Blyde"></a>
+		<a href="https://plus.google.com/111892763335178073075" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111892763335178073075?sz=50" title="Blake Harrold"></a>
 	</li>
 
 </ul>
@@ -415,77 +414,78 @@ date: 2013-4-15
 <ul class="gplus-themes">
 	<li>
 		<strong>Thirsty Thursday</strong>: Share all things water: seascapes, lakes and rivers are the subject. Use <em><a href="https://plus.google.com/s/%23ThirstyThursdayPics/posts" target="_blank">#ThirstyThursdayPics</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107362628080904735459', Html::image('https://profiles.google.com/s2/photos/profile/107362628080904735459?sz=40', array('title'=>'Giuseppe Basile', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/100377493270775536948', Html::image('https://profiles.google.com/s2/photos/profile/100377493270775536948?sz=40', array('title'=>'Mark Esguerra', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107362628080904735459" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107362628080904735459?sz=50" title="Giuseppe Basile"></a>
+		<a href="https://plus.google.com/100377493270775536948" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100377493270775536948?sz=50" title="Mark Esguerra"></a>
 	</li>
 	<li>
 		<strong>Silhouettes On Thursday: </strong>Share a photo where a silhouette is the subject. Use <em><a href="https://plus.google.com/s/%23SilhouettesOnThursday/posts" target="_blank">#SilhouettesOnThursday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107788883146545236198', Html::image('https://profiles.google.com/s2/photos/profile/107788883146545236198?sz=40', array('title'=>'Siddharth Pandit', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107788883146545236198" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107788883146545236198?sz=50" title="Siddharth Pandit"></a>
 	</li>
 	<li>
 		<strong>History Thursday</strong>: Share a photo of something historic, preferably man-made. Post a brief explanation or a link to explain the history when possible! A brief <a href="http://roadslesstraveledphotography.com/2011/10/02/history-thursday-on-google-plus/" target="_blank">FAQ here</a>. Use <em><a href="https://plus.google.com/s/%23HistoryThursday/posts" target="_blank">#HistoryThursday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/102239645172983099492', Html::image('https://profiles.google.com/s2/photos/profile/102239645172983099492?sz=40', array('title'=>'Matt Shalvatis', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/102239645172983099492" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102239645172983099492?sz=50" title="Matt Shalvatis"></a>
 	</li>
 	<li>
 		<strong>Long Exposure Thursday:</strong> Share a photo  of any subject taken with a long exposure. Use <em><a href="https://plus.google.com/s/%23LongExposureThursday/posts" target="_blank">#LongExposureThursday</a></em> tag in your post. <a href="https://plus.google.com/u/0/105375940403581259445">+LongExposure Thursday</a> is the official theme page.<br />
-		<?php echo Html::anchor('https://plus.google.com/114288572990229558524', Html::image('https://profiles.google.com/s2/photos/profile/114288572990229558524?sz=40', array('title'=>'Francesco Gola', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/106828629937226326167', Html::image('https://profiles.google.com/s2/photos/profile/106828629937226326167?sz=40', array('title'=>'Luca Gerardi', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/114288572990229558524" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114288572990229558524?sz=50" title="Francesco Gola"></a>
+		<a href="https://plus.google.com/106828629937226326167" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106828629937226326167?sz=50" title="Luca Gerardi"></a>
 	</li>
 
 	<li>
 		<strong>Travel Thursday:</strong> Share a photo where travelling is the subject. Use <em><a href="https://plus.google.com/s/%23TravelThursday/posts" target="_blank">#TravelThursday</a></em> tag in your posts. <br />
-		<?php echo Html::anchor('https://plus.google.com/108901237855028365685', Html::image('https://profiles.google.com/s2/photos/profile/108901237855028365685?sz=40', array('title'=>'Laura Mitchum', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/108901237855028365685" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108901237855028365685?sz=50" title="Laura Mitchum"></a>
 	</li>
 	<li>
 		<strong>Texture Blend Thursday:</strong> Share photos that have been processed and blended together using 1 or more textures. Use <em><a href="https://plus.google.com/s/%23TextureBlendThursday/posts" target="_blank">#TextureBlendThursday</a></em> tag in your post. <a href="https://plus.google.com/u/0/116571037948517819975/posts" target="_blank">G+ Page</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/104768621699284314998', Html::image('https://profiles.google.com/s2/photos/profile/104768621699284314998?sz=40', array('title'=>'Christine Hauber', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/112236344213897425331', Html::image('https://profiles.google.com/s2/photos/profile/112236344213897425331?sz=40', array('title'=>'Matt Suess', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104768621699284314998" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104768621699284314998?sz=50" title="Christine Hauber"></a>
+		<a href="https://plus.google.com/112236344213897425331" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112236344213897425331?sz=50" title="Matt Suess"></a>
 	</li>
 	<li>
 		<strong>Theoretical Thursday</strong>: Share a photo that conceptualizes an idea or is in the form of abstract art. Use <em><a href="https://plus.google.com/s/%23TheoreticalThursday/posts" target="_blank">#TheoreticalThursday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/104109881446393419681', Html::image('https://profiles.google.com/s2/photos/profile/104109881446393419681?sz=40', array('title'=>'Jason Dell', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104109881446393419681" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104109881446393419681?sz=50" title="Jason Dell"></a>
 	</li>
 	<li>
 		<strong>Lighthouse Thursday:</strong> Share a photo of a lighthouse. Tag <em><a href="https://plus.google.com/s/%23LighthouseThursday/posts" target="_blank">#LighthouseThursday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/107773073025291449903', Html::image('https://profiles.google.com/s2/photos/profile/107773073025291449903?sz=40', array('title'=>'Heiko Köster', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107773073025291449903" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107773073025291449903?sz=50" title="Heiko Köster"></a>
 	</li>
 	<li>
 		<strong>Throw Away Thursday:</strong> Share a photo that's so accidentally bad, it's funny. Tag <em><a href="https://plus.google.com/s/%23ThrowAwayThursday/posts" target="_blank">#ThrowAwayThursday</a></em> OR <em><a href="https://plus.google.com/s/%23TAT/posts" target="_blank">#TAT</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/113973458554656282296', Html::image('https://profiles.google.com/s2/photos/profile/113973458554656282296?sz=40', array('title'=>'Lynn Langmade', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/115031186148141783321', Html::image('https://profiles.google.com/s2/photos/profile/115031186148141783321?sz=40', array('title'=>'Doug DeTraz', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/116111409898168592074', Html::image('https://profiles.google.com/s2/photos/profile/116111409898168592074?sz=40', array('title'=>'Mary Sass Clark', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/113973458554656282296" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113973458554656282296?sz=50" title="Lynn Langmade"></a>
+		<a href="https://plus.google.com/115031186148141783321" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115031186148141783321?sz=50" title="Doug DeTraz"></a>
+		<a href="https://plus.google.com/116111409898168592074" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116111409898168592074?sz=50" title="Mary Sass Clark"></a>
 	</li>
 	<li>
 		<strong>Caption This Thursday:</strong> Share a photo that lends itself well to captioning. Commentors will suggest a caption and anyone can +1 their favorite caption. Then 24-48 hours later, the original poster will re-share the image with the best (most +1s) caption. Tag <em><a href="https://plus.google.com/s/%23CaptionThisThursday/posts" target="_blank">#CaptionThisThursday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/111975224012018194892', Html::image('https://profiles.google.com/s2/photos/profile/111975224012018194892?sz=40', array('title'=>"Jenness 'Dory' Asby", 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111975224012018194892" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111975224012018194892?sz=50" title="Jenness 'Dory' Asby"></a>
 	</li>
 	<li>
 		<strong>In Motion Thursday:</strong> Share a photo showing motion and movement like panning, blurs, zooming effects and Intentional Camera Movement (ICM). Tag <em><a href="https://plus.google.com/s/%23InMotionThursday/posts" target="_blank">#InMotionThursday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/103776299476527190352', Html::image('https://profiles.google.com/s2/photos/profile/103776299476527190352?sz=40', array('title'=>"Scott Thomas", 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/103776299476527190352" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103776299476527190352?sz=50" title="Scott Thomas"></a>
 	</li>
 	<li>
 		<strong>Damn Near Dead Thursday:</strong> A place to share stories of dangoures, daring and flat out stupid adventures in Photography! Tag <em><a href="https://plus.google.com/s/%23DamnNearDiedThursday/posts" target="_blank">#DamnNearDiedThursday</a></em> <a href="https://plus.google.com/112351161650039705777" target="_blank">G+ Page</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/107678541280998663446', Html::image('https://profiles.google.com/s2/photos/profile/107678541280998663446?sz=40', array('title'=>'Dan Ballard', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107678541280998663446" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107678541280998663446?sz=50" title="Dan Ballard"></a>
 	</li>
 	<li>
 		<strong>Low Key Thursday:</strong> Share a photo taken with the low key style. Tag <em><a href="https://plus.google.com/s/%23LowKeyThursday/posts" target="_blank">#LowKeyThursday</a></em>. G+ Page <a href="https://plus.google.com/u/0/102194452810265039696">+Low Key Photography</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/104830744452856998976', Html::image('https://profiles.google.com/s2/photos/profile/104830744452856998976?sz=40', array('title'=>'Bartek Siębab', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111975224012018194892" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111975224012018194892?sz=50" title="Jenness 'Dory' Asby"></a>
+		<a href="https://plus.google.com/104830744452856998976" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104830744452856998976?sz=50" title="Bartek Siębab"></a>
 	</li>
 	<li>
 		<strong>Coastal Thursday:</strong> Share a photo dedicated to images of the coastal environment, life on the coast and coastal activities worldwide. Tag <em><a href="https://plus.google.com/s/%23CoastalThursday/posts" target="_blank">#CoastalThursday</a></em>. <a href="https://plus.google.com/u/0/111400732361417799841/">+Coastal Thursday</a> G+ theme page. <br />
-		<?php echo Html::anchor('https://plus.google.com/102444210972227492079', Html::image('https://profiles.google.com/s2/photos/profile/102444210972227492079?sz=40', array('title'=>'David Polzine', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/101810868794261263831', Html::image('https://profiles.google.com/s2/photos/profile/101810868794261263831?sz=40', array('title'=>'Jon Kahn', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/102444210972227492079" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102444210972227492079?sz=50" title="David Polzine"></a>
+		<a href="https://plus.google.com/101810868794261263831" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/101810868794261263831?sz=50" title="Jon Kahn"></a>
 	</li>
 	<li>
 		<strong>Lensbaby Thursday:</strong> Share a photo shot using a Lensbaby lens. Tag <em><a href="https://plus.google.com/s/%23LensbabyThursday/posts" target="_blank">#LensbabyThursday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/117440562136163282023', Html::image('https://profiles.google.com/s2/photos/profile/117440562136163282023?sz=40', array('title'=>'AJ Schroetlin', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/114916741095163809034', Html::image('https://profiles.google.com/s2/photos/profile/114916741095163809034?sz=40', array('title'=>'Gloria Roldan', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/117440562136163282023" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/117440562136163282023?sz=50" title="AJ Schroetlin"></a>
+		<a href="https://plus.google.com/114916741095163809034" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114916741095163809034?sz=50" title="Gloria Roldan"></a>
 	</li>
 	<li>
 		<strong>PixelBenderism On Thursday:</strong> Share a photo processed with the Pixel Bender plugin that's available for Photoshop CS5 and newer. Tag <em><a href="https://plus.google.com/s/%PixelBenderismOnThursday/posts" target="_blank">#PixelBenderismOnThursday</a></em>. <a href="https://plus.google.com/112075075924070650223/posts">PixelBenderism On Thursday</a> G+ page. <br />
-		<?php echo Html::anchor('https://plus.google.com/112140116371194470444', Html::image('https://profiles.google.com/s2/photos/profile/112140116371194470444?sz=40', array('title'=>'Pat A Jordan', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/116473255629139707155', Html::image('https://profiles.google.com/s2/photos/profile/116473255629139707155?sz=40', array('title'=>'Ralitza Tchiorniy', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/102320427643121277922', Html::image('https://profiles.google.com/s2/photos/profile/102320427643121277922?sz=40', array('title'=>'Robin Cohen', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/112140116371194470444" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112140116371194470444?sz=50" title="Pat A Jordan"></a>
+		<a href="https://plus.google.com/116473255629139707155" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116473255629139707155?sz=50" title="Ralitza Tchiorniy"></a>
+		<a href="https://plus.google.com/102320427643121277922" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102320427643121277922?sz=50" title="Robin Cohen"></a>
 	</li>
 	
 </ul>
@@ -493,190 +493,190 @@ date: 2013-4-15
 <ul class="gplus-themes">
 	<li>
 		<strong>Four Seasons Friday</strong>: Share a photo showing off the current season we're in. Use <em><a href="https://plus.google.com/s/%23FourSeasonsFriday/posts" target="_blank">#FourSeasonsFriday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/115837821650007187903', Html::image('https://profiles.google.com/s2/photos/profile/115837821650007187903?sz=40', array('title'=>'Stephonie Ogden', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/115837821650007187903" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115837821650007187903?sz=50" title="Stephonie Ogden"></a>
 	</li>
 	<li>
 		<strong>Floral Friday:</strong> Share a photo where flowers are the subject. Use <em><a href="https://plus.google.com/s/%23FloralFriday/posts" target="_blank">#FloralFriday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107494834634231938072', Html::image('https://profiles.google.com/s2/photos/profile/107494834634231938072?sz=40', array('title'=>'Tamara Pruessner', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107494834634231938072" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107494834634231938072?sz=50" title="Tamara Pruessner"></a>
 	</li>
 	<li>
 		<strong>Food Friday:</strong> "Watch what you eat" and share a photo where food is the subject. Use <em><a href="https://plus.google.com/s/%23FoodFriday/posts" target="_blank">#FoodFriday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/105980354203966235008', Html::image('https://profiles.google.com/s2/photos/profile/105980354203966235008?sz=40', array('title'=>'Nicholas Ong', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/112468393328921307064', Html::image('https://profiles.google.com/s2/photos/profile/112468393328921307064?sz=40', array('title'=>'Natty Netsuwan', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/103612039745589982900', Html::image('https://profiles.google.com/s2/photos/profile/103612039745589982900?sz=40', array('title'=>'D. DeMonteverde', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105980354203966235008" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105980354203966235008?sz=50" title="Nicholas Ong"></a>
+		<a href="https://plus.google.com/112468393328921307064" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112468393328921307064?sz=50" title="Natty Netsuwan"></a>
+		<a href="https://plus.google.com/103612039745589982900" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103612039745589982900?sz=50" title="D. DeMonteverde"></a>
 	</li>
 	<li>
 		<strong>Four-wheeled Friday:</strong> Share:  All things vehicle related, cars, bikes, motorcycles and unicycles. Use <em><a href="https://plus.google.com/s/%23FourWheeledFriday/posts" target="_blank">#FourWheeledFriday</a></em> in post. <br />
-		<?php echo Html::anchor('https://plus.google.com/112685199293700779997', Html::image('https://profiles.google.com/s2/photos/profile/112685199293700779997?sz=40', array('title'=>'Akhil Kalsh', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/112685199293700779997" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112685199293700779997?sz=50" title="Akhil Kalsh"></a>
 	</li>
 	<li>
 		<strong>Film Friday</strong>: Share a photo shot on film. Please share information about what camera, film and developing were used. Use <em><a href="https://plus.google.com/s/%23FilmFriday/posts" target="_blank">#FilmFriday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/118153590571996026494', Html::image('https://profiles.google.com/s2/photos/profile/118153590571996026494?sz=40', array('title'=>'Richard Call', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/118153590571996026494" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/118153590571996026494?sz=50" title="Richard Call"></a>
 	</li>
 	<li>
 		<strong>Fungus Friday</strong>: Share a photo of any variety of fungi. Use <em><a href="https://plus.google.com/s/%23FungusFriday/posts target="_blank"">#FungusFriday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/115215962751742872940', Html::image('https://profiles.google.com/s2/photos/profile/115215962751742872940?sz=40', array('title'=>'Chris Sullivan', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/115215962751742872940" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115215962751742872940?sz=50" title="Chris Sullivan"></a>
 	</li>
 	<li>
 		<strong>Frightening Friday:</strong> Share an image that captures an element of fear, danger or drama. Use <a href="https://plus.google.com/s/%23FrighteningFriday/posts" target="_blank">#<em>FrighteningFriday</em></a> tag in your posts. <br />
-		<?php echo Html::anchor('https://plus.google.com/106787788124127706441', Html::image('https://profiles.google.com/s2/photos/profile/106787788124127706441?sz=40', array('title'=>'Alexis Coram', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/106787788124127706441" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106787788124127706441?sz=50" title="Alexis Coram"></a>
 	</li>
 	<li>
 		<strong>Fire Friday:</strong>  Anything fire goes-from a wildfire, to a tip of a match shot macro, to even smoke from a fire, fire houses, fire hydrants and fire hoses. Fire People! Tag <em><a href="https://plus.google.com/s/%23FireFriday/posts" target="_blank">#FireFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/111674748486766258557', Html::image('https://profiles.google.com/s2/photos/profile/111674748486766258557?sz=40', array('title'=>'Grayson Hartman', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/111674748486766258557" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111674748486766258557?sz=50" title="Grayson Hartman"></a>
 	</li>
 	<li>
 		<strong>Fido Friday</strong>: Share a photo featuring man's best friend, the dog. Tag <em><a href="https://plus.google.com/s/%23FidoFriday/posts" target="_blank">#FidoFriday</a> </em> <br />
-		<?php echo Html::anchor('https://plus.google.com/100275369366064591159', Html::image('https://profiles.google.com/s2/photos/profile/100275369366064591159?sz=40', array('title'=>'Wes Lum', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/105852782594022510198', Html::image('https://profiles.google.com/s2/photos/profile/105852782594022510198?sz=40', array('title'=>'Mel Peifer', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/104962347070667053810', Html::image('https://profiles.google.com/s2/photos/profile/104962347070667053810?sz=40', array('title'=>'Lisa Lisa', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/114839663135720829360', Html::image('https://profiles.google.com/s2/photos/profile/114839663135720829360?sz=40', array('title'=>'Suhaib Ayaz', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		
+		<a href="https://plus.google.com/100275369366064591159" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100275369366064591159?sz=50" title="Wes Lum"></a>
+		<a href="https://plus.google.com/105852782594022510198" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105852782594022510198?sz=50" title="Mel Peifer"></a>
+		<a href="https://plus.google.com/104962347070667053810" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104962347070667053810?sz=50" title="Lisa Lisa"></a>
+		<a href="https://plus.google.com/114839663135720829360" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114839663135720829360?sz=50" title="Suhaib Ayaz"></a>
 	</li>
 	<li>
 		<strong>Frog Friday:</strong> Share a photo with of a frog. Tag <em><a href="https://plus.google.com/s/%23FrogFriday/posts" target="_blank">#FrogFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/104522833443181754677', Html::image('https://profiles.google.com/s2/photos/profile/104522833443181754677?sz=40', array('title'=>'Christina Rollo', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/115489578657005415575', Html::image('https://profiles.google.com/s2/photos/profile/115489578657005415575?sz=40', array('title'=>'Candace Hansen', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104522833443181754677" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104522833443181754677?sz=50" title="Christina Rollo"></a>
+		<a href="https://plus.google.com/115489578657005415575" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115489578657005415575?sz=50" title="Candace Hansen"></a>
 	</li>
 	<li>
 		<strong>Fisheye Friday:</strong> Share a photo taken with a fisheye lens. Tag <em><a href="https://plus.google.com/s/%23FisheyeFriday/posts" target="_blank">#FisheyeFriday</a></em>. G+ Page <a href="https://plus.google.com/u/0/111102752557373137531" target="_blank">+FisheyeFriday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/108347904384031658715', Html::image('https://profiles.google.com/s2/photos/profile/108347904384031658715?sz=40', array('title'=>'Ivan Yudhi', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/104166683851434520973', Html::image('https://profiles.google.com/s2/photos/profile/104166683851434520973?sz=40', array('title'=>'Randy Scherkenbach', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/108347904384031658715" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108347904384031658715?sz=50" title="Ivan Yudhi"></a>
+		<a href="https://plus.google.com/104166683851434520973" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104166683851434520973?sz=50" title="Randy Scherkenbach"></a>
 	</li>
 	<li>
 		<strong>Infrared Friday:</strong> Share a photo taken with with an IR filter, a converted camera or produced in post production. Tag <em><a href="https://plus.google.com/s/%23InfraredFriday/posts" target="_blank">#InfraredFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/100733334063966339322', Html::image('https://profiles.google.com/s2/photos/profile/100733334063966339322?sz=40', array('title'=>'Paula Cobleigh', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/104903110057384953224', Html::image('https://profiles.google.com/s2/photos/profile/104903110057384953224?sz=40', array('title'=>'Ingo Schobert', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/100733334063966339322" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100733334063966339322?sz=50" title="Paula Cobleigh"></a>
+		<a href="https://plus.google.com/104903110057384953224" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104903110057384953224?sz=50" title="Ingo Schobert"></a>
 	</li>
 	<li>
 		<strong>Fashion Fridays:</strong> Share a photo that emphasizes the look and feel of fashion. Tag <em><a href="https://plus.google.com/s/%23FashionFridays/posts" target="_blank">#FashionFridays</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/116064138203319882798', Html::image('https://profiles.google.com/s2/photos/profile/116064138203319882798?sz=40', array('title'=>'Faith Gauthier', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/116064138203319882798" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116064138203319882798?sz=50" title="Faith Gauthier"></a>
 	</li>
 	<li>
 		<strong>Feelings Friday:</strong> Share a photo that expresses strong human emotion. Everything from joy and sadness to anger and jealousy. Tag <em><a href="https://plus.google.com/s/%23FeelingsFriday/posts" target="_blank">#FeelingsFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/108754677323497506270', Html::image('https://profiles.google.com/s2/photos/profile/108754677323497506270?sz=40', array('title'=>'LeLinda Bourgeois', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/108754677323497506270" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108754677323497506270?sz=50" title="LeLinda Bourgeois"></a>
 	</li>
 	<li>
 		<strong>Forest Friday:</strong> Share a photo of a forest. Tag <em><a href="https://plus.google.com/s/%23ForestFriday/posts" target="_blank">#ForestFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/106512394490409548810', Html::image('https://profiles.google.com/s2/photos/profile/106512394490409548810?sz=40', array('title'=>'Alan owens', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/106512394490409548810" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106512394490409548810?sz=50" title="Alan owens"></a>
 	</li>
 	<li>
 		<strong>Feet Friday:</strong> Share a photo featuring feet. Tag <em><a href="https://plus.google.com/s/%23FeetFriday/posts" target="_blank">#FeetFriday</a></em> <a href="https://plus.google.com/108574845125888832419" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/107926371512942521555', Html::image('https://profiles.google.com/s2/photos/profile/107926371512942521555?sz=40', array('title'=>'Carrie McGann', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107926371512942521555" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107926371512942521555?sz=50" title="Carrie McGann"></a>
 	</li>
 	<li>
 		<strong>We Are Parents:</strong> Share a photo that embodies what it means to be a parent. The great joys and the great frustrations. Tag <em><a href="https://plus.google.com/s/%23WeAreParents/posts" target="_blank">#WeAreParents</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/107430862196617669986', Html::image('https://profiles.google.com/s2/photos/profile/107430862196617669986?sz=40', array('title'=>'Juan Gonzalez', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107430862196617669986" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107430862196617669986?sz=50" title="Juan Gonzalez"></a>
 	</li>
 	<li>
 		<strong>Foggy Friday:</strong> Share a photo taken in the fog. Tag <em><a href="https://plus.google.com/s/%23FoggyFriday/posts" target="_blank">#FoggyFriday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/105186369823013844219', Html::image('https://profiles.google.com/s2/photos/profile/105186369823013844219?sz=40', array('title'=>'Thomas Russ Arnestad', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105186369823013844219" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105186369823013844219?sz=50" title="Thomas Russ Arnestad"></a>
 	</li>
 	<li>
 		<strong>Feel Good Friday:</strong> Share a photo that makes you feel warm and fuzzy. Tag <em><a href="https://plus.google.com/s/%23FeelGoodFriday/posts" target="_blank">#FeelGoodFriday</a></em>. <a href="https://plus.google.com/u/0/110674342964919841512" target="_blank">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/118269717526175136537', Html::image('https://profiles.google.com/s2/photos/profile/118269717526175136537?sz=40', array('title'=>'Rebecca Borg', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/118269717526175136537" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/118269717526175136537?sz=50" title="Rebecca Borg"></a>
 	</li>
 	<li>
 		<strong>Friday Getaway:</strong> Images involving vacation travel, outdoor sports, recreation, and lifestyle. Images with roads, bridges, trains, boats, hiking, camping, fishing, chairs on a beach, etc. Tag <em><a href="https://plus.google.com/s/%23FridayGetaway/posts" target="_blank">#FridayGetaway</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/100892612779426154375', Html::image('https://profiles.google.com/s2/photos/profile/100892612779426154375?sz=40', array('title'=>'Gary Crabbe', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/100892612779426154375" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100892612779426154375?sz=50" title="Gary Crabbe"></a>
 	</li>
 	<li>
 		<strong>Filter Friday:</strong> Share a photo that used a physical glass filter or one applied in post production with software. Share also what filter you used in the description. Tag <em><a href="https://plus.google.com/s/%23FilterFriday/posts" target="_blank">#FilterFriday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/110334215429099763864', Html::image('https://profiles.google.com/s2/photos/profile/110334215429099763864?sz=40', array('title'=>'Laurie Rubin', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/110334215429099763864" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/110334215429099763864?sz=50" title="Laurie Rubin"></a>
 	</li>
 	<li>
 		<strong>Plastic Lens Friday:</strong> The only requirement is a physical plastic lens must be used to take the shot - software simulations of plastic lens photos don't count. Tag <em><a href="https://plus.google.com/s/%23PlasticLensFriday/posts" target="_blank">#PlasticLensFriday</a></em> and G+ Page <a href="https://plus.google.com/u/0/101395073975362747097" target="_blank">+PlasticLens Friday</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/101610654641108280060', Html::image('https://profiles.google.com/s2/photos/profile/101610654641108280060?sz=40', array('title'=>'Mark Garbowski', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/101610654641108280060" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/101610654641108280060?sz=50" title="Mark Garbowski"></a>
 	</li>
 	<li>
 		<strong>Fly Fishing Friday:</strong> Share a photo that features fly fishing. Tag <em><a href="https://plus.google.com/s/%23FlyFishingFriday/posts" target="_blank">#FlyFishingFriday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/102340957096120356053', Html::image('https://profiles.google.com/s2/photos/profile/102340957096120356053?sz=40', array('title'=>'Kurt Budliger', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/102340957096120356053" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102340957096120356053?sz=50" title="Kurt Budliger"></a>
 	</li>
 	<li>
 		<strong>iPhoneography Friday:</strong> Photos taken with an iPhone. Tag <em><a href="https://plus.google.com/s/%23iPhoneographyFriday/posts" target="_blank">#iPhoneographyFriday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/114846083476314868855', Html::image('https://profiles.google.com/s2/photos/profile/114846083476314868855?sz=40', array('title'=>'Christianna Pierce', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/112401605196934673030', Html::image('https://profiles.google.com/s2/photos/profile/112401605196934673030?sz=40', array('title'=>'Jose Vazquez', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/114846083476314868855" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114846083476314868855?sz=50" title="Christianna Pierce"></a>
+		<a href="https://plus.google.com/112401605196934673030" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112401605196934673030?sz=50" title="Jose Vazquez"></a>
 	</li>
 	<li>
 		<strong>Astro Friday:</strong> Photos astronomy related. Tag <em><a href="https://plus.google.com/s/%23AstroFriday/posts" target="_blank">#AstroFriday</a></em>. G+ Page <a href="https://plus.google.com/b/115296351532165494693/115296351532165494693/" target="_blank">+AstroFriday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/115447017636888078012', Html::image('https://profiles.google.com/s2/photos/profile/115447017636888078012?sz=40', array('title'=>'Dawn Peterson', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/107165908810199816527', Html::image('https://profiles.google.com/s2/photos/profile/107165908810199816527?sz=40', array('title'=>'Nimesh Patel', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/115447017636888078012" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/115447017636888078012?sz=50" title="Dawn Peterson"></a>
+		<a href="https://plus.google.com/107165908810199816527" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107165908810199816527?sz=50" title="Nimesh Patel"></a>
 	</li>
 	<li>
 		<strong>Night Photography Friday:</strong> Shots of any subject only that it be taken at night. Tag <em><a href="https://plus.google.com/s/%23NightPhotographyFriday/posts" target="_blank">#NightPhotographyFriday</a></em>. G+ Page <a href="https://plus.google.com/b/115296351532165494693/111653471710262271058/" target="_blank">+Night Photography Friday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/104381699277667044233', Html::image('https://profiles.google.com/s2/photos/profile/104381699277667044233?sz=40', array('title'=>'Mark Hammon', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/113416207360706147556', Html::image('https://profiles.google.com/s2/photos/profile/113416207360706147556?sz=40', array('title'=>'Steve Passlow', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/104381699277667044233" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104381699277667044233?sz=50" title="Mark Hammon"></a>
+		<a href="https://plus.google.com/113416207360706147556" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113416207360706147556?sz=50" title="Steve Passlow"></a>
 	</li>
 </ul>
 <h2>Saturday</h2>
 <ul class="gplus-themes">
 	<li>
 		<strong>Sepia Saturday</strong>: Share a photo processing in sepia. Use <em><a href="https://plus.google.com/s/%23SepiaSaturday/posts" target="_blank">#SepiaSaturday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/105271498619135161075', Html::image('https://profiles.google.com/s2/photos/profile/105271498619135161075?sz=40', array('title'=>'Renee Stewart Jackson', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105271498619135161075" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105271498619135161075?sz=50" title="Renee Stewart Jackson"></a>
 	</li>
 	<li>
 		<strong>Sunset Saturday</strong>: Share a shot where the sunset/rise is the subject. Use <em><a href="https://plus.google.com/s/%23SunsetSaturday/posts" target="_blank">#SunsetSaturday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/116529815860867544557', Html::image('https://profiles.google.com/s2/photos/profile/116529815860867544557?sz=40', array('title'=>'TJ Kelly', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/116529815860867544557" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116529815860867544557?sz=50" title="TJ Kelly"></a>
 	</li>
 	<li>
 		<strong>SpeedySaturday</strong>: Share a photo taken with a fast shutter speed to freeze fast motion. Use <em><a href="https://plus.google.com/s/%23SpeedySaturday/posts" target="_blank">#SpeedySaturday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/116561223902153824937', Html::image('https://profiles.google.com/s2/photos/profile/116561223902153824937?sz=40', array('title'=>'Patricia Paton', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/116561223902153824937" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116561223902153824937?sz=50" title="Patricia Paton"></a>
 	</li>
 	<li>
 		<strong>Street Saturday:</strong> Share a photo taken on the street. Use <em><a href="https://plus.google.com/s/%23StreetSaturday/posts" target="_blank">#StreetSaturday</a></em> tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/107788883146545236198', Html::image('https://profiles.google.com/s2/photos/profile/107788883146545236198?sz=40', array('title'=>'Siddharth Pandit', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/107788883146545236198" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107788883146545236198?sz=50" title="Siddharth Pandit"></a>
 	</li>
 	<li>
 		<strong>Saturday Night Light</strong>: Share a photo taken at night. Any subject with artificial light, indoors or outdoors. No Sunlight. Use <em><a href="https://plus.google.com/s/%23SaturdayNightLight/posts" target="_blank">#SaturdayNightLight</a></em>tag in your post. <br />
-		<?php echo Html::anchor('https://plus.google.com/113826445430709315059', Html::image('https://profiles.google.com/s2/photos/profile/113826445430709315059?sz=40', array('title'=>'Dirk Heindoerfer', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/113826445430709315059" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113826445430709315059?sz=50" title="Dirk Heindoerfer"></a>
 	</li>
 	<li>
 		<strong>Caturday: </strong>Share a photo of a cat. Tag <a href="https://plus.google.com/s/%23Caturday/posts" target="_blank">#Caturday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/109128179703780508212', Html::image('https://profiles.google.com/s2/photos/profile/109128179703780508212?sz=40', array('title'=>'Christophe Friedli', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/104112700502285331526', Html::image('https://profiles.google.com/s2/photos/profile/104112700502285331526?sz=40', array('title'=>'Lee Daniels', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/109128179703780508212" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109128179703780508212?sz=50" title="Christophe Friedli"></a>
+		<a href="https://plus.google.com/104112700502285331526" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104112700502285331526?sz=50" title="Lee Daniels"></a>
 	</li>
 	<li>
 		<strong>Songbird Saturday:</strong> Share a photo of wild songbirds. Tag <em><a href="https://plus.google.com/s/%23SongbirdSaturday/posts" target="_blank">#SongbirdSaturday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/103306876714294066693', Html::image('https://profiles.google.com/s2/photos/profile/103306876714294066693?sz=40', array('title'=>'John Briggs', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/103306876714294066693" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103306876714294066693?sz=50" title="John Briggs"></a>
 	</li>
 	<li>
 		<strong>Rolling Shutter Saturday: </strong>Share a photo using the rolling shutter technique. <a href="http://www.fuelyourphotography.com/lets-roll-it/" target="_blank">Example.</a> Tag <em><a href="https://plus.google.com/s/%23RollingShutterSaturday/posts" target="_blank">#RollingShutterSaturday</a>.</em> <br />
-		<?php echo Html::anchor('https://plus.google.com/108564151148426564358', Html::image('https://profiles.google.com/s2/photos/profile/108564151148426564358?sz=40', array('title'=>'Benno Dielmann', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/108564151148426564358" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108564151148426564358?sz=50" title="Benno Dielmann"></a>
 	</li>
 	<li>
 		<strong>Rural Saturday:</strong> Share a photo  that is all things rural. Everything from farm and fields, to farm machinery, to views of rural living. Use tag <em><a href="https://plus.google.com/u/0/s/%23ruralsaturday/posts" target="_blank">#RuralSaturday</a></em>. <a href="https://plus.google.com/u/0/112622903309187632778">G+ Page</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/109654360331158943231', Html::image('https://profiles.google.com/s2/photos/profile/109654360331158943231?sz=40', array('title'=>'Mario Cerroni', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/109501436364165187027', Html::image('https://profiles.google.com/s2/photos/profile/109501436364165187027?sz=40', array('title'=>'Linda Stokes', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/109654360331158943231" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109654360331158943231?sz=50" title="Mario Cerroni"></a>
+		<a href="https://plus.google.com/109501436364165187027" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109501436364165187027?sz=50" title="Linda Stokes"></a>
 	</li>
 	<li>
 		<strong>Still Life Saturday:</strong> Share a still life themed photo. Tag <a href="https://plus.google.com/s/%23StillLifeSaturday/posts" target="_blank">#StillLifeSaturday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/106973872898404144080', Html::image('https://profiles.google.com/s2/photos/profile/106973872898404144080?sz=40', array('title'=>'Ken Hoyle', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/118122106764594800502', Html::image('https://profiles.google.com/s2/photos/profile/118122106764594800502?sz=40', array('title'=>'Sherri Meyer', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/106973872898404144080" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106973872898404144080?sz=50" title="Ken Hoyle"></a>
+		<a href="https://plus.google.com/118122106764594800502" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/118122106764594800502?sz=50" title="Sherri Meyer"></a>
 	</li>
 	<li>
 		<strong>Unsharp Saturday:</strong> Share a photo that is intentionally out of focus or uses soft focus. Tag <a href="https://plus.google.com/s/%23UnsharpSaturday/posts" target="_blank">#UnsharpeSaturday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/105779560824580764120', Html::image('https://profiles.google.com/s2/photos/profile/105779560824580764120?sz=40', array('title'=>'Nathan Beaulne', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105779560824580764120" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105779560824580764120?sz=50" title="Nathan Beaulne"></a>
 	</li>
 	<li>
 		<strong>Sword Saturday:</strong> Share a sword or battle type image. Tag <em><a href="https://plus.google.com/s/%23SwordSaturday/posts" target="_blank">#SwordSaturday</a></em> <br />
-		<?php echo Html::anchor('https://plus.google.com/116064138203319882798', Html::image('https://profiles.google.com/s2/photos/profile/116064138203319882798?sz=40', array('title'=>'Faith Gauthier', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/116064138203319882798" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116064138203319882798?sz=50" title="Faith Gauthier"></a>
 	</li>
 	<li>
 		<strong>Sleepy Saturday:</strong> Share an image of people and animals sleeping or anything concerning sleep. Tag <em><a href="https://plus.google.com/s/%23SleepySaturday/posts" target="_blank">#SleepySaturday</a></em>. <a href="https://plus.google.com/101184064620339121994/posts" target="_blank">G+ Page</a>. <br />
-		<?php echo Html::anchor('https://plus.google.com/102213934827347582736', Html::image('https://profiles.google.com/s2/photos/profile/102213934827347582736?sz=40', array('title'=>'Andrea Martinez', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/110806949181190360839', Html::image('https://profiles.google.com/s2/photos/profile/110806949181190360839?sz=40', array('title'=>'Gemma Costa', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/102213934827347582736" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102213934827347582736?sz=50" title="Andrea Martinez"></a>
+		<a href="https://plus.google.com/110806949181190360839" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/110806949181190360839?sz=50" title="Gemma Costa"></a>
 	</li>
 	<li>
 		<strong>Stone Saturday:</strong> Share all photographs about stone, geological structure (fold, fault, cliff, gorges) or where use of stone is highlighted. Tag <em><a href="https://plus.google.com/s/%23StoneSaturday/posts" target="_blank">#StoneSaturday</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/114693772828500324009', Html::image('https://profiles.google.com/s2/photos/profile/114693772828500324009?sz=40', array('title'=>'Antoine Berger', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/114693772828500324009" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114693772828500324009?sz=50" title="Antoine Berger"></a>
 	</li>
 	<li>
 		<strong>Saturday Style:</strong> Share a photo that represents your idea of style. Tag <em><a href="https://plus.google.com/s/%23SAS/posts" target="_blank">#SAS</a></em>. <br />
-		<?php echo Html::anchor('https://plus.google.com/113973458554656282296', Html::image('https://profiles.google.com/s2/photos/profile/113973458554656282296?sz=40', array('title'=>'Lynn Langmade', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
-		<?php echo Html::anchor('https://plus.google.com/109415081471489461426', Html::image('https://profiles.google.com/s2/photos/profile/109415081471489461426?sz=40', array('title'=>'Lane Langmade', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/113973458554656282296" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113973458554656282296?sz=50" title="Lynn Langmade"></a>
+		<a href="https://plus.google.com/109415081471489461426" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109415081471489461426?sz=50" title="Lane Langmade"></a>
 	</li>
 	<li>
 		<strong>Seedurday:</strong> It's all about seeds and seed-related imagery. Tag <em><a href="https://plus.google.com/s/%23Seedurday/posts" target="_blank">#Seedurday</a></em>. G+ Page: +<a href="https://plus.google.com/u/0/104756043671298072429/posts" target="_blank">Seedurday</a> <br />
-		<?php echo Html::anchor('https://plus.google.com/105440794443460562007', Html::image('https://profiles.google.com/s2/photos/profile/105440794443460562007?sz=40', array('title'=>'Kathryn Brown', 'class' => 'gplus-profile-pic noborder')), array('target' => '_blank')) ?>
+		<a href="https://plus.google.com/105440794443460562007" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/105440794443460562007?sz=50" title="Kathryn Brown"></a>
 	</li>
 </ul>
+
