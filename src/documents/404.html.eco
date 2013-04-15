@@ -7,6 +7,7 @@ dynamic: true
 <div class="hero-unit">
 	<h1>404 Not Found</h1>
 	<p>
+		<em>I just rolled out a new website and all of my images are not yet uploaded. Stay tuned, they will be back shortly. Check out what is uploaded so far here, <a href="/images/">Images Archive</a></em> <br>
 		Ooops! It looks like the document you requested at <code><%= @req.url %></code> couldn't be found.
 	</p>
 </div>

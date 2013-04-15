@@ -5,15 +5,13 @@
     "ericleslie.com",
     "www.ericleslie.com"
   ],
-  "version": "0.1.0-9",
+  "version": "0.1.0-20",
   "description": "",
   "homepage": "https://github.com/bevry/twitter-bootstrap.docpad",
   "keywords": [
-    "docpad-skeleton",
     "docpad",
     "website",
-    "bootstrap",
-    "twitter bootstrap"
+    "bootstrap"
   ],
   "author": "Eric Leslie <eric@ericleslie.com> (http://ericleslie.com)",
   "maintainers": [
@@ -45,7 +43,8 @@
     "docpad-plugin-text": "2.x",
     "docpad-plugin-related": "~2.0.5",
     "docpad-plugin-paged": "~2.1.4",
-    "docpad-plugin-feedr": "~2.4.2"
+    "docpad-plugin-feedr": "~2.4.2",
+    "docpad-plugin-sitemap": "~0.2.0"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"

@@ -73,7 +73,7 @@
 						<li>
 
 						<li class="<%= 'active'  if @document.url.split('/')[1] is 'image' or @document.url.split('/')[1] is 'images' %>">
-							<a href="/images/">Fine-art</a>
+							<a href="/images/">Fine Art</a>
 						</li>
 
 						<li>
@@ -156,6 +156,6 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-	<%- @getBlock('scripts').add(["/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js","http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js", "/vendor/modernizr.js","/vendor/jquery.masonry.min.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/log.js","/vendor/twitter-bootstrap/js/bootstrap.min.js","/scripts/script.js", "/vendor/modernizr.js","/vendor/jquery.masonry.min.js"]).toHTML() %>
 </body>
 </html>
