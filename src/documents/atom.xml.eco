@@ -10,12 +10,13 @@
 		<email><%= @site.email %></email>
 	</author>
 
-	<% for document in @getCollection('posts').toJSON(): %>
+	<% for document,i in @getCollection('posts').toJSON(): %>
+		<% break  if i > 10 %>
 		<entry>
 			<title><%= document.title %></title>
-			<link href="<%= @site.url+'/'+document.url %>"/>
+			<link href="<%= @site.url+document.url %>"/>
 			<updated><%= document.date.toISOString() %></updated>
-			<id><%= @site.url+'/'+document.url %></id>
+			<id><%= @site.url+document.url %></id>
 			<content type="html"><%= document.contentRendered %></content>
 		</entry>
 	<% end %>

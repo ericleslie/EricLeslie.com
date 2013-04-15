@@ -3,15 +3,15 @@
 docpadConfig = {
 
 	plugins:
-	    feedr:
-	        feeds:
-	            twitter:
-	                url: "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=ericlesliephoto&count=2&include_entities=true&include_rts=true"
-
 	    sitemap:
             cachetime: 600000
             changefreq: 'daily'
             priority: 0.5
+	    feedr:
+	        feeds:
+	            twitter:
+	                url: "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=ericlesliephoto&count=2&include_entities=true&include_rts=true"
+	                
 
             
 
