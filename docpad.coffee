@@ -49,7 +49,7 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				A new photographer exploding on the scene
+				I am a photographer based in Red Bluff who specializes in Weddings, Portraiture and Landscapes.
 				"""
 
 			# The website keywords (for SEO) separated by commas
