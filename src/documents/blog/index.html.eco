@@ -19,14 +19,14 @@ pageSize: 5
 
 <ul class="pager">
 <% if !@getDocument().hasPrevPage(): %>
-	<li class="previous disabled"><a href="#">&larr; Older</a></li>
+	<li class="previous disabled"><a href="#">&larr; Newer</a></li>
 <% else: %>
-	<li class="previous"><a href="<%= @getDocument().getPrevPage() %>">&larr; Older</a></li>
+	<li class="previous"><a href="<%= @getDocument().getPrevPage() %>">&larr; Newer</a></li>
 <% end %>
 
 <% if !@getDocument().hasNextPage(): %>
-    <li class="next disabled"><a href="#">Newer &rarr;</a></li>
+    <li class="next disabled"><a href="#">Older &rarr;</a></li>
 <% else: %>
-    <li class="next"><a href="<%= @getDocument().getNextPage() %>">Newer &rarr;</a></li>
+    <li class="next"><a href="<%= @getDocument().getNextPage() %>">Older &rarr;</a></li>
 <% end %>
 </ul> 

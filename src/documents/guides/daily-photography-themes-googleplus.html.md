@@ -6,10 +6,14 @@ email: eric@ericleslie.com
 date: 2013-4-15
 ---
 
+<div class="alert alert-info">
+<h4>Hey there!</h4>
+I am working on getting the theme list updated. So if you curate a theme that's not listed here or you know something has changed with an existing theme. Please [email](mailto:eric@ericleslie.com) me or leave a comment below. Thank you!
+</div>
+
 <p style="text-align: center;">
 	<img class="aligncenter" title="Google+ Daily Photography Themes" src="http://www.lesliephotos.com/Other/embed/i-k4HBKQM/0/L/Collage-L.jpg" alt="" width="600" height="360" />
 </p>
-<h4>I have fixed the errors on the themes through Monday. I'm continuing to work on it.</h4>
 <p>Participation is simple, post a themed picture on the appropriate day and be sure to include the theme's title or tag (ie #fallfriday) in your post so it can be found in search. Please mention the <strong>curator</strong> for each theme when you participate. I just put the list together, so I'm not responsible for <em>every</em> theme, just the ones I'm curating. I assembled the list for the community's benefit, not my own. On the search page, there is a handy "Save this Search" button where you can have quick access to it on the sidebar whenever you need it.</p>
 
 <p>This list is big and growing fast so treat it a lot like the menu at your favorite restaurant and all the items are on the a la carte menu. Pick and choose your favorite themes and have fun!</p>
