@@ -9,6 +9,10 @@ pagedCollection: 'images'
 pageSize: 15
 ---
 
+<div class="alert">
+    <h3>Update!</h3>
+    <p>I just launched a brand new website and I'm in the process of uploading all of my images. Please stay tuned.</p>
+</div>
 <div class="pagination text-center">
     <ul>
         <% if !@getDocument().hasPrevPage(): %>
