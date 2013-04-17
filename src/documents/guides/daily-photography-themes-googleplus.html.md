@@ -117,13 +117,14 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 	<li>
 		<strong>Sign Sunday: </strong>Share a photo that has a sign in it. Tag <a href="https://plus.google.com/s/%23SignSunday/posts" target="_blank">#SignSunday</a>. <a href="https://plus.google.com/100880327248976971032" target="_blank">G+ Page</a>. <br />
 		<a href="https://plus.google.com/102438268399213788275" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102438268399213788275?sz=50" title="Lori Carey"></a>
-		<a href="https://plus.google.com/109300748911683308738" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109300748911683308738?sz=50" title="Jonathan Davis"></a>
+		<a href="https://plus.google.com/100730931531762511307" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/100730931531762511307?sz=50" title="Janice La Mere Hackney"></a>
+		<a href="https://plus.google.com/103695492797103121281" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103695492797103121281?sz=50" title="Janice La Mere Hackney"></a>
 	</li>
 	<li>
 		<strong>Zen Sunday: </strong>Share a photo that embodies simple beauty. Simply beautiful, expressive and pure images which fills the one who sees them with inner peace and spiritual energy. Contemplative, mindful and serene photos. Creative use of negative space and an artistic touch can be part of shaping that Zen feeling. Tag <a href="https://plus.google.com/s/%23ZenSunday/posts" target="_blank">#ZenSunday</a>. <br />
 		<a href="https://plus.google.com/102518571087840972824" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102518571087840972824?sz=50" title="Charlotte Therese Björnström"></a>
 		<a href="https://plus.google.com/112180555080313027108" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112180555080313027108?sz=50" title="Simon Kitcher"></a>
-		<a href="https://plus.google.com/108032623298499022371" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108032623298499022371?sz=50" title="Nathan Wirth"></a>
+		<a href="https://plus.google.com/108032623298499022371" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108032623298499022371?sz=50" title="Gary Posner"></a>
 	</li>
 	<li>
 		<strong>Sweets Sunday: </strong>Share a photo of any type of sweets. Tag <a href="https://plus.google.com/s/%23SweetsSunday/posts" target="_blank">#SweetsSunday</a>. <br />
