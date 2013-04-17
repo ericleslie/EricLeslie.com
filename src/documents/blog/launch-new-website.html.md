@@ -38,4 +38,4 @@ I ended up moving all of my images to my Smugmug account and then setup my portf
 So it's taking me a bunch of time to get my portfolio filled out from all the data entry I'm doing. There are 300+ images. I don't publish more than a single Landscape every day, so it won't be such a burden once I get it all caught up. 
 
 ###Take Away
-asdf
+
