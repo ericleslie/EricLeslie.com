@@ -7,10 +7,12 @@ layout: page
 		<img src="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg" class="img-rounded" alt="<%=@document.alt%>">
 	</div>
 </div>
+<br>
 
 <div class="row image">
 	<div class="span8">
 		<h2><%= @document.noun %> <small><%= @document.name %></h2>
+
 		<%- @content %>
 
 		<% if @getEnvironment() isnt "development": %>
@@ -56,12 +58,15 @@ layout: page
 			<dd><%= @document.date.toLocaleDateString() %></dd>
 		</dl>
 
+		
+
 		<h4>Tags</h4>
 		<ul class="inline">
 		<% for tag in @document.tags: %>
 			<li><i class="icon-tag"></i> <%= tag %></li>
 		<% end %>
 		</ul>
+		<br>
 
 		<% if @document.lat and @getEnvironment() isnt "development": %>
 		<div id="google_map" style="width:100%; height:250px;"></div>
@@ -82,6 +87,7 @@ layout: page
 				});
 			}());
 		</script>
+		<br>
 		<% end %>
 
 		<div class="btn-group">
@@ -90,7 +96,44 @@ layout: page
 			<a href="<%-@document.links %>" class="btn" target="_blank">Get Links</a>
 		</div>
 
+		<div class="row">
+			<br>
+			<div class="span4 social-icons">
+				<div class="fb-like" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false"></div>
+
+				<div><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div>
+
+				<div><g:plusone size="tall"></g:plusone></div>
+
+				<div><su:badge layout="5"></su:badge></div>
+			</div>
+		</div>
 		<br>
-		<p></p>
+
 	</div>
 </div>
+
+<div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=225584387451856";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+	(function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+
+	(function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
