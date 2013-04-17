@@ -11,7 +11,7 @@ I know that a couple's wedding is one of the biggest events in their lives, and 
 <div class="row">
 	<div class="span4">
 		<h3>I am a GOOD match for:</h3>
-		<p>You should hire me if the photography is of the utmost importance to you and you want more than documention of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
+		<p>You should hire me if the photography is of the utmost importance to you and you want more than documentation of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
 		<p>I love finding great locations to shoot at times of the day when the light is fantastic. Team that with off-camera lighting equipment and I will deliver a package  filled with crafted works of art.</p>
 	</div>
 	<div class="span4">
@@ -253,7 +253,7 @@ Outlined below are my packages. Think of them more as starting places because th
 </div>
 
 ### Is Your Wedding Date Open?
-e sure to say hello and find out if your date is available. Summer time fills up fast, so book early!
+Be sure to say hello and find out if your date is available. Summer time fills up fast, so book early!
 
 <a href="mailto:eric@ericleslie.com" class="btn btn-primary">Email me Eric@ericleslie.com</a> &nbsp; <a href="tel:5307278020" class="btn btn-primary">Call or Text me 530-727-8020</a>
 
