@@ -11,7 +11,7 @@ I know that a couple's wedding is one of the biggest events in their lives, and 
 <div class="row">
 	<div class="span4">
 		<h3>I am a GOOD match for:</h3>
-		<p>You should hire me if the photography is of the utmost importance to you and you want more than documention of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
+		<p>You should hire me if the photography is of the utmost importance to you and you want more than documentation of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
 		<p>I love finding great locations to shoot at times of the day when the light is fantastic. Team that with off-camera lighting equipment and I will deliver a package  filled with crafted works of art.</p>
 	</div>
 	<div class="span4">
@@ -47,7 +47,7 @@ Outlined below are my packages. Think of them more as starting places because th
 			<div class="accordion-inner">
 				<img src="/assets/icons/rings.png" class="pull-right">
 				<h3>What's better than free?</h3>
-				<p>With every wedding I shoot, your engagment is included at no extra charge. This is great for wedding announcements and invitations.</p>
+				<p>With every wedding I shoot, your engagement is included at no extra charge. This is great for wedding announcements and invitations.</p>
 				<p>Just like a normal session, there aren't any time restrictions. We'll meet up at your favorite spot and we'll shoot until you can't smile anymore :D</p>
 			</div>
 		</div>
@@ -104,7 +104,7 @@ Outlined below are my packages. Think of them more as starting places because th
 			<div class="accordion-inner">
 				<img src="/assets/icons/flash_drive.png" class="pull-right">
 				<h3>HD Photos</h3>
-				<p>Every package includes the full-sized high resolution images and print rights. You aren't stuck with low-resolution copies for Facebook or forced to pay extra for the big images. I know many of you are saavy computer users and avid photographers who want to create their own prints. I've got you covered.</p>
+				<p>Every package includes the full-sized high resolution images and print rights. You aren't stuck with low-resolution copies for Facebook or forced to pay extra for the big images. I know many of you are savvy computer users and avid photographers who want to create their own prints. I've got you covered.</p>
 			</div>
 		</div>
 	</div>
@@ -180,7 +180,7 @@ Outlined below are my packages. Think of them more as starting places because th
 				<img src="/assets/icons/slr_128.png" class="pull-right">
 				<h3>Twice the Love</h3>
 				<p>If you want double the coverage, my wife Crystal will join me and together we'll cover every angle of your special day.</p> 
-				<p>This option is very handy when both the men and women are getting dressed at the same time in different locations. You also get more angles on those fleeting moments during the ceromony like the first kiss.</p>
+				<p>This option is very handy when both the men and women are getting dressed at the same time in different locations. You also get more angles on those fleeting moments during the ceremony like the first kiss.</p>
 			</div>
 		</div>
 	</div>
@@ -219,7 +219,7 @@ Outlined below are my packages. Think of them more as starting places because th
 				<h3>Tell Your Story</h3>
 				<p>Going beyond a simple book with your photos in it, I will design an album that tells the story of your wedding day. The book is a visual feast at 13x11 inches. Expect at least 40 pages of professional pearl paper goodness. The hardbound cover finished in linen with a dust jacket.</p> 
 				<p>Seeing your images on a screen is nice. Seeing it printed and hanging on a wall is even better. Better yet is having the ability to see your album on the coffee table where you can pick it up, hold it and flip through your story.</p>
-				<p>The number of pages is based on your wedding. If I can't fit all of your images into 40 pages, the book will grow to accomodate them. Ask about the cost to print additional copies for your family. Typically, additional copies are $150-200 depending on the number of pages.</p>
+				<p>The number of pages is based on your wedding. If I can't fit all of your images into 40 pages, the book will grow to accommodate them. Ask about the cost to print additional copies for your family. Typically, additional copies are $150-200 depending on the number of pages.</p>
 			</div>
 		</div>
 	</div>
@@ -253,7 +253,7 @@ Outlined below are my packages. Think of them more as starting places because th
 </div>
 
 ### Is Your Wedding Date Open?
-e sure to say hello and find out if your date is available. Summer time fills up fast, so book early!
+Be sure to say hello and find out if your date is available. Summer time fills up fast, so book early!
 
 <a href="mailto:eric@ericleslie.com" class="btn btn-primary">Email me Eric@ericleslie.com</a> &nbsp; <a href="tel:5307278020" class="btn btn-primary">Call or Text me 530-727-8020</a>
 

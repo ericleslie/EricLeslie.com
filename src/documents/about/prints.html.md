@@ -13,7 +13,7 @@ title: About Eric Leslie
 All of my prints are available as Artist Proof Prints. I personally inspect, sign and number each print ensuring museum quality work gets shipped. This is perfect for collectors that want the absolute best quality with my personal stamp of approval. I do not offer my prints in limited editions to create artificial scarcity just to command a higher price. As an artist, I create these pieces to be seen and enjoyed by everyone, not just the top tiered collectors that can afford expensive art. So if you're a collector, you still get to own something that's really scarce because I sell many more un-proofed and unsigned prints. If you're an art lover, you can also afford to own one of my prints.
 
 ###Standard Fine-art Prints
-All of my photographs are available on professional quality Kodak ENDURA paper with a lustre finish. This paper is rated to display for 100 years so you can ensure these collectable prints have true archival lifespans.
+All of my photographs are available on professional quality Kodak ENDURA paper with a lustre finish. This paper is rated to display for 100 years so you can ensure these collectible prints have true archival lifespans.
 
 <div class="row">
 	<div class="span4">

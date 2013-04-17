@@ -12,14 +12,14 @@ title: About Eric Leslie
 
 Photography for me is about the experience just as much the shot. Everyone is running around living their lives, seemingly always in a hurry to get from point to point. They miss so much. I like to drive slow and I'm always looking for the details. I'm always paying attention and looking. I see the order in creation as the work of God's hands and I want my work to be a reflection of His glory.
 
-I always carry my camera with me everywhere I go. If I am driving down the road and see something interesting. I will always turn around to shoot it. Every moment is unique and it will never be the same. I don't want to live with the regret of missing that opportunity.
+I always carry my camera with me everywhere I go. If I am driving down the road and see something interesting, I will always turn around to shoot it. Every moment is unique and it will never be the same. I don't want to live with the regret of missing that opportunity.
 
 If there is anything more you want to know about me, just ask!
 
 ![About Eric Leslie](/assets/images/about-eric-leslie.jpg)
 
 ## Crystal
-Crystal is a lot of things, but she is first my wife and she is also my fabulous second shooter and equine consultant. She has a big heart for people and animals and I think it really shows through her photography. She is my teamate and we are a well oiled machine. When you book a wedding, **you get both of us**. She also brings all of her horsey expertise to the table knowing the best way to shoot horses and their riders with all the intricacies that vary between the different diciplines and breeds.
+Crystal is a lot of things, but she is first my wife and she is also my fabulous second shooter and equine consultant. She has a big heart for people and animals and I think it really shows through her photography. She is my teammate and we are a well oiled machine. When you book a wedding, **you get both of us**. She also brings all of her horsey expertise to the table knowing the best way to shoot horses and their riders with all the intricacies that vary between the different disciplines and breeds.
 
 Check out her website and personal work  focusing on [equine photography.](http://rideandsee.com)
 
@@ -56,7 +56,7 @@ Check out her website and personal work  focusing on [equine photography.](http:
 
 
 * Nikon 67mm Circular Polarizer
-* Tiffen .6 (2-stop) Nuetral Density Filter
+* Tiffen .6 (2-stop) Neutral Density Filter
 
 
 * Lowpro Inverse 200 AW camera bag

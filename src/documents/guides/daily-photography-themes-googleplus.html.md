@@ -3,7 +3,7 @@ layout: post
 title: Google+ Daily Photography Themes
 author: Eric Leslie
 email: eric@ericleslie.com
-date: 2013-4-15
+date: 2013-4-17
 ---
 
 <div class="alert alert-info">
@@ -16,7 +16,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 </p>
 <p>Participation is simple, post a themed picture on the appropriate day and be sure to include the theme's title or tag (ie #fallfriday) in your post so it can be found in search. Please mention the <strong>curator</strong> for each theme when you participate. I just put the list together, so I'm not responsible for <em>every</em> theme, just the ones I'm curating. I assembled the list for the community's benefit, not my own. On the search page, there is a handy "Save this Search" button where you can have quick access to it on the sidebar whenever you need it.</p>
 
-<p>This list is big and growing fast so treat it a lot like the menu at your favorite restaurant and all the items are on the a la carte menu. Pick and choose your favorite themes and have fun!</p>
+<p>This list is big and growing fast so treat it a lot like the menu at your favorite restaurant and all the items are on the a la carte menu. Pick and choose your favorite themes and have fun!</p>
 
 <h2>General Themes</h2>
 <p>These tags are not linked to any single day and easily combined with other tags and themes.</p>
@@ -120,7 +120,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/109300748911683308738" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109300748911683308738?sz=50" title="Jonathan Davis"></a>
 	</li>
 	<li>
-		<strong>Zen Sunday: </strong>Share a photo that emboides simple beauty. Simply beautiful, expressive and pure images which fills the one who sees them with inner peace and spiritual energy. Contemplative, mindful and serene photos. Creative use of negative space and an artistic touch can be part of shaping that zen feeling. Tag <a href="https://plus.google.com/s/%23ZenSunday/posts" target="_blank">#ZenSunday</a>. <br />
+		<strong>Zen Sunday: </strong>Share a photo that embodies simple beauty. Simply beautiful, expressive and pure images which fills the one who sees them with inner peace and spiritual energy. Contemplative, mindful and serene photos. Creative use of negative space and an artistic touch can be part of shaping that Zen feeling. Tag <a href="https://plus.google.com/s/%23ZenSunday/posts" target="_blank">#ZenSunday</a>. <br />
 		<a href="https://plus.google.com/102518571087840972824" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102518571087840972824?sz=50" title="Charlotte Therese Björnström"></a>
 		<a href="https://plus.google.com/112180555080313027108" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112180555080313027108?sz=50" title="Simon Kitcher"></a>
 		<a href="https://plus.google.com/108032623298499022371" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108032623298499022371?sz=50" title="Nathan Wirth"></a>
@@ -436,7 +436,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 	</li>
 
 	<li>
-		<strong>Travel Thursday:</strong> Share a photo where travelling is the subject. Use <em><a href="https://plus.google.com/s/%23TravelThursday/posts" target="_blank">#TravelThursday</a></em> tag in your posts. <br />
+		<strong>Travel Thursday:</strong> Share a photo where traveling is the subject. Use <em><a href="https://plus.google.com/s/%23TravelThursday/posts" target="_blank">#TravelThursday</a></em> tag in your posts. <br />
 		<a href="https://plus.google.com/108901237855028365685" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108901237855028365685?sz=50" title="Laura Mitchum"></a>
 	</li>
 	<li>
@@ -459,7 +459,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/116111409898168592074" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116111409898168592074?sz=50" title="Mary Sass Clark"></a>
 	</li>
 	<li>
-		<strong>Caption This Thursday:</strong> Share a photo that lends itself well to captioning. Commentors will suggest a caption and anyone can +1 their favorite caption. Then 24-48 hours later, the original poster will re-share the image with the best (most +1s) caption. Tag <em><a href="https://plus.google.com/s/%23CaptionThisThursday/posts" target="_blank">#CaptionThisThursday</a></em>. <br />
+		<strong>Caption This Thursday:</strong> Share a photo that lends itself well to captioning. Commenters will suggest a caption and anyone can +1 their favorite caption. Then 24-48 hours later, the original poster will re-share the image with the best (most +1s) caption. Tag <em><a href="https://plus.google.com/s/%23CaptionThisThursday/posts" target="_blank">#CaptionThisThursday</a></em>. <br />
 		<a href="https://plus.google.com/111975224012018194892" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111975224012018194892?sz=50" title="Jenness 'Dory' Asby"></a>
 	</li>
 	<li>
@@ -467,7 +467,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/103776299476527190352" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103776299476527190352?sz=50" title="Scott Thomas"></a>
 	</li>
 	<li>
-		<strong>Damn Near Dead Thursday:</strong> A place to share stories of dangoures, daring and flat out stupid adventures in Photography! Tag <em><a href="https://plus.google.com/s/%23DamnNearDiedThursday/posts" target="_blank">#DamnNearDiedThursday</a></em> <a href="https://plus.google.com/112351161650039705777" target="_blank">G+ Page</a>. <br />
+		<strong>Damn Near Dead Thursday:</strong> A place to share stories of dangerous, daring and flat out stupid adventures in Photography! Tag <em><a href="https://plus.google.com/s/%23DamnNearDiedThursday/posts" target="_blank">#DamnNearDiedThursday</a></em> <a href="https://plus.google.com/112351161650039705777" target="_blank">G+ Page</a>. <br />
 		<a href="https://plus.google.com/107678541280998663446" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107678541280998663446?sz=50" title="Dan Ballard"></a>
 	</li>
 	<li>
@@ -647,7 +647,7 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/108564151148426564358" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108564151148426564358?sz=50" title="Benno Dielmann"></a>
 	</li>
 	<li>
-		<strong>Rural Saturday:</strong> Share a photo  that is all things rural. Everything from farm and fields, to farm machinery, to views of rural living. Use tag <em><a href="https://plus.google.com/u/0/s/%23ruralsaturday/posts" target="_blank">#RuralSaturday</a></em>. <a href="https://plus.google.com/u/0/112622903309187632778">G+ Page</a> <br />
+		<strong>Rural Saturday:</strong> Share a photo that is all things rural. Everything from farm and fields, to farm machinery, to views of rural living. Use tag <em><a href="https://plus.google.com/u/0/s/%23ruralsaturday/posts" target="_blank">#RuralSaturday</a></em>. <a href="https://plus.google.com/u/0/112622903309187632778">G+ Page</a> <br />
 		<a href="https://plus.google.com/109654360331158943231" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109654360331158943231?sz=50" title="Mario Cerroni"></a>
 		<a href="https://plus.google.com/109501436364165187027" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109501436364165187027?sz=50" title="Linda Stokes"></a>
 	</li>

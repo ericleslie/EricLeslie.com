@@ -10,7 +10,7 @@ layout: post
 post: true
 ---
 
-This Saturday August 18th from 7-11pm, the Tehema County Branding Project is hosting a star-gazing party with dancing, drinks and desserts at the Kohm Yah-mah-nee Visitor Center in Lassen National Park. All the guests are to wear white. All the proceeds from the event go back to the Branding Project who is work to revitalize Tehema County, where I live.
+This Saturday August 18th from 7-11pm, the Tehama County Branding Project is hosting a star-gazing party with dancing, drinks and desserts at the Kohm Yah-mah-nee Visitor Center in Lassen National Park. All the guests are to wear white. All the proceeds from the event go back to the Branding Project who is work to revitalize Tehama County, where I live.
 
 Why am I telling you about this? At the end of the evening they will hold a silent auction from local artists and I have donated two shots. They are 20x30 versions of the shots below printed directly on metal with float mounts. Words can't describe how good these metal prints look, so you need to come see them for yourself. They are signed and numbered by yours truly and if you come out, I get the honor of shaking your hand.
 

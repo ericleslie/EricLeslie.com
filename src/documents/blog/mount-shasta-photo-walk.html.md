@@ -17,7 +17,7 @@ I've got a big list of possible sites to see like Lake Siskiyou, Middle McCloud 
 
 We're meeting in Dunsmuir at 2pm on Friday. Look on <a href="http://maps.google.com/maps?q=dunsmuir,+ca&amp;hl=en&amp;ll=41.224699,-122.276233&amp;spn=0.00648,0.010096&amp;hnear=Dunsmuir,+Siskiyou,+California&amp;t=h&amp;z=17&amp;vpsrc=6">this map</a> of the Dunsmuir Recreation &amp; Park for the rendezvous.
 
-Saturday morning, we're going to be meeting at <a href="http://maps.google.com/maps?saddr=Mt+Shasta,+CA&amp;daddr=Unknown+road&amp;hl=en&amp;sll=41.684323,-122.476187&amp;sspn=0.048524,0.075274&amp;geocode=FbNWdgIdWbC1-ClBCAIl0-DNVDEHhkvIAS1qjg%3BFUQmfAId8Bez-A&amp;oq=mount+&amp;mra=ls&amp;t=h&amp;z=10">Trout Lake</a> in Montague at sunrise. There after, we can see a handfull of things during the day including Little Shasta Church, Pluto's Cave. In the afternoon we'll be at Lake Shasta shooting the Calatrava bridge and then the peak at Sunset.
+Saturday morning, we're going to be meeting at <a href="http://maps.google.com/maps?saddr=Mt+Shasta,+CA&amp;daddr=Unknown+road&amp;hl=en&amp;sll=41.684323,-122.476187&amp;sspn=0.048524,0.075274&amp;geocode=FbNWdgIdWbC1-ClBCAIl0-DNVDEHhkvIAS1qjg%3BFUQmfAId8Bez-A&amp;oq=mount+&amp;mra=ls&amp;t=h&amp;z=10">Trout Lake</a> in Montague at sunrise. There after, we can see a handful of things during the day including Little Shasta Church, Pluto's Cave. In the afternoon we'll be at Lake Shasta shooting the Calatrava bridge and then the peak at Sunset.
 
 Sunday morning we'll meet at Middle McCloud Falls in McCloud and disperse when we're done.
 

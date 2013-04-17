@@ -4,12 +4,12 @@ title: Portrait Photographer
 ---
 
 ###Capture your life's moments in a comfortable and fun atmosphere.
-I know what an honor and a priveledge it is to be entrusted with your memories, so I treat every shoot like gold. I also know how awkward it can be to have a stranger (me) take pictures of you, so I always keep the mood relaxed and fun. My clients always loosen right up and have a great time.
+I know what an honor and a privilege it is to be entrusted with your memories, so I treat every shoot like gold. I also know how awkward it can be to have a stranger (me) take pictures of you, so I always keep the mood relaxed and fun. My clients always loosen right up and have a great time.
 
 [![Redding Model Photo](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/i-FFPLdDv/1/L/DSC4296-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/25377012_9CQzVZ#!i=2087708908&k=FFPLdDv&lb=1&s=A)
 
 ##The Portrait Package
-While there's many different kinds of portrait shoots, they all share similar needs which are outlined below.
+While there are many different kinds of portrait shoots, they all share similar needs which are outlined below.
 
 * **Unlimited Time**  
 I'm not a by-the-hour kind of photographer. If your shoot takes 30 minutes or three hours, the quoted price is the same. I'm there to get the shots you need.
@@ -22,7 +22,7 @@ You can order prints in any combination of size, medium and quantity right off t
 * **Free Online Gallery**  
 All of your images are available in an online gallery, forever. There are no time limits so you can rest assured that your images are backed-up in state of the art cloud storage. Prints will always be available as well.
 * **Personal Usage Rights**  
-You are free to use the images how ever you like, so long as it's personal (non-commercial). So you can share them on facebook or post them to your blog.
+You are free to use the images how ever you like, so long as it's personal (non-commercial). So you can share them on Facebook or post them to your blog.
 * **Free Print Rights**  
 You are free to print any of the images yourself. If you want the absolute best quality and printing options, premium prints are also available from the online gallery.
 
@@ -31,7 +31,7 @@ You are free to print any of the images yourself. If you want the absolute best 
 <div class="row">
 	<div class="span4">
 		<h3>I am a GOOD match for:</h3>
-		<p>You should hire me if the photography is of the utmost importance to you and you want more than documention of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
+		<p>You should hire me if the photography is of the utmost importance to you and you want more than documentation of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
 		<p>I love finding great locations to shoot at times of the day when the light is fantastic. Team that with off-camera lighting equipment and I will deliver a package  filled with crafted works of art.</p>
 	</div>
 	<div class="span4">
@@ -41,7 +41,7 @@ You are free to print any of the images yourself. If you want the absolute best 
 </div>
 
 ###Pricing
-Portrait pricing can vary a lot depending on what you're needs are. Group size, number of locations, or the distance I have to travel all affect my quote. For a basic outline of the base pricing and **discounts** for the different kinds of shoots please visit my [Portrait Pricing Page](/amout/pricing)
+Portrait pricing can vary a lot depending on your needs. Group size, number of locations, or the distance I have to travel all affect my quote. For a basic outline of the base pricing and **discounts** for the different kinds of shoots please visit my [Portrait Pricing Page](/amout/pricing)
 
 ###Is your date open?
 Be sure to say hello and find out if I'm available on your date. Weekends and evenings fill quickly, so book early!

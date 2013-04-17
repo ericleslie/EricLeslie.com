@@ -10,7 +10,7 @@ layout: post
 post: true
 ---
 
-I got connected with Jennifer through Facebook where she was looking for a photographer. She's starting her modelling career and I got the chance to spend an evening creating some shots for her portfolio up at Whiskeytown Lake outside of Redding. The light was perfect and the area lush with green plants and clear water. It was a beautiful setting. Thanks Jennifer and best of luck to you.
+I got connected with Jennifer through Facebook where she was looking for a photographer. She's starting her modeling career and I got the chance to spend an evening creating some shots for her portfolio up at Whiskeytown Lake outside of Redding. The light was perfect and the area lush with green plants and clear water. It was a beautiful setting. Thanks Jennifer and best of luck to you.
 
 <a title="Jennifer Mailhot - Whiskeytown" href="http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/25107283_Skhz8m#!i=2058566287&amp;k=zLgDSHL&amp;lb=1&amp;s=A"><img class="aligncenter" title="Jennifer Mailhot - Whiskeytown" src="http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/i-zLgDSHL/2/M/DSC2710-M.jpg" alt="Jennifer Mailhot - Whiskeytown" /></a>
 
