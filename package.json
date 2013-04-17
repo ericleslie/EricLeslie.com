@@ -5,11 +5,7 @@
     "ericleslie.com",
     "www.ericleslie.com"
   ],
-<<<<<<< HEAD
-  "version": "0.1.0-28",
-=======
-  "version": "0.1.0-31",
->>>>>>> 346f3181f55155bcdc5e9e692e95ec053eed6ba0
+  "version": "0.1.0-36",
   "description": "",
   "homepage": "https://github.com/bevry/twitter-bootstrap.docpad",
   "keywords": [
