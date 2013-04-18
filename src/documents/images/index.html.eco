@@ -7,6 +7,7 @@ isPaged: true
 pageOrder: 0
 pagedCollection: 'images'
 pageSize: 15
+changefreq: 'daily'
 ---
 
 <div class="alert">

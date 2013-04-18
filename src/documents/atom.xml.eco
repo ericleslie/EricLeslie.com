@@ -17,7 +17,21 @@
 			<link href="<%= @site.url+document.url %>"/>
 			<updated><%= document.date.toISOString() %></updated>
 			<id><%= @site.url+document.url %></id>
-			<content type="html"><%= document.contentRendered %></content>
+			<content type="html">
+				<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
+				
+				<%= document.contentRenderedWithoutLayouts %>
+
+				<% if  document.relatedDocuments and document.relatedDocuments.length: %>
+				<ul class="nav">
+					<li class="nav-header">Related Posts</li>
+					<% for post,i in document.relatedDocuments: %>
+					<% break  if i > 4 %> 
+					<li><a href="<%= post.url %>"><%= post.title %></a></li>
+					<% end %>
+				</ul>
+				<% end %>
+			</content>
 		</entry>
 	<% end %>
 </feed>
