@@ -4,16 +4,18 @@ layout: page-sidebar
 
 <article id="post" class="post">
 	<h1><%= @document.title %></h1>
-	<p class="muted"><%= @document.date.toLocaleDateString() %> by <a href="mailto:<%- @document.email %>"><%= @document.author %></a></p>
+	
 	<div class="social-icons">
-
 		<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @document.title %>" data-via="ericlesliephoto">Tweet</a></tweet></div>	
 		<div><div class="g-plusone" data-size="medium"></div></div>
 		
 		<div><div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="arial"></div></div>
 
+		<div style="margin-left: 30px;"><a href="//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></div>
+
 	</div>
 	<div class="clearfix"></div>
+	<p class="muted"><%= @document.date.toLocaleDateString() %> by <a href="mailto:<%- @document.email %>"><%= @document.author %></a></p>
 	<br >
 	<div class="post-content"><%- @content %></div>
 
@@ -97,6 +99,15 @@ layout: page-sidebar
 	po.src = 'https://apis.google.com/js/plusone.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
+
+//Pinterest
+(function(d){
+  var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+  p.type = 'text/javascript';
+  p.async = true;
+  p.src = '//assets.pinterest.com/js/pinit.js';
+  f.parentNode.insertBefore(p, f);
+}(document));
 
 
 </script>

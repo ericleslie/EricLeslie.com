@@ -2,6 +2,44 @@
 layout: page
 ---
 
+<script>
+	//Facebook Like
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=225584387451856";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	//Twitter
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+	//+1 Button
+	(function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+
+	//StumbleUpon
+	(function() {
+	    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+	    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+	  })();
+
+ 	//Pinterest
+ 	(function(d){
+	  var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+	  p.type = 'text/javascript';
+	  p.setAttribute('data-pin-hover', true);
+	  p.async = true;
+	  p.src = '//assets.pinterest.com/js/pinit.js';
+	  f.parentNode.insertBefore(p, f);
+	}(document));
+</script>
+
 <div class="row">
 	<div class="span12 text-center">
 		<img src="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg" class="img-rounded" alt="<%=@document.alt%>">
@@ -56,9 +94,7 @@ layout: page
 			<dd><%= @document.lens %></dd>
 			<dt>Uploaded</dt>
 			<dd><%= @document.date.toLocaleDateString() %></dd>
-		</dl>
-
-		
+		</dl>		
 
 		<h4>Tags</h4>
 		<ul class="inline">
@@ -99,13 +135,15 @@ layout: page
 		<div class="row">
 			<br>
 			<div class="span4 social-icons">
-				<div class="fb-like" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false"></div>
+				<div class="fb-like" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false" style="margin-bottom: 14px"></div>
 
-				<div><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div>
+				<div style="margin-bottom: 10px"><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div>
 
-				<div><g:plusone size="tall"></g:plusone></div>
+				<div style="margin-bottom: 12x"><g:plusone size="tall"></g:plusone></div>
 
-				<div><su:badge layout="5"></su:badge></div>
+				<div style="margin-bottom: 32px; margin-top: 10px"><a href="//pinterest.com/pin/create/button/?url=http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg&description=<%=@document.description%>" data-pin-do="buttonPin" data-pin-config="above"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></div>
+
+				<div style="margin-bottom: 12px"><su:badge layout="5"></su:badge></div>				
 			</div>
 		</div>
 		<br>
@@ -114,26 +152,4 @@ layout: page
 </div>
 
 <div id="fb-root"></div>
-<script>
-	(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=225584387451856";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
 
-	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-
-	(function() {
-	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-	    po.src = 'https://apis.google.com/js/plusone.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	  })();
-
-	(function() {
-    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
-    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
-  })();
-</script>

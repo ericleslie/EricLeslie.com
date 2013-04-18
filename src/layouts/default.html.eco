@@ -38,6 +38,8 @@
 	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+	
 </head>
 
 <body>
