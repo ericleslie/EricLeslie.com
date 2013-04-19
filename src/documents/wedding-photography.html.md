@@ -1,5 +1,5 @@
 ---
-layout: page-sidebar
+layout: page
 title: Wedding Photographer
 ---
 
@@ -8,14 +8,14 @@ I know that a couple's wedding is one of the biggest events in their lives, and 
 
 [![Chico Wedding Photo](http://www.lesliephotos.com/Weddings/Shawn-and-Crystal-Carter-1/Formals/i-QN87ZWc/0/L/DSC3639-L.jpg)](http://www.lesliephotos.com/Weddings/Shawn-and-Crystal-Carter-1/Formals/i-QN87ZWc/0/M/DSC3639-M.jpg)
 
-<div class="row">
-	<div class="span4">
-		<h3>I am a GOOD match for:</h3>
-		<p>You should hire me if the photography is of the utmost importance to you and you want more than documentation of your wedding. We shoot couples who want works of art and are willing to do their part to make it happen and plan out great photo-taking opportunities</p>
-		<p>I love finding great locations to shoot at times of the day when the light is fantastic. Team that with off-camera lighting equipment and I will deliver a package  filled with crafted works of art.</p>
+<div class="row-fluid">
+	<div class="span6">
+		<h4>I am a GOOD match for:</h4>
+		<p>You should hire me if the photography is of the utmost importance to you and you want more than documentation of your wedding. I shoot couples who want works of art and are willing to do their part to make it happen. I plan out great photo-taking opportunities.</p>
+		<p>I love finding great locations to shoot at times of the day when the light is fantastic. Team that with lighting equipment and the latest techniques, I will deliver a package filled with crafted works of art.</p>
 	</div>
-	<div class="span4">
-		<h3>I am a BAD match for:</h3>
+	<div class="span6">
+		<h4>I am a BAD match for:</h4>
 		<p>I am not a discount, by-the-hour kind of photographer. I'm not a good match for those that just "need a photographer" and only want basic photos of the day.</p> 
 	</div>
 </div>
