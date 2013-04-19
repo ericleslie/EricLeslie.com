@@ -5,7 +5,7 @@ keywords:
 tags: []
 alt: 
 date: 
-noun: 
+noun: ''
 name: 
 exposure: 1/8
 aperture: 9
