@@ -9,11 +9,9 @@ description: Your kids are young once, so lets photograph your children together
   <h2>Kids!</h2>
   <p>They're only kids once and they grow up so fast don't they?</p>
   <p>The number one thing parents tell me is how much more of their kids personality I capture than what you'd get from a dept store studio. There's so much more than the "[Glamour Shots by Deb](http://www.lesliephotos.com/Other/embed/28915435_6D8qSH#!i=2470780418&k=xS6LKNh&lb=1&s=A)" look. Lets step off that cheesy studio backdrop and head outdoors to create memorable portraits of your children.</p>
-  <p>
-    <a class="btn btn-primary btn-large">
-      The Packages
-    </a>
-  </p>
+
+  <p><a class="btn btn-primary btn-large" href="/portrait-photography">The Packages</a></p>
+  
 </div>
 
 <img src="http://www.lesliephotos.com/Kids/201213-School-Year-Portraits/i-2wrcZhS/0/X2/DSC_8783-X2.jpg" alt="Boy in downtown Red Bluff" class="img-rounded">

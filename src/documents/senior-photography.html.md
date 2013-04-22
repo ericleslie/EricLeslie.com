@@ -7,12 +7,8 @@ description: Affordable high school senior photography based out of Red Bluff.
 
 <div class="hero-unit">
   <h2>High School Seniors!</h2>
-  <p>Your kids are graduating and about to make that plunge into adulthood. Lets step outside and take some unique shots of your teens to remember this year by.</p>
-  <p>
-    <a class="btn btn-primary btn-large">
-      The Packages
-    </a>
-  </p>
+  <p>Your kids are graduating and about to make that plunge into adulthood. Lets step outside and take some unique shots of your teens to remember this year by. I specialize in environmental settings that are way more fun than yearbook head shots from the high school photographer.</p>
+  <p><a class="btn btn-primary btn-large" href="/portrait-photography">The Packages</a></p>
 </div>
 
 
