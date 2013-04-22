@@ -67,6 +67,7 @@
 									<a tabindex="-1" href="/portrait-photography"><i class="icon-camera"></i> Portraits</a>
 									<ul class="dropdown-menu">
 										<li><a href="/kid-photography"><i class="icon-camera"></i> Kids</a></li>
+										<li><a href="/senior-photography"><i class="icon-camera"></i> Seniors</a></li>
 									</ul>
 								</li>
 						    	<li><a href="/web-development"><i class="icon-cog"></i> Web Development</a></li>

@@ -2,11 +2,11 @@
 layout: page
 title: Red Bluff Kid Photography
 keywords: kids, children, red bluff, photography
-description: 
+description: Your kids are young once, so lets photograph your children together.
 ---
 
 <div class="hero-unit">
-  <h1>Kids!</h1>
+  <h2>Kids!</h2>
   <p>They're only kids once and they grow up so fast don't they?</p>
   <p>The number one thing parents tell me is how much more of their kids personality I capture than what you'd get from a dept store studio. There's so much more than the "[Glamour Shots by Deb](http://www.lesliephotos.com/Other/embed/28915435_6D8qSH#!i=2470780418&k=xS6LKNh&lb=1&s=A)" look. Lets step off that cheesy studio backdrop and head outdoors to create memorable portraits of your children.</p>
   <p>
@@ -31,5 +31,5 @@ description:
 <img src="http://www.lesliephotos.com/Families/Some-Highlights/i-h8dXHFB/7/X2/DSC_0016-X2.jpg" alt="Boys at Ide Adobe" class="img-rounded">
 
 <br>
-<h4>Sessions are more affordable than you might think. <a class="btn btn-primary">Portrait Pricing</a></h4>
+<h4>Sessions are more affordable than you might think. <a class="btn btn-primary" href="/portrait-photography">Portrait Pricing</a></h4>
 <br>

@@ -1,9 +1,10 @@
 ---
 layout: page-sidebar
 title: Red Bluff Portrait Photographer
+description: The premier portrait photographer serving Red Bluff, Redding and Chico
 ---
 
-###Capture your life's moments in a comfortable and fun atmosphere.
+###Let's capture your life's moments together.
 I know what an honor and a privilege it is to be entrusted with your memories, so I treat every shoot like gold. I also know how awkward it can be to have a stranger (me) take pictures of you, so I always keep the mood relaxed and fun. My clients always loosen right up and we have a great time.
 
 [![Redding Model Photo](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/i-FFPLdDv/1/L/DSC4296-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/25377012_9CQzVZ#!i=2087708908&k=FFPLdDv&lb=1&s=A)
@@ -25,14 +26,15 @@ Every shoot shares the same base features. A lot of time, a lot of great picture
 
  * **Tons of Images**  
  Just like time limits, you're not paying for a package of say 5 images. You get everything I shoot and each photo is hand processed. It depends on how long we shoot, but trust me, you get a lot of shots.
- * **Order Prints A La Carte**  
- You can order prints in any combination of size, medium and quantity right off the online gallery from a professional lab. This is really convenient for family members who would like prints of their own. All prints are made at a Pro Lab, where print quality is excellent and they will last a lifetime using museum-rated archival papers and inks. There is not comparison with prints made at your local retail store.
  * **Free Online Gallery**  
  All of your images are available in an online gallery, forever. There are no time limits so you can rest assured that your images are backed-up in state of the art cloud storage. Prints will always be available as well.
  * **Personal Usage Rights**  
- You are free to use the images how ever you like, so long as it's personal (non-commercial). So you can share them on Facebook or post them to your blog.
- * **Free Print Rights**  
- You are free to print any of the images yourself. If you want the absolute best quality and printing options, order premium prints from the online gallery.
+ You are free to use the images how ever you like, so long as it's personal (non-commercial). So you can share them on Facebook or post them to your blog. I deliver Facebook sized images in a link for you download.
+ * **Order Prints A La Carte**  
+ You can order prints in any combination of size, medium and quantity right off the online gallery from a professional lab. This is really convenient for family members who would like prints of their own. All prints are made at a Pro Lab, where print quality is excellent and they will last a lifetime using museum-rated archival papers and inks. There is not comparison with prints made at your local retail store.
+ * **HD Photos with Every Print**  
+ For every print ordered, I make the High Definition images for those poses available to you at no extra charge.
+
 
 <br>
 
