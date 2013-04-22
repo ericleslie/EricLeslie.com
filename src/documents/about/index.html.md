@@ -38,7 +38,7 @@ Check out her website and personal work  focusing on [equine photography.](http:
 	<dt>Facebook</dt>
 	<dd>[facebook.com/EricBLeslie](http://www.facebook.com/EricBLeslie)</dd>
 	<dt>Pinterest</dt>
-	<dd>[pinterest.com/EricLesliePhoto/](http://pinterest.com/ericlesliephoto/)</dd>
+	<dd>[pinterest.com/EricLesliePics/](http://pinterest.com/ericlesliepics/)</dd>
 	<dt>Flickr</dt>
 	<dd>[flickr.com/photos/EricLeslie](http://www.flickr.com/photos/ericleslie/)</dd>
 	<dt>StumbleUpon</dt>

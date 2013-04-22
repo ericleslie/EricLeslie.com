@@ -2,30 +2,7 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
 
-	plugins:
-	    sitemap:
-            cachetime: 600000
-            changefreq: 'daily'
-            priority: 0.5
-	    feedr:
-	        feeds:
-	            twitter:
-	                url: "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=ericlesliephoto&count=2&include_entities=true&include_rts=true"
-	                
-
-            
-
 	watchOptions: preferredMethods: ['watchFile','watch']
-
-	# =================================
-	# Patterns to ignore
-	# Use this to expclude files/location from beging watched.
-	ignoreCommonPatterns: process.env.NODE_IGNORE_COMMON_PATTERNS ? ///
-		^(
-			gallery|
-
-		)$
-		///i
 
 	# =================================
 	# Template Data
@@ -107,6 +84,14 @@ docpadConfig = {
 		images: (database) ->
 			database.findAllLive({image: $has: true}, [date:-1])
 
+	# Configure Plugins
+    # Should contain the plugin short names on the left, and the configuration to pass the plugin on the right
+	plugins:
+
+	    feedr:
+	        feeds:
+	            twitter:
+	                url: "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=ericlesliephoto&count=2&include_entities=true&include_rts=true"
 
 	# =================================
 	# DocPad Events
@@ -172,7 +157,6 @@ docpadConfig = {
             port: 80  # example
 
 }
-
 
 # Export our DocPad Configuration
 module.exports = docpadConfig

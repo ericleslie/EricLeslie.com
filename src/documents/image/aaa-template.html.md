@@ -5,9 +5,8 @@ keywords:
 tags: []
 alt: 
 date: 
-noun: person/place/thing
+noun: ''
 name: 
-size: XL
 exposure: 1/8
 aperture: 9
 iso: 200
@@ -20,6 +19,7 @@ smug_key:
 links: 
 buy: 
 lightbox: 
+size: XL
 layout: image
 image: false
 ---
