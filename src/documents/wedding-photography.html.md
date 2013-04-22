@@ -1,6 +1,6 @@
 ---
 layout: page-sidebar
-title: Wedding Photographer
+title: Red Bluff Wedding Photographer
 ---
 
 <h2>Wedding Photography <br><small>More than great images, a great experience</small></h2>

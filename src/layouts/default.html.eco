@@ -63,7 +63,12 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 						    	<li><a href="/wedding-photography"><i class="icon-camera"></i> Weddings</a></li>
-						    	<li><a href="/portrait-photography"><i class="icon-camera"></i> Portraits</a></li>
+						    	<li class="dropdown-submenu">
+									<a tabindex="-1" href="/portrait-photography"><i class="icon-camera"></i> Portraits</a>
+									<ul class="dropdown-menu">
+										<li><a href="/kid-photography"><i class="icon-camera"></i> Kids</a></li>
+									</ul>
+								</li>
 						    	<li><a href="/web-development"><i class="icon-cog"></i> Web Development</a></li>
 						    </ul>
 						<li>

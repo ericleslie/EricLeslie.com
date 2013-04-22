@@ -1,6 +1,6 @@
 ---
 layout: page-sidebar
-title: Portrait Photographer
+title: Red Bluff Portrait Photographer
 ---
 
 ###Capture your life's moments in a comfortable and fun atmosphere.
