@@ -117,3 +117,5 @@ My calendar is always changing, so please contact me so we can get you booked.
 
 ####To see more photos, check out the client galleries filled with recent work.
 <a href="http://www.lesliephotos.com" class="btn btn-primary">Recent Client Galleries</a>
+
+<p><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" style="height: 60px;" alt="Payal Acceptance Mark"></p>
