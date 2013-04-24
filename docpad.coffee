@@ -26,12 +26,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				Photography based in Red Bluff California who specializes in Weddings, Portraiture and Landscapes.
+				Wedding, Portrait, Landscape and Destination photographer based out of Red Bluff, California.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				photographer, wedding, portrait, red bluff, redding, chico, commercial, 
+				photographer, wedding, portrait, destination, red bluff, redding, chico, commercial, 
 				"""
 
 			# The website author's name

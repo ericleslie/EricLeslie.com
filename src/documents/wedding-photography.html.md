@@ -266,6 +266,4 @@ Be sure to say hello and find out if your date is available. Summer time fills u
 ####To see more photos, check out the client galleries filled with recent work.
 <a href="http://www.lesliephotos.com" class="btn btn-primary">Recent Client Galleries</a>
 
-
-
-
+<p><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" style="height: 60px;" alt="Payal Acceptance Mark"></p>
