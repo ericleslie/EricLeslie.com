@@ -10,7 +10,10 @@ layout: default
 			</div>
 
 			<div class="span3 sidebar">
+
+
 				<ul class="nav nav-list">
+					<li><a href="http://feeds.feedburner.com/EriclesliePhoto"><img src="/assets/icons/rss-icon-24.png" width="24px" alt="RSS Feed" title="Subscribe to the Blog RSS Feed"></a></li>
 					<li class="nav-header">Recent Posts</li>
 				<% for post,i in @getCollection('posts').toJSON(): %>
 					<% break if i > 4 %>

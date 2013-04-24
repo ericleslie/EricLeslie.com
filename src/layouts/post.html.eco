@@ -6,7 +6,7 @@ layout: page-sidebar
 	<h1><%= @document.title %></h1>
 	
 	<div class="social-icons">
-		<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @document.title %>" data-via="ericlesliephoto">Tweet</a></tweet></div>	
+		<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @document.title %>">Tweet</a></tweet></div>	
 		<div><div class="g-plusone" data-size="medium"></div></div>
 		
 		<div><div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="arial"></div></div>
