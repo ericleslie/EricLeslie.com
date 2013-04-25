@@ -16,10 +16,10 @@ camera: Nikon D90
 lens: 18-105 f/3.5-5.6 VR
 lat: 
 lon: 
-smug_key: J4Rhfdj
-links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454852958&ImageKey=J4Rhfdj&how=forum&Page=1
-buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454852958_J4Rhfdj/
-lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454852958&k=J4Rhfdj&lb=1&s=A
+smug_key: tJVDgKN
+links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454887972&ImageKey=tJVDgKN&how=forum&Page=1
+buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454887972_tJVDgKN/
+lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454887972&k=tJVDgKN&lb=1&s=A
 layout: image
 image: true
 ---
