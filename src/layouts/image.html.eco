@@ -133,7 +133,7 @@ layout: page
 			<a href="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/O/<%=img%>.jpg" class="btn">Download</a>
 			<a href="<%-@document.links %>" class="btn" target="_blank">Get Links</a>
 		</div>
-		<%- @document.slug %>
+
 		<div class="row">
 			<br>
 			<div class="span4 social-icons">

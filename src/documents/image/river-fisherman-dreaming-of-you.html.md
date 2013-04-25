@@ -15,8 +15,8 @@ camera: Nikon D90
 lens: 50mm f/1.8D
 lat: 
 lon: 
-smug_key: vtn3wqF
-links: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454887295&k=vtn3wqF&lb=1&s=A
+smug_key: tJVDgKN
+links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454887972&ImageKey=tJVDgKN&how=forum&Page=1
 buy: http://www.lesliephotos.com/buy/28892418_vGKDCF/2454887972_tJVDgKN/
 lightbox: http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454887972&k=tJVDgKN&lb=1&s=A
 size: XL
