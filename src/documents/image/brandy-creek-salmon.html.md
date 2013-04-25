@@ -1,12 +1,12 @@
 ---
-title: Brandy Creek Salmon
+title: Brandy Creek Salmon - Fish Friends
 description: A school of Salmon in Brandy Creek
 keywords: salmon, brandy creek, spawn, whiskeytown, redding, california, landscape
 tags: ['Salmon', 'Brandy Creek', 'Autumn', 'Whiskeytown', 'Redding', 'California', 'Landscape']
 alt: Salmon spawning in Brandy Creek
 date: 2010-11-5
 noun: Brandy Creek Salmon
-name: 
+name: Fish Friends
 exposure: 1/8
 aperture: 10
 iso: 200

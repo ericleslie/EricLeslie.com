@@ -126,12 +126,14 @@ layout: page
 		<br>
 		<% end %>
 
+		<% img = @document.noun.split(" ").join("-").toLowerCase() %>
+
 		<div class="btn-group">
 			<a href="<%-@document.buy %>" class="btn btn-primary" target="_blank">Get a Print</a>
-			<a href="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/O/<%=@document.noun.replace(" ", "-") %>.jpg" class="btn">Download</a>
+			<a href="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/O/<%=img%>.jpg" class="btn">Download</a>
 			<a href="<%-@document.links %>" class="btn" target="_blank">Get Links</a>
 		</div>
-
+		<%- @document.slug %>
 		<div class="row">
 			<br>
 			<div class="span4 social-icons">
@@ -141,7 +143,7 @@ layout: page
 
 				<div style="margin-bottom: 12x"><g:plusone size="tall"></g:plusone></div>
 
-				<div style="margin-bottom: 32px; margin-top: 10px"><a href="//pinterest.com/pin/create/button/?url=http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg&description=<%=@document.description%>" data-pin-do="buttonPin" data-pin-config="above"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></div>
+				<div style="margin-bottom: 32px; margin-top: 10px"><a href="//pinterest.com/pin/create/button/?url=http://ericleslie.com/image/<%=img%>&media=http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=img%>.jpg&description=<%=@document.description%>" data-pin-do="buttonPin" data-pin-config="above"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></div>
 
 				<div style="margin-bottom: 12px"><su:badge layout="5"></su:badge></div>				
 			</div>

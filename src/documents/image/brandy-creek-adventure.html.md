@@ -8,7 +8,7 @@ date: 2010-11-5
 noun: Brandy Creek
 name: Adventure
 exposure: 1/4
-aperture: 5
+aperture: 8
 iso: 200
 focal_length: 18
 camera: Nikon D90
