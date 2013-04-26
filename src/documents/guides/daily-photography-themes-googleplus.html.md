@@ -492,7 +492,13 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/116473255629139707155" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116473255629139707155?sz=50" title="Ralitza Tchiorniy"></a>
 		<a href="https://plus.google.com/102320427643121277922" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102320427643121277922?sz=50" title="Robin Cohen"></a>
 	</li>
-	
+	<li>
+		<strong>Coffee Thursday:</strong> Creative photography about coffee. Tag <em><a href="https://plus.google.com/s/%23CoffeeThursday" target="_blank">#CoffeeThursday</a></em>. <br />
+		<a href="https://plus.google.com/106488284533523054088" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106488284533523054088?sz=50" title="Jason Kowing"></a>
+		<a href="https://plus.google.com/110105384020219882756" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/110105384020219882756?sz=50" title="Maki Silberberg"></a>
+		<a href="https://plus.google.com/112763558414523707325" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/112763558414523707325?sz=50" title="Sairam Sundaresan"></a>
+		<a href="https://plus.google.com/102165221944293633376" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102165221944293633376?sz=50" title="Stuart Dyckhoff"></a>
+	</li>
 </ul>
 <h2>Friday</h2>
 <ul class="gplus-themes">
