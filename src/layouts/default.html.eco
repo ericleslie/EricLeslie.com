@@ -29,6 +29,9 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
 
+    <!-- Autodiscover RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="Wedding and Landscape Photography Blog" href="http://feeds.feedburner.com/EriclesliePhoto" />
+
 	
 	<!-- Styles -->
 	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
