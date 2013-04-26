@@ -5,7 +5,7 @@
     "ericleslie.com",
     "www.ericleslie.com"
   ],
-  "version": "0.2.4-1",
+  "version": "0.2.4-4",
   "description": "",
   "homepage": "https://ericleslie.com",
   "keywords": [
@@ -32,7 +32,7 @@
     "npm": "1.2.x"
   },
   "dependencies": {
-    "docpad": "6.x",
+    "docpad": "6.30.x",
     "docpad-plugin-cleanurls": "2.x",
     "docpad-plugin-coffeescript": "2.x",
     "docpad-plugin-eco": "2.x",
