@@ -1,7 +1,7 @@
 ---
 title: Mount Shasta - Her Mountain
 date: 2010-4-30
-noun: Mount Shast
+noun: Mount Shasta
 name: Her Mountain
 smug_key: 'bSfxKhm'
 links: http://www.lesliephotos.com/gallery/getalink.mg?AlbumID=28892418&AlbumKey=vGKDCF&ImageID=2454836914&ImageKey=bSfxKhm&how=forum&Page=1

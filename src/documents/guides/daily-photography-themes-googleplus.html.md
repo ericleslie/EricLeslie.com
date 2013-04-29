@@ -127,10 +127,6 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/108032623298499022371" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108032623298499022371?sz=50" title="Gary Posner"></a>
 	</li>
 	<li>
-		<strong>Sweets Sunday: </strong>Share a photo of any type of sweets. Tag <a href="https://plus.google.com/s/%23SweetsSunday/posts" target="_blank">#SweetsSunday</a>. <br />
-		<a href="https://plus.google.com/108258998494605140446" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/108258998494605140446?sz=50" title="Michael Earley"></a>
-	</li>
-	<li>
 		<strong>World Culture Sunday: </strong>Images should visually describe something about a culture. What they think, how they live and/or it's history. This could be statues, people, festivals, ceremonies, architecture and lifestyle. Please remember,  A "travel snapshot" does not necessarily equal a "cultural" photograph. Tag <a href="https://plus.google.com/s/%23WorldCultureSunday/posts" target="_blank">#WorldCultureSunday</a> <a href="https://plus.google.com/u/0/102670290612181920168/posts" target="_blank">G+ Page</a>. <br />
 		<a href="https://plus.google.com/106978796714856807225" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106978796714856807225?sz=50" title="Gene Tewksbury"></a>
 	</li>
