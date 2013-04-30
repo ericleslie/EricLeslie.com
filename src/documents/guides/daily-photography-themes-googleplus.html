@@ -14,23 +14,49 @@ $(document).ready(function(){
 	
 	var clip = new ZeroClipboard( $('button.btn-mini') );
 
-	clip.on( 'complete', function(client, args) {
+	clip.on('complete', function( client, args ) {
 		$(this).text("Copied!");
 		console.log(args.text);
-	} );
+	});
+
+	/* It appears to be firing this event twice, will investigate later.
+	clip.on('noflash', function( client, args ) {
+
+		clip.off('complete', function(){
+				$('button.btn-mini').click(function(){
+				console.log(this);
+				var text = $(this).attr("data-clipboard-text");
+				console.log(text);
+				$(this).after('<span class="alert alert-error"><strong>Flash Required</strong> ' + text + '</span>');
+			});
+		});
+
+		console.log("noflash");
+
+		
+	});
+
+	clip.on('wrongflash', function ( client, args ) {
+		//$(this).after('<span class="alert alert-error"><strong>Unsupported Flash</strong> ' + args.text);
+	});
+	*/
+
 
 });
 </script>
 
 <div class="alert alert-info">
 <h4>Hey there!</h4>
-I am working on getting the theme list updated. So if you curate a theme that's not listed here or you know something has changed with an existing theme. Please [email](mailto:eric@ericleslie.com) me or leave a comment below. Thank you!
+I am working on getting the theme list updated. So if you curate a theme that's not listed here or you know something has changed with an existing theme. Please <a href="mailto:eric@ericleslie.com">email</a> me or leave a comment below. Thank you!
 </div>
 
 <p style="text-align: center;">
 	<img class="aligncenter" title="Google+ Daily Photography Themes" src="http://www.lesliephotos.com/Other/embed/i-k4HBKQM/0/L/Collage-L.jpg" alt="" width="600" height="360" />
 </p>
-<p>Participation is simple, post a themed picture on the appropriate day and be sure to include the theme's title or tag (ie #fallfriday) in your post so it can be found in search. Please mention the <strong>curator</strong> for each theme when you participate. I just put the list together, so I'm not responsible for <em>every</em> theme, just the ones I'm curating. I assembled the list for the community's benefit, not my own. On the search page, there is a handy "Save this Search" button where you can have quick access to it on the sidebar whenever you need it.</p>
+
+<p>Participation is simple, just click the "Copy Hashtag" button to copy the hashtag and curators to the clipboard. Jump over to Google+, upload an appropriate photo for the theme and paste the text at the end of your post. <strong>Do not modify this string.</strong> Google+ will convert all the +101140516949313637221 type numbers to working curator and theme page links when you submit the post. Easy Peasy!</p>
+
+<p>I just put the list together, so I'm not responsible for <em>every</em> theme, just the ones I'm curating. I assembled the list for the community's benefit, not my own. On the search page, there is a handy "Save this Search" button where you can have quick access to it on the sidebar whenever you need it.</p>
 
 <p>This list is big and growing fast so treat it a lot like the menu at your favorite restaurant and all the items are on the a la carte menu. Pick and choose your favorite themes and have fun!</p>
 
@@ -38,36 +64,57 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 <p>These tags are not linked to any single day and easily combined with other tags and themes.</p>
 <ul class="gplus-themes">
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23PortraitPoker/posts" target="_blank">#PortraitPoker</a>:</strong> Please post portraits. A portrait is a photograph in which the subject of the photograph is a person (or animals on occasion.) Trash-talking and bluffing are encouraged. This is a poker game! But please try to keep the conversation intelligent. Please follow the current theme which changes by announcement.<br />
+		<strong><a href="https://plus.google.com/u/0/s/%23PortraitPoker/posts" target="_blank">#PortraitPoker</a>:</strong> Please post portraits. A portrait is a photograph in which the subject of the photograph is a person (or animals on occasion.) Trash-talking and bluffing are encouraged. This is a poker game! But please try to keep the conversation intelligent. Please follow the current theme which changes by announcement.
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#PortraitPoker curated by +101140516949313637221 +106360687191375633839">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/101140516949313637221" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/101140516949313637221?sz=50" title="J. Rae Chip"></a>
 		<a href="https://plus.google.com/106360687191375633839" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/106360687191375633839?sz=50" title="Kelly-Shane Fuller"></a>
 	</li>
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23BathroomSelfie/posts" target="_blank">#BathroomSelfie</a>:</strong> Share creative and fun self portraits (selfies) taken in a bathroom. <br />
+		<strong><a href="https://plus.google.com/u/0/s/%23BathroomSelfie/posts" target="_blank">#BathroomSelfie</a>:</strong> Share creative and fun self portraits (selfies) taken in a bathroom. 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#BathroomSelfie curated by +102476152658204495450">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/102476152658204495450" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/102476152658204495450?sz=50" title="Lotus Carroll"></a>
 	</li>
 	<li>
 		<strong><a href="https://plus.google.com/s/%23critiquepls/posts" target="_blank">#CrtiquePls</a>:</strong> Do you want to get serious constructive criticism on a photograph you've been working on? Simply use the tag <strong><em><a href="https://plus.google.com/s/%23critiquepls/posts" target="_blank">#CritiquePls</a></em></strong> in your post and share the photo publicly. That way people who see the tag will be free to share their thoughts knowing they won't hurt your feelings. Please keep the comments civil and professional. For more information read <a href="https://plus.google.com/u/0/117697399358826098478">Karin Nelson's</a> post found <a href="https://plus.google.com/u/0/117697399358826098478/posts/bwJX2ETpyAW" target="_blank">here</a>.</p>
 	</li>
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23FineArtPls/posts" target="_blank">#FineArtPls</a>:</strong> Place this tag on any photo from any genre except nudes (G+'s rules) that have been created primarily for aesthetic purposes and judged for its beauty. <br />
+		<strong><a href="https://plus.google.com/u/0/s/%23FineArtPls/posts" target="_blank">#FineArtPls</a>:</strong> Place this tag on any photo from any genre except nudes (G+'s rules) that have been created primarily for aesthetic purposes and judged for its beauty. 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#FineArtPls curated by +114682714977718338586">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/114682714977718338586" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114682714977718338586?sz=50" title="Marina Chen"></a>
 	</li>
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23AllThingsRed/posts" target="_blank">#AllThingsRed</a>:</strong> Share photos full of the color red. G+ Page: +<a href="https://plus.google.com/107005981406486839826" target="_blank">AllThingsRed</a> <br />
+		<strong><a href="https://plus.google.com/u/0/s/%23AllThingsRed/posts" target="_blank">#AllThingsRed</a>:</strong> Share photos full of the color red. G+ Page: +<a href="https://plus.google.com/107005981406486839826" target="_blank">AllThingsRed</a> 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#AllThingsRed (+107005981406486839826) curated by +103330025858600351508 +116719742309660880771">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/103330025858600351508" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103330025858600351508?sz=50" title="Lucille Galleli"></a>
 		<a href="https://plus.google.com/116719742309660880771" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/116719742309660880771?sz=50" title="Stephen Thackeray"></a>
 	</li>
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23YisforYello/posts" target="_blank">#YisforYellow </a>:</strong> Share photos full of the color yellow. G+ Page: +<a href="https://plus.google.com/118053843672024222710" target="_blank">YisforYellow</a> <br />
+		<strong><a href="https://plus.google.com/u/0/s/%23YisforYello/posts" target="_blank">#YisforYellow </a>:</strong> Share photos full of the color yellow. G+ Page: +<a href="https://plus.google.com/118053843672024222710" target="_blank">YisforYellow</a> 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#YisforYellow (+118053843672024222710) curated by +103330025858600351508">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/103330025858600351508" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103330025858600351508?sz=50" title="Lucille Galleli"></a>
 	</li>
 	<li>
-		<strong><a href="https://plus.google.com/u/0/s/%23LandscapePhotography" target="_blank">#LandscapePhotography</a>:</strong> Share any kind of Landscape photo. G+ Page: <a href="https://plus.google.com/105588730866970114510" target="_blank">+Landscape Photgraphy</a> <br />
+		<strong><a href="https://plus.google.com/u/0/s/%23LandscapePhotography" target="_blank">#LandscapePhotography</a>:</strong> Share any kind of Landscape photo. G+ Page: <a href="https://plus.google.com/105588730866970114510" target="_blank">+Landscape Photography</a> 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#LandscapePhotography (+105588730866970114510) curated by +107958599012052618167">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/107958599012052618167" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/107958599012052618167?sz=50" title="Margaret Tompkins"></a>
 	</li>
 	<li>
-		<strong>Low Angle Photography</strong> Share a photo shot from a camera positioned low on the vertical axis, anywhere below the eyeline, looking up. Use <a href="https://plus.google.com/u/0/s/%23LowAnglePhotography" target="_blank">#LowAnglePhotography</a> in your post. G+ Page: <a href="https://plus.google.com/118304888464001365482" target="_blank">+Low Angle Photography</a> <br />
+		<strong>Low Angle Photography</strong> Share a photo shot from a camera positioned low on the vertical axis, anywhere below the eye line, looking up. Use <a href="https://plus.google.com/u/0/s/%23LowAnglePhotography" target="_blank">#LowAnglePhotography</a> in your post. G+ Page: <a href="https://plus.google.com/118304888464001365482" target="_blank">+Low Angle Photography</a> 
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#LowAnglePhotography (+118304888464001365482) curated by +114441204367012264249">Copy Hashtag</button><br />
+
 		<a href="https://plus.google.com/114441204367012264249" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114441204367012264249?sz=50" title="Jeremy Lavender"></a>
 	</li>
 </ul>
@@ -224,9 +271,9 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 <h2>Monday</h2>
 <ul class="gplus-themes">
 	<li>
-		<strong>Mountain Monday</strong>: Share a photo with mountains. Use <a href="https://plus.google.com/s/%23MountainMonday/posts" target="_blank"><em>#MountainMonday</em></a> tag in your post. 
+		<strong>Mountain Monday</strong>: Share a photo with mountains. Hashtag <a href="https://plus.google.com/s/%23MountainMonday/posts" target="_blank"><em>#MountainMonday</em></a> (<span class="muted">+</span><a href="https://plus.google.com/u/0/114430484339909168188">Mountain Monday</a>)
 
-		<button class="btn btn-mini" type="button" data-clipboard-text="#MountainMonday curated by +113543880726286626830">Copy Hashtag</button><br />
+		<button class="btn btn-mini" type="button" data-clipboard-text="#MountainMonday (+114430484339909168188) curated by +113543880726286626830">Copy Hashtag</button><br />
 		
 		<a href="https://plus.google.com/113543880726286626830" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/113543880726286626830?sz=50" title="Michael Russell"></a>
 	</li>
@@ -636,12 +683,19 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/109795502005319949067" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/109795502005319949067?sz=50" title="Peter Carroll"></a>
 	</li>
 	<li>
-		<strong>Wharf Wednesday:</strong> share your best Wharf shots on Wednesday. Use<a href="https://plus.google.com/s/%23WharfWednesday" target="_blank">#WharfWednesday</a> in your post. G+ Page <a href="https://plus.google.com/106756112284152078530">+Wharf Wednesday</a> 
+		<strong>Wharf Wednesday:</strong> share your best Wharf shots on Wednesday. Hash tag <a href="https://plus.google.com/s/%23WharfWednesday" target="_blank">#WharfWednesday</a> (<span class="muted">+</span><a href="https://plus.google.com/106756112284152078530" title="G+ Page">Wharf Wednesday</a>)
 
 		<button class="btn btn-mini" type="button" data-clipboard-text="#WharfWednesday (+106756112284152078530) curated by +103182936240028103005 +111892763335178073075">Copy Hashtag</button><br />
 		
 		<a href="https://plus.google.com/103182936240028103005" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/103182936240028103005?sz=50" title="Michael Blyde"></a>
 		<a href="https://plus.google.com/111892763335178073075" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/111892763335178073075?sz=50" title="Blake Harrold"></a>
+	</li>
+	<li>
+		<strong>Wet Wednesday:</strong> Share a photo that depicts the beauty that is water. Hash tag <a href="https://plus.google.com/s/%23WetWednesday" target="_blank">#WetWednesday</a> (<span class="muted">+</span><a href="https://plus.google.com/u/0/105837174297260653678" title="G+ Page">Wet Wednesday</a>)
+
+		<button class="btn btn-mini" type="button" data-clipboard-text="#WetWednesday (+105837174297260653678) curated by +104100048721044197927">Copy Hashtag</button><br />
+		
+		<a href="https://plus.google.com/104100048721044197927" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104100048721044197927?sz=50" title="Jen Baptist"></a>
 	</li>
 
 </ul>
@@ -1075,11 +1129,13 @@ I am working on getting the theme list updated. So if you curate a theme that's 
 		<a href="https://plus.google.com/110806949181190360839" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/110806949181190360839?sz=50" title="Gemma Costa"></a>
 	</li>
 	<li>
-		<strong>Stone Saturday:</strong> Share all photographs about stone, geological structure (fold, fault, cliff, gorges) or where use of stone is highlighted. Tag <em><a href="https://plus.google.com/s/%23StoneSaturday/posts" target="_blank">#StoneSaturday</a></em>.
+		<strong>Stone Saturday:</strong> Share all photographs about stone, geological structure (fold, fault, cliff, gorges) or where use of stone is highlighted. Tag <em><a href="https://plus.google.com/s/%23StoneSaturday/posts" target="_blank">#StoneSaturday</a></em> (<span class="muted">+</span><a href="https://plus.google.com/u/0/112562409639204893967">Stone Saturday</a>).
 
-		<button class="btn btn-mini" type="button" data-clipboard-text="#StoneSaturday curated by +114693772828500324009">Copy Hashtag</button><br />
+		<button class="btn btn-mini" type="button" data-clipboard-text="#StoneSaturday (+112562409639204893967) curated by +114693772828500324009 +104100048721044197927">Copy Hashtag</button><br />
 		
 		<a href="https://plus.google.com/114693772828500324009" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/114693772828500324009?sz=50" title="Antoine Berger"></a>
+		<a href="https://plus.google.com/104100048721044197927" target="_blank"><img src="https://profiles.google.com/s2/photos/profile/104100048721044197927?sz=50" title="Jen Baptist"></a>
+
 	</li>
 	<li>
 		<strong>Saturday Style:</strong> Share a photo that represents your idea of style. Tag <em><a href="https://plus.google.com/s/%23SAS/posts" target="_blank">#SAS</a></em>. 

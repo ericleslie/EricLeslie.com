@@ -3,7 +3,7 @@ layout: page-sidebar
 ---
 
 <article id="post" class="post">
-	<h1><%= @document.title %></h1>
+	<h2><%= @document.title %></h2>
 	
 	<div class="social-icons">
 		<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @document.title %>">Tweet</a></tweet></div>	
