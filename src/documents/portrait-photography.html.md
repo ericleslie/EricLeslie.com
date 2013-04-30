@@ -7,7 +7,7 @@ description: The premier portrait photographer serving Red Bluff, Redding and Ch
 ###Let's capture your life's moments together.
 I know what an honor and a privilege it is to be entrusted with your memories, so I treat every shoot like gold. I also know how awkward it can be to have a stranger (me) take pictures of you, so I always keep the mood relaxed and fun. My clients always loosen right up and we have a great time.
 
-[![Redding Model Photo](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/i-FFPLdDv/1/L/DSC4296-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/25377012_9CQzVZ#!i=2087708908&k=FFPLdDv&lb=1&s=A)
+[![Redding Model Photographer](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/i-FFPLdDv/1/L/DSC4296-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Amanda-Huggard/25377012_9CQzVZ#!i=2087708908&k=FFPLdDv&lb=1&s=A)
 
 <div class="row-fluid">
 	<div class="span6">
@@ -96,7 +96,7 @@ Every shoot shares the same base features. A lot of time, a lot of great picture
 
 Did you have your heart set on me, but you cannot quite afford a session? I do accept trades for goods and services. Please don't hesitate to contact me and make me an offer.
 
-[![Redding Senior Portrait](http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/i-bZmJqWV/0/L/DSC2756-2-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/25107283_Skhz8m#!i=2059961382&k=bZmJqWV&lb=1&s=A)
+[![Redding Senior Portrait Photographer](http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/i-bZmJqWV/0/L/DSC2756-2-L.jpg)](http://www.lesliephotos.com/Other-Shoots/Jennifer-Mailhot/25107283_Skhz8m#!i=2059961382&k=bZmJqWV&lb=1&s=A)
 
 
 ###When are you available?
@@ -107,13 +107,13 @@ My calendar is always changing, so please contact me so we can get you booked.
 <a href="mailto:eric@ericleslie.com" class="btn btn-primary">Email me Eric@ericleslie.com</a> &amp; <a href="tel:5307278020" class="btn btn-primary">Call or Text me 530-727-8020</a>
 
 
-[![Red Bluff Family Shoot](http://www.lesliephotos.com/Families/Some-Highlights/i-DQ7bPHf/7/L/DSC8715-Edit-L.jpg)](http://www.lesliephotos.com/Families/Some-Highlights/22036402_Mn8K69#!i=1984058209&k=DQ7bPHf&lb=1&s=A)
+[![Red Bluff Family Photographer](http://www.lesliephotos.com/Families/Some-Highlights/i-DQ7bPHf/7/L/DSC8715-Edit-L.jpg)](http://www.lesliephotos.com/Families/Some-Highlights/22036402_Mn8K69#!i=1984058209&k=DQ7bPHf&lb=1&s=A)
 
-[![Chico Engagement Shoot](http://www.lesliephotos.com/Engagements/Robert-Taggard-and-Kendall/i-h6Gkgr8/0/L/DSC4726-L.jpg)](http://www.lesliephotos.com/Engagements/Robert-Taggard-and-Kendall/25523669_8nb6Dq#!i=2103864004&k=h6Gkgr8&lb=1&s=A)
+[![Chico Engagement Photographer](http://www.lesliephotos.com/Engagements/Robert-Taggard-and-Kendall/i-h6Gkgr8/0/L/DSC4726-L.jpg)](http://www.lesliephotos.com/Engagements/Robert-Taggard-and-Kendall/25523669_8nb6Dq#!i=2103864004&k=h6Gkgr8&lb=1&s=A)
 
-[![Cottonwood Family Shoot](http://www.lesliephotos.com/Families/The-Leslies-Part-Duex/i-zGXdzmG/4/L/DSC5531-L.jpg)](http://www.lesliephotos.com/Families/The-Leslies-Part-Duex/22681720_fhX3vt#!i=1818291926&k=zGXdzmG&lb=1&s=A)
+[![Cottonwood Family Photographer](http://www.lesliephotos.com/Families/The-Leslies-Part-Duex/i-zGXdzmG/4/L/DSC5531-L.jpg)](http://www.lesliephotos.com/Families/The-Leslies-Part-Duex/22681720_fhX3vt#!i=1818291926&k=zGXdzmG&lb=1&s=A)
 
-[![Red Bluff children](http://www.lesliephotos.com/Families/Some-Highlights/i-jZLjqK8/8/L/DSC6642-L.jpg)](http://www.lesliephotos.com/Families/Some-Highlights/22036402_Mn8K69#!i=1758417111&k=jZLjqK8&lb=1&s=A)
+[![Red Bluff children Photographer](http://www.lesliephotos.com/Families/Some-Highlights/i-jZLjqK8/8/L/DSC6642-L.jpg)](http://www.lesliephotos.com/Families/Some-Highlights/22036402_Mn8K69#!i=1758417111&k=jZLjqK8&lb=1&s=A)
 
 ####To see more photos, check out the client galleries filled with recent work.
 <a href="http://www.lesliephotos.com" class="btn btn-primary">Recent Client Galleries</a>

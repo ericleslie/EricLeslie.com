@@ -13,11 +13,11 @@ description: Create shots for your wedding invitations and just to share the big
 </div>
 
 
-<img src="http://www.lesliephotos.com/Engagements/Andrew-Shannon-Chico/i-rShns7K/0/X2/almost-blossom-kiss.jpg" alt="Engaged at an Almond orchard" class="img-rounded">
+<img src="http://www.lesliephotos.com/Engagements/Andrew-Shannon-Chico/i-rShns7K/0/X2/almost-blossom-kiss.jpg" alt="Engaged at an Red Bluff Almond orchard" class="img-rounded">
 
-<p class="text-center"><img src="http://www.lesliephotos.com/Engagements/Casey-Jenneca-Red-Bluff-2013/i-jt3bxGd/2/X3/cowboy-engagement.jpg" alt="western engagment" class="img-rounded"></p>
+<p class="text-center"><img src="http://www.lesliephotos.com/Engagements/Casey-Jenneca-Red-Bluff-2013/i-jt3bxGd/2/X3/cowboy-engagement.jpg" alt="Red Bluff western engagment" class="img-rounded"></p>
 
-<img src="http://www.lesliephotos.com/Engagements/Lee-Bailey-Red-Bluff-2013/i-F5kJHSL/1/X2/engaged-classic-car.jpg" alt="Classic Oldmobile engagement" class="img-rounded">
+<img src="http://www.lesliephotos.com/Engagements/Lee-Bailey-Red-Bluff-2013/i-F5kJHSL/1/X2/engaged-classic-car.jpg" alt="Classic Oldmobile engagement in Red Bluff" class="img-rounded">
 
 <img src="http://www.lesliephotos.com/Engagements/Robert-Taggard-and-Kendall/i-CnwKrmj/0/X2/honeyrun-bridge-engagement.jpg" alt="Engaged in Chico" class="img-rounded">
 
