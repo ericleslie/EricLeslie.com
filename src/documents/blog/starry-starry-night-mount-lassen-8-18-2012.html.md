@@ -14,10 +14,14 @@ This Saturday August 18th from 7-11pm, the Tehama County Branding Project is hos
 
 Why am I telling you about this? At the end of the evening they will hold a silent auction from local artists and I have donated two shots. They are 20x30 versions of the shots below printed directly on metal with float mounts. Words can't describe how good these metal prints look, so you need to come see them for yourself. They are signed and numbered by yours truly and if you come out, I get the honor of shaking your hand.
 
-<a href="http://ericleslie.com/image/Sacramento-River-(His-Glory)"><img class="aligncenter size-full wp-image-438" title="Sacramento River (His Glory)" src="http://ericleslie.com/blog/wp-content/uploads/2012/08/20120424-Sacramento-River-His-Glory.jpg" alt="" width="640" height="424" /></a>
-<p style="text-align: center;">Order a <a href="http://ericleslie.com/image/Sacramento-River-(His-Glory)">Artist Proof Print</a> of this photo</p>
-<a href="http://ericleslie.com/image/Cinder-Cone-(Swept-Away)"><img class="aligncenter size-full wp-image-437" title="Cinder Cone (Swept Away)" src="http://ericleslie.com/blog/wp-content/uploads/2012/08/20110618-Cinder-Cone-Swept-Away.jpg" alt="" width="640" height="425" /></a>
-<p style="text-align: center;">Order an <a href="http://ericleslie.com/image/Cinder-Cone-(Swept-Away)">Artist Proof Print</a> of this photo.</p>
+<a href="http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2455008737&k=VJL2kS7&lb=1&s=A" ><img src="http://www.lesliephotos.com/Fine-Art-1/erics-work/i-VJL2kS7/0/XL/DSC_5902-Edit-L.jpg"alt="Sacramento River (His Glory)Iron Canyon Loop at the Sacramento River in Red Bluff, CA. ©2012"></a>
+
+<p class="text-center"><small>Order a <a href="http://www.lesliephotos.com/buy/28892418_vGKDCF/2455008737_VJL2kS7/">Signed Print</a> of this image.</small></p>
+
+<a href="http://www.lesliephotos.com/Fine-Art-1/erics-work/28892418_vGKDCF#!i=2454953140&k=LgVDMN4&lb=1&s=A" ><img src="http://www.lesliephotos.com/Fine-Art-1/erics-work/i-LgVDMN4/0/XL/DSC_1054-Edit-L.jpg" alt="Cinder Cone (Swept Away)Painted Dunes and Cinder Cone in Lassen National Park ©2011"></a>
+
+<p class="text-center"><small>Order a <a href="http://www.lesliephotos.com/buy/28892418_vGKDCF/2454953140_LgVDMN4/">Signed Print</a> of this photo.</small></p>
+
 Tickets are $50/person, and transportation is available from Red Bluff (space is limited) for an additional $25. Tickets are available at:
 <ol>
 	<li><a href="http://www.brownpapertickets.com/ref/204387/event/258090">www.brownpapertickets.com</a></li>

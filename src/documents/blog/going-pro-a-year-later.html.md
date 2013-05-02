@@ -12,9 +12,9 @@ post: true
 
 On January 11, 2012 I set a bold goal of transitioning into a professional photographer by June. I would be walking away from my web development career into the world of self-employment. Today, it's a year later and I was supposed to cut the cord from my 9-5 six months ago. Did I accomplish my goal? In part I have, but I am still sitting at a desk working for someone else.
 
-<img class="aligncenter size-full wp-image-580" alt="Professional Photographer Eric Leslie" src="http://ericleslie.com/blog/wp-content/uploads/2013/02/MG_44982.jpg" width="640" height="959" />
+<p class="text-center"><img src="http://www.lesliephotos.com/photos/i-NgnBBwx/0/X2/i-NgnBBwx-X2.jpg" alt="Professional Photographer Eric Leslie" class="img-rounded"></p>
 
-<strong>So what did I actually accomplish?</strong>
+###So what did I actually accomplish?
 On the practical side of things, I have built a solid foundation for a portrait photography business. One of the first things I had to do was build up my portfolio. In the beginning, I shot for free and for everyone that was willing. In hindsight I needed much more than a portfolio, I needed some experience. Shooting something like a wedding is a high-pressure and fast-paced environment. Learning how to operate my camera, setup lighting, pose people and do it all with a smile takes time and you can't learn all of that reading a blog.
 
 Finding people who want their pictures taken for free is easy. The trick is securing those life-sustaining paying clients which is a complicated problem when you're bootstrapping your business. I couldn't just throw a bunch of money at the problem. At first my only serious plan for finding clients was through word of mouth on Facebook. I would share tagged pictures of all my portraits so everyone's friends and family would see the shots. Many photographers generate their leads this way, but they are much more connected with their local communities than I am. I'm still practicing this, but it has yet to lead to a single shoot for me. It's just going to take more time for me.
