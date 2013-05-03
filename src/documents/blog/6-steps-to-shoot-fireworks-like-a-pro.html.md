@@ -40,7 +40,7 @@ When I was learning this for the first time, I struggled to readjust my mind aro
 
 With the help of a friend or family member, you can practice the night before. Give them a flashlight after dark and have them write their name or draw something. I use similar settings to properly expose a bright flash light pointed right in the camera in the dark, so it's great practice adjust the settings and getting a feel for what you need to do before game-time.
 
-<p class="text-center"><img src="http://www.lesliephotos.com/photos/i-Tt45BTC/0/X2/i-Tt45BTC-X2.jpg" alt="Light writing with a flashlight"><small>Here was some light writing I did during blue hour to myself "warmed up" for the real fireworks shot to come.</small></p>
+<p class="text-center"><img src="http://www.lesliephotos.com/photos/i-Tt45BTC/0/X2/i-Tt45BTC-X2.jpg" alt="Light writing with a flashlight"><br><small>Here was some light writing I did during blue hour to myself "warmed up" for the real fireworks shot to come.</small></p>
 
 <p class="text-center"><img src="http://www.lesliephotos.com/photos/i-BQW6rxc/0/X2/i-BQW6rxc-X2.jpg" alt="Green Fireworks over Lake Siskiyou"></p>
 
