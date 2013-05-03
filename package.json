@@ -5,7 +5,7 @@
     "ericleslie.com",
     "www.ericleslie.com"
   ],
-  "version": "0.2.6-7",
+  "version": "0.2.6-12",
   "description": "",
   "homepage": "https://ericleslie.com",
   "keywords": [
@@ -49,9 +49,6 @@
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"
   },
-  "bundledDependencies": [
-    "docpad-plugin-paged"
-  ],
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
     "start": "node_modules/docpad/bin/docpad-server"
