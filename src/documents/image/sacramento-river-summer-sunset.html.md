@@ -5,6 +5,7 @@ keywords: sunset, sacramento river, red bluff, oak trees
 tags: ['Sunset', 'Sacramento River', 'Red Bluff', 'California', 'Reflection']
 alt: A colorful sunset on the sacrmento river.
 date: 2010-8-10
+created: 2010-8-10
 noun: Sacramento River
 name: Summer Sunset
 size: XL

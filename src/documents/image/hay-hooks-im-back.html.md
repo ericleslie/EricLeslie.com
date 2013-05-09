@@ -5,6 +5,7 @@ keywords: Hay Hooks, Hay, bale, western
 tags: ['Hay Hooks', 'Hay', 'Bale', 'Western']
 alt: Hay hooks stuck in a bale of hay.
 date: 2010-10-19
+created: 2010-10-19
 noun: Hay Hooks
 name: I'm Back
 exposure: 1/60

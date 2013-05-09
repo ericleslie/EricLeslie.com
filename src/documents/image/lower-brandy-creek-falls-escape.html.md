@@ -5,6 +5,7 @@ keywords: Brandy Creek Falls, waterfall, creek, Whiskeytown, landscape, Redding,
 tags: ['Brandy Creek Falls', 'Waterfall', 'Creek', 'Whiskeytown', 'Landscape', 'Redding', 'California']
 alt: Lower Brandy Creek Falls in Whiskeytown NRA
 date: 2010-9-10
+created: 2010-9-10
 noun: Lower Brandy Creek Falls
 name: Escape
 size: XL

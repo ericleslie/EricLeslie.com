@@ -5,6 +5,7 @@ keywords: fisherman, sacramento river, lifestyle, black and white, redding, cali
 tags: ['Fisherman', 'Sacramento River', 'Lifestyle', 'Black and White', 'Redding', 'California']
 alt: Fisherman casting a line into the Sacrmento River.
 date: 2010-11-8
+created: 2010-11-8
 noun: River Fisherman
 name: Dreaming of You
 exposure: 1/4000

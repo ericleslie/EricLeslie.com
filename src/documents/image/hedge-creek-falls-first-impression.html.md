@@ -5,6 +5,7 @@ keywords: Hedge Creek, waterfall, basalt, Landscape, Dunsmuir, California
 tags: ['Hedge Creek Falls', 'Waterfall', 'Landscape', 'Dunsmuir', 'California']
 alt: Hedge Creek Falls in Dunsmuir, CA
 date: 2010-7-4
+created: 2010-7-4
 noun: Hedge Creek Falls
 name: First Impression
 size: XL

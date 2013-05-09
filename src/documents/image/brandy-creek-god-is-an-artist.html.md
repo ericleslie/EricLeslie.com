@@ -5,6 +5,7 @@ keywords: brandy creek, whiskeytown, landscape, redding, californai, waterfall
 tags: ['Brandy Creek', 'Whiskeytown', 'Cascade', 'Waterfall', 'Redding', 'California']
 alt: Double cascade on Brandy Creek in Whiskeytown
 date: 2010-8-10
+created: 2010-8-10
 noun: Brand Creek
 name: God is an Artist
 size: XL

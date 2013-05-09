@@ -5,6 +5,7 @@ keywords: sunset, red bluff, diversion dam, sacramento river, california
 tags: ['Sunset', 'Dam', 'Red Bluff', 'Sacramento River', 'Landscape']
 alt: A pink sunset over the Red Bluff Diversion Dam and Sacramento River.
 date: 2010-11-4
+created: 2010-11-4
 noun: Red Bluff Diversion Dam
 name: Well Served
 exposure: .8

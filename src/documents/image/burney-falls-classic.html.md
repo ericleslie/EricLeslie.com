@@ -5,6 +5,7 @@ keywords: Burney Falls, waterfall, cascade, moss, bassalt, lens flare, landscape
 tags: ['Burney Falls', 'Waterfall', 'Landscape', 'California', 'Bassalt', 'Lens Flare', 'Sunstar']
 alt: The classic side-view of Burney Falls
 date: 2010-7-10
+created: 2010-7-10
 noun: McArthur Burney Falls
 name: Classic
 size: XL

@@ -5,6 +5,7 @@ keywords: Shasta College, architecture, hdr, redding, california
 tags: ['Shasta College', 'HDR', 'Architecture', 'Black and White', 'Redding', 'California']
 alt: The downtown Redding Shasta College campus shot in HDR.
 date: 2010-9-3
+created: 2010-9-3
 noun: Shasta College
 name: Take Me Higher
 size: XL

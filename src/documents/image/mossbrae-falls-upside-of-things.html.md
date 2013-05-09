@@ -5,6 +5,7 @@ keywords: Mossbrae Falls, Sacramento River, waterfall, bear grass, Dunsmuir, Cal
 tags: ['Mossbrae Falls', 'Sacramento River', 'Waterfall', 'Bear Grass', 'Dunsmuir', 'California', 'Landscape']
 alt: Looking down stream at Mossbrae Falls
 date: 2010-8-13
+created: 2010-8-13
 noun: Mossbrae Falls
 name: The Upside of Things
 size: XL

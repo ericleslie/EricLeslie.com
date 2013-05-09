@@ -5,6 +5,7 @@ keywords: fireworks, lake siskiyou, independence day, fourth of july
 tags: ['Fireworks', 'Lake Siskiyou', 'Independence Day', '']
 alt: Fireworks explode over Lake Siskiyou
 date: 2010-7-4
+created: 2010-7-4
 noun: Lake Siskiyou Fireworks
 name: 
 size: XL

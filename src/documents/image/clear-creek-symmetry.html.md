@@ -5,6 +5,7 @@ keywords: geology, clear creek, gorge, sunset, redding, California
 tags: ['Clear Creek Gorge', 'Landscape', 'Sunset', 'Geology', 'Redding', 'California']
 alt: Clear Creek Gorge at sunset.
 date: 2010-11-7
+created: 2010-11-7
 noun: Clear Creek Gorge
 name: Symmetry
 exposure: 1/2

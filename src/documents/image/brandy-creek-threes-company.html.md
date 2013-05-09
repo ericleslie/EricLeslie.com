@@ -5,6 +5,7 @@ keywords: Brandy Creek, cascade, swimming hole, Whiskeytown, Redding, California
 tags: ['Brandy Creek', 'Cascade', 'Swimming Hole', 'Whiskeytown', 'Redding', 'California']
 alt: Thee cascades side by side on Brandy Creek in Whiskeytown
 date: 2010-9-10
+created: 2010-9-10
 noun: Brandy Creek
 name: Threes Company
 exposure: 13

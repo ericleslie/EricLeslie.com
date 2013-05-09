@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
 title: About Eric Leslie
+description: Eric and Crystal Leslie are photographers based out of Northern California shooting Weddings, portraits, Sports, Rodeos and all manner of Events. 
 ---
 
 <ul class="breadcrumb">

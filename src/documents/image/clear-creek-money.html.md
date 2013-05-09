@@ -5,6 +5,7 @@ keywords: clear creek, black and white, gorge, river, landscape, redding, califo
 tags: ['Clear Creek Gorge', 'Black and White', 'Redding', 'California', 'Landscape']
 alt: Clear creek gorge at sunset in black and white
 date: 2010-11-7
+created: 2010-11-7
 noun: Clear Creek
 name: Money
 exposure: 1/4

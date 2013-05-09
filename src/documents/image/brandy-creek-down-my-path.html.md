@@ -5,6 +5,7 @@ keywords: Brandy Creek, Whiskeytown, cascade, waterfall, Redding, Californid
 tags: ['Brandy Creek', 'Whiskeytown', 'Cascade', 'Waterfall', 'Water', 'Landscape', 'Redding', 'California']
 alt: An unnamed series of cascades on Brandy Creek in Whiskeytown
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: Down My Path
 size: XL

@@ -5,6 +5,7 @@ keywords: mount lassen, lake helen, volcano, cascades, landscape, California, bl
 tags: ['Mount Lassen', 'Lake Helen', 'Volcano', 'Cascades', 'Landscape', 'California', 'Black and White']
 alt: Sunrise at mount lassen and helen lake
 date: 2010-6-7
+created: 2010-6-7
 noun: Mount Lassen
 name: Alpine Opportunity
 size: XL

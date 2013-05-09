@@ -5,6 +5,7 @@ keywords: wheel line, irrigation, black and white, alfalfa, Grenada, California
 tags: ['Wheel Line', 'Irrigation', 'Black and White', 'Alfalfa', 'Grenada', 'California']
 alt: An idle wheel line sitting under a winter storm.
 date: 2010-11-27
+created: 2010-11-27
 noun: Wheel Line
 name: Patience
 exposure: 1/125

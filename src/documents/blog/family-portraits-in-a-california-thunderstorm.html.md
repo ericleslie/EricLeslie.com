@@ -3,7 +3,7 @@ title: Family Portraits in a California Thunderstorm
 tags: ['Nikon D90', 'Family Portraits', 'Portraits']
 date: 2012-6-11
 keywords: 
-description: 
+description: Shooting in extreme weather creates a unique climate and mood that you can't achieve any other way.
 author: Eric Leslie
 email: eric@ericleslie.com
 layout: post

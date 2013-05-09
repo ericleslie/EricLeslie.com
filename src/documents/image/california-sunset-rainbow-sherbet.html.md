@@ -1,6 +1,7 @@
 ---
 title: California Sunset - Rainbow Sherbet
 date: 2010-6-6
+created: 2010-6-6
 noun: California Sunset
 name: Rainbow Sherbet
 smug_key: 'ppkCXnL'

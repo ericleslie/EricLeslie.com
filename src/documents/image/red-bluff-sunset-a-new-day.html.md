@@ -5,6 +5,7 @@ keywords: sunset, sun beams, rolling oak trees, landscape, red bluff, california
 tags: ['Sunset', 'Rolling Hills', 'Oak Trees', 'Landscape', 'Red Bluff', 'California']
 alt: Sunset over the oaks of Red Bluff, California
 date: 2010-11-22
+created: 2010-11-22
 noun: Red Bluff Sunset
 name: A New Day
 exposure: 1/10

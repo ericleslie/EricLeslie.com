@@ -5,6 +5,7 @@ keywords: Sunset, rolling oaks, summer, Red Bluff, California
 tags: ['Sunset', 'Rolling Oaks', 'Summer', 'Landscape', 'Red Bluff', 'California']
 alt: California sunset in the rolling oaks of Red Bluff
 date: 2010-8-29
+created: 2010-8-29
 noun: Red Bluff Sunset
 name: Celestial Event
 size: XL

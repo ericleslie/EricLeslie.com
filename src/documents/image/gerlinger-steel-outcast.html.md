@@ -5,6 +5,7 @@ keywords: Gerlinger Steel, shop, tin, variegated, Redding, California
 tags: ['Gerlinger Steel', 'Shop', 'Variegated', 'Redding', 'Calfornia', 'Black and White']
 alt: Gerlinger Steel shop in Redding California.
 date: 2010-11-4
+created: 2010-11-4
 noun: Gerlinger Steel
 name: Outcast
 exposure: 1/200

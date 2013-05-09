@@ -5,6 +5,7 @@ keywords: oak tree, silhouette, sunset, grass
 tags: ['Oak Trees', 'Sunset', 'Silhouette', 'Summer', 'California']
 alt: hot summer day with an oak silhouette at sunset
 date: 2010-7-7
+created: 2010-7-7
 noun: Oak Tree Sunset
 name: Sunny California
 size: XL

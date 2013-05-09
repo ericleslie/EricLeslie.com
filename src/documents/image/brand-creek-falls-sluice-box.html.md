@@ -5,6 +5,7 @@ keywords: brandy creek, whiskeytown, waterfall, creek, landscape, redding, calif
 tags: ['Brandy Creek', 'Whiskeytown', 'Waterfall', 'Creek', 'Landscape', 'Redding', 'California']
 alt: Brandy Creek flows through a tight slot making a unique unnamed waterfall.
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek Falls
 name: Sluice Box
 size: XL

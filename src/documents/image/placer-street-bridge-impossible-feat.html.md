@@ -5,6 +5,7 @@ keywords: clear creek, bridge, landscape, architecture, Redding, California
 tags: ['Clear Creek', 'Bridge', 'Landscape', 'Architecture', 'Redding', 'California']
 alt: The Clear Creek level view of the Placer Street bridge.
 date: 2010-11-29
+created: 2010-11-29
 noun: Placer Street Bridge
 name: Impossible Feat
 exposure: .4

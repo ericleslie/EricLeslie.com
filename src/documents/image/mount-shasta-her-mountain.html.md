@@ -1,6 +1,7 @@
 ---
 title: Mount Shasta - Her Mountain
 date: 2010-4-30
+created: 2010-4-30
 noun: Mount Shasta
 name: Her Mountain
 smug_key: 'bSfxKhm'

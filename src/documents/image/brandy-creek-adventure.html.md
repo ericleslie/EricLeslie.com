@@ -5,6 +5,7 @@ keywords: cascade, autumn, Brandy creek, whiskeytown, redding, california
 tags: ['Cascade', 'Autumn', 'Brandy Creek', 'Whiskeytown', 'Redding', 'California']
 alt: Autumn color adorns Brandy Creek cascades.
 date: 2010-11-5
+created: 2010-11-5
 noun: Brandy Creek
 name: Adventure
 exposure: 1/4

@@ -5,6 +5,7 @@ keywords: Brandy creek, granite, summer, landscape, Whiskeytown
 tags: ['Brandy Creek', 'Whiskeytown', 'Creek', 'Landscape', 'Whiskeytown']
 alt: Standing the middle of Brandy Creek by some smooth granite stones.
 date: 2010-7-14
+created: 2010-7-14
 noun: Brandy Creek
 name: Well Rounded
 size: XL

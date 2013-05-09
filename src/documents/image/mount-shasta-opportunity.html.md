@@ -5,6 +5,7 @@ keywords: landscape, california, mount shasta, black and white, telephoto, fores
 tags: ['Mount Shasta', 'Landscape', 'Black and White', 'California']
 alt: a close-up view of Mount Shasta in California
 date: 2010-7-4
+created: 2010-7-4
 noun: Mount Shasta
 name: Opportunity
 size: XL

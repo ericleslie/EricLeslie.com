@@ -5,6 +5,7 @@ keywords: sunset, summer, silhouette, boys, california
 tags: ['Sunset', 'Summer', 'Silhouette', 'Boys', 'California']
 alt: Boys watching a sunset
 date: 2010-7-7
+created: 2010-7-7
 noun: Sunset Silhouette
 name: Summer Nights
 size: XL

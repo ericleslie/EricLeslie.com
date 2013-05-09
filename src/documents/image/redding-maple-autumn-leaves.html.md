@@ -1,6 +1,7 @@
 ---
 title: Autumn Leaves
 date: 2010-4-16
+created: 2010-4-16
 noun: Redding Maple Tree
 name: Autumn Leaves
 smug_key: '72snz4W'

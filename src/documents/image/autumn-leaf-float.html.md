@@ -5,6 +5,7 @@ keywords: autumn, leaf, macro
 tags: ['Autumn', 'Leaf', 'Macro']
 alt: Autumn leaf floting in river.
 date: 2010-11-6
+created: 2010-11-6
 noun: Autumn Leaf
 name: Float
 exposure: 1/80

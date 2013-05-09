@@ -1,6 +1,7 @@
 ---
 title: Grazing Quarter Horse
 date: 2010-5-1
+created: 2010-5-1
 noun: Quarter Horse
 name: Spring Fling
 smug_key: 'WZTfc69'

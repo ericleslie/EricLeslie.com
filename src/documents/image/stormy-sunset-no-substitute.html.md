@@ -5,6 +5,7 @@ keywords: sunset, wind, storm, grass, country, pasture, Red Bluff, California, l
 tags: ['Sunset', 'Wind', 'Storm', 'Grass', 'Country', 'Pasture', 'Red Bluff', 'California', 'Landscape']
 alt: The wind swept grass during a stormy sunset.
 date: 2010-10-24
+created: 2010-10-24
 noun: Stormy Sunset
 name: No Substitute
 exposure: .8

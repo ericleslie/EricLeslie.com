@@ -5,6 +5,7 @@ keywords: salmon, brandy creek, spawn, whiskeytown, redding, california, landsca
 tags: ['Salmon', 'Brandy Creek', 'Autumn', 'Whiskeytown', 'Redding', 'California', 'Landscape']
 alt: Salmon spawning in Brandy Creek
 date: 2010-11-5
+created: 2010-11-5
 noun: Brandy Creek Salmon
 name: Fish Friends
 exposure: 1/8

@@ -5,6 +5,7 @@ keywords: Catholic, church, black and white, architecture, stained glass
 tags: ['Catholic', 'Church', 'Black and White', 'Architecture', 'Black and White']
 alt: Sacred Heart Catholic church in Red Bluff, CA
 date: 2010-7-16
+created: 2010-7-16
 noun: Sacred Heart Catholic Church
 name: 
 size: XL

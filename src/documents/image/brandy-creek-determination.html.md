@@ -5,6 +5,7 @@ keywords: Brandy Creek, cascade, tree, Whiskeytown, Landscape, Redding, Californ
 tags: ['Brandy Creek', 'Cascade', 'Tree', 'Whiskeytown', 'Landscape', 'Redding', 'California']
 alt: In the middle of a rocky cascade, a tree grows in Brandy Creek
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: Determination
 size: XL

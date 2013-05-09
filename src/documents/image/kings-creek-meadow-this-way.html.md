@@ -5,6 +5,7 @@ keywords: Kings Creek, Meadow, Lassen, Forest, Landscape, California
 tags: ['Kings Creek Meadow', 'Lassen', 'Forest', 'Lassen', 'California', 'Black and White']
 alt: Sunset at Kings Creek Meadow
 date: 2010-8-7
+created: 2010-8-7
 noun: Kings Creek Meadow
 name: This Way
 size: XL

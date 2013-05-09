@@ -5,6 +5,7 @@ keywords: cactus, macro, california
 tags: ['Cactus', 'Macro', 'California']
 alt: Cactus macro in California.
 date: 2010-11-10
+created: 2010-11-10
 noun: Cactus
 name: Stickler
 exposure: 1/250

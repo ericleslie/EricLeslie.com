@@ -1,6 +1,7 @@
 ---
 title: Barn My Shelter
 date: 2010-4-9
+created: 2010-4-9
 noun: Ranch Barn
 name: Invitation
 smug_key: 'kJvnBTW'

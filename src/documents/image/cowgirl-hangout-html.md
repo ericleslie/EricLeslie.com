@@ -1,6 +1,7 @@
 ---
 title: Cowgirl Hangout
 date: 2010-4-9
+created: 2010-4-9
 noun: Sundial Bridge
 name: Golden Lines
 smug_key: 'ZbcmfjM'

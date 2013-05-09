@@ -5,6 +5,7 @@ keywords: iron canyon loop, sacramento valley, sunset, landscape, red bluff, cal
 tags: ['Iron Canyon Loop', 'Sunset', 'Landscape', 'Red Bluff', 'California']
 alt: Red Bluff sunset in Red Bluff, California
 date: 2010-12-11
+created: 2010-12-11
 noun: Iron Canyon Loop
 name: Valley View
 exposure: 10

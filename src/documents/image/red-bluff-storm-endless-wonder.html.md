@@ -5,6 +5,7 @@ keywords: Red Bluff, rolling hills, storm, rain clouds, sunset
 tags: ['Rolling Hills', 'Storm', 'Rain Clouds', 'Sunset', 'Red Bluff', 'California', 'Landscape']
 alt: Very dark rain clouds getting hit by the setting sun.
 date: 2010-10-24
+created: 2010-10-24
 noun: Red Bluff Storm
 name: Endless Wonder
 exposure: .4

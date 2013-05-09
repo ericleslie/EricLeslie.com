@@ -5,6 +5,7 @@ keywords: Roping Dummy, Lariat, rope, bale, hay, Summer, Western
 tags: ['Western', 'Summer', 'Cowboy']
 alt: A roping dummy and a rope on a hot summer day.
 date: 2010-6-20
+created: 2010-6-20
 noun: Roping Dummy
 name: Cecil is Angry
 smug_key: rpNpJxb

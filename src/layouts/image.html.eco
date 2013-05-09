@@ -1,5 +1,7 @@
 ---
 layout: page
+isFamilyFriendly: true
+genre: Landscape
 ---
 
 <script>
@@ -40,18 +42,21 @@ layout: page
 	}(document));
 </script>
 
+<div itemscope itemtype="http://schema.org/Photograph">
+<meta itemprop="isFamilyFriendly" content="<%- @document.isFamilyFriendly %>">
+
 <div class="row">
 	<div class="span12 text-center">
-		<img src="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg" class="img-rounded" alt="<%=@document.alt%>">
+		<img src="http://www.lesliephotos.com/i-<%=@document.smug_key%>/9/<%=@document.size%>/<%=@document.noun.replace(" ", "-") %>.jpg" class="img-rounded" alt="<%=@document.alt%>" itemprop="image">
 	</div>
 </div>
 <br>
 
 <div class="row image">
 	<div class="span8">
-		<h2><%= @document.noun %> <small><%= @document.name %></h2>
+		<h2 itemprop="name"><span itemprop="about"><%= @document.noun %></span> <small itemprop=""><%= @document.name %></h2>
 
-		<%- @content %>
+		<div itemprop="text"><%- @content %></div>
 
 		<% if @getEnvironment() isnt "development": %>
 		<!-- START: Livefyre Embed -->
@@ -77,6 +82,9 @@ layout: page
 		<% end %>
 
 	</div>
+
+<% created = new Date(@document.created) %>
+
 	<div class="span4">
 		<h4>Photo Details</h4>
 		<dl class="dl-horizontal">
@@ -92,14 +100,18 @@ layout: page
 			<dd><%= @document.camera %></dd>
 			<dt>Lens</dt>
 			<dd><%= @document.lens %></dd>
-			<dt>Uploaded</dt>
-			<dd><%= @document.date.toLocaleDateString() %></dd>
+			<dt>Created</dt>
+			<dd><time datetime="<%= created.toISOString() %>" itemprop="dateCreated"><%= created.toLocaleDateString() %></time></dd>
+			<dt>Published</dt>
+			<dd><time datetime="<%= @document.date.toISOString() %>" itemprop="datePublished"><%= @document.date.toLocaleDateString() %></time></dd>
+			<dt>Genre</dt>
+			<dd itemprop="genre"><%= @document.genre %></dd>
 		</dl>		
 
 		<h4>Tags</h4>
 		<ul class="inline">
 		<% for tag in @document.tags: %>
-			<li><i class="icon-tag"></i> <%= tag %></li>
+			<li itemprop="keywords"><i class="icon-tag"></i> <%= tag %></li>
 		<% end %>
 		</ul>
 		<br>
@@ -151,6 +163,7 @@ layout: page
 		<br>
 
 	</div>
+</div>
 </div>
 
 <div id="fb-root"></div>

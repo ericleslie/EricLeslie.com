@@ -5,6 +5,7 @@ keywords: Hat Creek Observatory, California, Radio Telescope, Black and White
 tags: ['Hat Creek Observatory', 'Radio Telescope', 'Black and White', 'California']
 alt: Radio telescope at Hat Creek Observatory
 date: 2010-7-10
+created: 2010-7-10
 noun: Retired Radio Telescope
 name: 
 size: XL

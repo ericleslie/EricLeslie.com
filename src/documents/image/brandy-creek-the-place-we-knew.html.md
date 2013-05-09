@@ -5,6 +5,7 @@ keywords: Brandy Creek, cascade, Whiskeytown, Redding, California, Landscape
 tags: ['Brandy Creek', 'Cascade', 'Whiskeytown', 'Redding', 'California', 'Landscape']
 alt: The middle of Brandy Creek in Whiskeytown
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: The Place We Knew
 size: XL

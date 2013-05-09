@@ -5,6 +5,7 @@ keywords: clear creek gorge, canyon, granite, river, hdr
 tags: ['Clear Creek Gorge', 'Canyon', 'Granite', 'River', 'HDR']
 alt: A slippery view of Clear Creek Gorge in Redding California
 date: 2010-10-22
+created: 2010-10-22
 noun: Clear Creek Gorge
 name: Hand Hold
 exposure: 1/4

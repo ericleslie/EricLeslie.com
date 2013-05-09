@@ -3,8 +3,10 @@ title:
 description:
 keywords:
 tags: []
+genre: 
 alt: 
 date: 
+created: 
 noun: ''
 name: 
 exposure: 1/8

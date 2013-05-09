@@ -5,6 +5,7 @@ keywords: Mount Diller, Lake Helen, Lassen National Park, HDR, Landscape, sunris
 tags: ['Mount Diller', 'Lake Helen', 'Lassen', 'sunrise', 'HDR', 'Landscape', 'California']
 alt: Sunrise HDR of Lake Helen and Mount Diller.
 date: 2010-8-7
+created: 2010-8-7
 noun: Mound Diller Over Helen Lake
 name: Liquid Electricity
 size: XL

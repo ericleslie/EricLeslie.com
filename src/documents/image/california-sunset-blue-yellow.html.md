@@ -5,6 +5,7 @@ keywords: sunset, golden hour, california, landscape
 tags: ['Sunset', 'Golden Hour', 'California', 'Red Bluff', 'Landscape']
 alt: Sunset at golden hour in Red Bluff
 date: 2010-8-8
+created: 2010-8-8
 noun: California Sunset
 name: Blue to Yellow
 size: XL

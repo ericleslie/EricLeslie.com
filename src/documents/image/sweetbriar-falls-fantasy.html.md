@@ -5,6 +5,7 @@ keywords: Sweetbriar, sweetbrier, waterfall, castella, california
 tags: ['Sweetbriar Falls', 'Waterfall', 'Castella', 'California', 'Landscape']
 alt: I detailed shot of Sweetbriar falls in Castella California.
 date: 2010-11-26
+created: 2010-11-26
 noun: Sweetbriar Falls
 name: Fantasy
 exposure: 30

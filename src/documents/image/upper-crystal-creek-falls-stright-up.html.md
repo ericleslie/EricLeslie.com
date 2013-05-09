@@ -5,6 +5,7 @@ keywords: Upper crystal creek falls, waterfall, whiskeytown, autumn, landscape
 tags: ['Upper Crystal Creek Falls', 'Waterfall', 'Whiskeytown', 'Autumn', 'Landscape']
 alt: Upper Crystal Creek Falls in Whiskeytown
 date: 2010-11-30
+created: 2010-11-30
 noun: Upper Crystal Creek Falls
 name: Straight Up
 exposure: 1

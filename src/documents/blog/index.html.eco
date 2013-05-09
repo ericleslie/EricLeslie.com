@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
 title: Photography Blog
+description: I share tips and experiences from my journey as a Photographer.
 date: 
 post: false 
 isPaged: true
@@ -13,9 +14,11 @@ changefreq: 'daily'
 <% posts = @getCollection('posts') %>
 <% for i in [@document.page.startIdx...@document.page.endIdx]: %>
     <% post = posts.at(i).toJSON() %>
-        <h2><a href='<%=post.url%>'><%= post.title %></a></h2>
-        <p><small><%= post.date.toLocaleDateString() %></small></p>
-        <p><%- post.contentRenderedWithoutLayouts %></p>
+    <div itemscope itemtype="http://schema.org/BlogPosting">
+        <h2 itemprop="headline"><a href='<%=post.url%>' itemprop="url"><%= post.title %></a></h2>
+        <p><small><time datetime="<%= post.date.toISOString() %>" itemprop="datePublished"><%= post.date.toLocaleDateString() %></time></small></p>
+        <p itemprop="articleBody"><%- post.contentRenderedWithoutLayouts %></p>
+    </div>
 <% end %>
 
 <ul class="pager">

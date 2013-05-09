@@ -5,6 +5,7 @@ keywords: Brandy Creek, Whiskeytown, creek, brook, landscape, whiskeytown
 tags: ['Brandy Creek', 'Whiskeytown', 'Creek', 'Landscape', 'Redding', 'California']
 alt: Brandy creek cascade in Whiskeytown
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: Backgrack
 size: XL

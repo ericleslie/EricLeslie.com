@@ -5,6 +5,7 @@ keywords: Brandy Creek, Whiskeytown, cascade, waterfall, Redding, California
 tags: ['Brandy Creek', 'Whiskeytown', 'Cascade', 'Waterfall', 'Redding', 'California']
 alt: Looking down a waterfall on Brandy Creek in Whiskeytown
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: A Line From My Imagination
 size: XL

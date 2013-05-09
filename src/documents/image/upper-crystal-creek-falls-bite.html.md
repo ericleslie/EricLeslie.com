@@ -5,6 +5,7 @@ keywords: Upper Crystal Creek Falls, waterfall, Whiskeytown, winter, redding, Ca
 tags: ['Upper Crystal Creek Falls', 'Waterfall', 'Whiskeytown', 'Winter', 'Landscape', 'Redding', 'California']
 alt: A light dusting of snow on Crystal Creek Falls
 date: 2010-11-30
+created: 2010-11-30
 noun: Upper Crystal Creek Falls
 name: Bite
 exposure: .8

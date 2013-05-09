@@ -3,7 +3,7 @@ title: Going Pro: Getting My Website Squared Away
 tags: ['Going Pro']
 date: 2012-1-14	
 keywords:
-description:
+description: How to SEO optimize your website and boost conversions. 
 author: Eric Leslie
 email: eric@ericleslie.com
 layout: post

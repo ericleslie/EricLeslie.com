@@ -5,6 +5,7 @@ keywords: Mossbrae Falls, waterfall, moss, telephoto, close-up, Dunsmuir, Califo
 tags: ['Mossbrae Falls', 'Waterfall', 'Moss', 'Telephoto', 'Dunsmuir', 'California']
 alt: A telephoto shot of Mossbrae Falls showing its details.
 date: 2010-8-13
+created: 2010-8-13
 noun: Mossbrae Falls
 name: Finer Points
 size: XL

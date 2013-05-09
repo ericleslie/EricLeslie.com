@@ -5,6 +5,7 @@ keywords: Fog, Oak Trees, landscape, sacramento valley, red bluff, california, b
 tags: ['Fog', 'Oak Tree', 'Black and White', 'Landscape', 'Red Bluff', 'California']
 alt: Poor visibility around foggy oak trees in the Sacramento Valley
 date: 2010-12-12
+created: 2010-12-12
 noun: Foggy Oak Trees
 name: They Remember
 exposure: 1/60

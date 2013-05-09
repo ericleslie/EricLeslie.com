@@ -5,6 +5,7 @@ keywords: sunset, iron canyon loop, red bluff, california
 tags: ['Iron Canyon Loop', 'Sunset', 'Oak Trees', 'Red Bluff', 'California']
 alt: Oaks and volcanic rock under a sunset on the Iron Canyon Loop in Red Bluff.
 date: 2010-12-11
+created: 2010-12-11
 noun: Iron Canyon Loop
 name: Sunsets Forever
 exposure: 1.3

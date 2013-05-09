@@ -5,6 +5,7 @@ keywords: Mossbrae Falls, waterfall, Sacramento River, Landscape, Black and Whit
 tags: ['Mossbrae Falls', 'Waterfall', 'Sacramento River', 'Landscape', 'Black and White', 'Dunsmuir', 'California']
 alt: Mossbrae falls across the Sacramento River
 date: 2010-8-13
+created: 2010-8-13
 noun: Mossbrae Falls
 name: Monochrome Mossbrae
 size: XL

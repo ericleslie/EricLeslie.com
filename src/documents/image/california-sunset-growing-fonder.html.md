@@ -5,6 +5,7 @@ keywords: sunset, oak trees, california, red bluff, landscape
 tags: ['Sunset', 'Oak Trees', 'Red Bluff', 'California', 'Landscape']
 alt: Dry grassy hillside with oak tree silhouettes at sunset.
 date: 2010-9-7
+created: 2010-9-7
 noun: California Sunset
 name: Growing Fonder
 size: XL

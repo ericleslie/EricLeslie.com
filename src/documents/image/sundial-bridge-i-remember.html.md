@@ -5,6 +5,7 @@ keywords: Sundial Bridge, foot bridge, walk, Calatrava, architecture, Turtle Bay
 tags: ['Sundial Bridge', 'Calatrava', 'Bridge', 'Night', 'Turtle Bay', 'Redding', 'California', 'Architecture']
 alt: A couple goes on an evening walk on the Sundial Bridge
 date: 2010-9-10
+created: 2010-9-10
 noun: Sundial Bridge
 name: I Remember
 exposure: 2

@@ -5,6 +5,7 @@ keywords: flat creek, gold mining, sluice, creek, redding, california
 tags: ['Flat Creek', 'Landscape', 'Creek', 'Redding', 'California']
 alt: Swimming hold setup in Flat Creek in Redding, California
 date: 2010-12-09
+created: 2010-12-09
 noun: Flat Creek
 name: My Stake
 exposure: .8

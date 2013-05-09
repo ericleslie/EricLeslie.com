@@ -5,6 +5,7 @@ keywords: Natural land bridge, trail, moss, hiking, hayfork, california, landsca
 tags: ['Natural Land Bridge', 'Trail', 'Moss', 'Hayfork', 'California', 'Landscape']
 alt: A seldom travelled hiking trail along the Natural Land Bridge in Hayfork California.
 date: 2010-11-11
+created: 2010-11-11
 noun: Hayfork Natural Land Bridge
 name: To Grandma's House We Go
 exposure: 2.5

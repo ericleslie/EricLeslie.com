@@ -1,6 +1,7 @@
 ---
 title: Battle Creek - Birds Eye
 date: 2010-5-7
+created: 2010-5-7
 noun: Battle Creek
 name: Birds Eye
 smug_key: '8d8dgsQ'

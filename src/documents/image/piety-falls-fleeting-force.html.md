@@ -5,6 +5,7 @@ keywords: piety falls, sandstone, waterfall, landscape, redding, california
 tags: ['Piety Falls', 'Sandstone', 'Waterfall', 'Landscape', 'Redding', 'California']
 alt: Rain runoff runs over Piety Falls
 date: 2010-12-08
+created: 2010-12-08
 noun: Piety Falls
 name: Fleeting Force
 exposure: 1.6

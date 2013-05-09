@@ -5,6 +5,7 @@ keywords: waterfall, cascade, river, landscape, burney falls
 tags: ['Burney Falls', 'Waterfall', 'Landscape', 'River']
 alt: A cascade falling downstream from Burney Falls
 date: 2010-7-10
+created: 2010-7-10
 noun: Burney Falls
 name: Minor
 size: XL

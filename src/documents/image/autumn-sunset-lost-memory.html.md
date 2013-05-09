@@ -4,6 +4,7 @@ description: A beatiful California Sunset
 keywords: sunset, autumn, rolling hills, landscape, california
 tags: ['sunset', 'Autumn', 'Rolling Hills', 'Landscape', 'California', 'Red Bluff']
 alt: An autumn sunset in Red Bluff California
+created: 2010-10-24
 date: 2010-10-24
 noun: Autumn Sunset
 name: Lost Memory

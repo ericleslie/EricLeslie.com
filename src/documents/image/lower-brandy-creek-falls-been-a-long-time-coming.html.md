@@ -5,6 +5,7 @@ keywords: Lower Brandy Creek Falls, waterfall, Whiskeytown, Landscape, Redding, 
 tags: ['Lower Brandy Creek Falls', 'Waterfall', 'Whiskeytown', 'Landscape', 'Swimming Hole', 'Redding', 'California']
 alt: An inviting swimming hold below Lower Brandy Creek Falls
 date: 2010-9-10
+created: 2010-9-10
 noun: Lower Brandy Creek Falls
 name: Been a Long Time Coming
 size: XL

@@ -5,6 +5,7 @@ keywords: Lake Red Bluff, sunset, landscape, river bed
 tags: ['Lake Red Bluff', 'Sunset', 'Landscape', 'Red Bluff', 'California']
 alt: Lake Red Bluff empty and dry at sunset.
 date: 2010-8-27
+created: 2010-8-27
 noun: Lake Red Bluff
 name: Flow
 size: XL

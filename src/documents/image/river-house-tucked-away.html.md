@@ -5,6 +5,7 @@ keywords: Sacramento River, house, cabin, castella, california
 tags: ['Sacramento River', 'River', 'Castella', 'California', 'Architecture']
 alt: River house on the Sacramento River
 date: 2010-7-18
+created: 2010-7-18
 noun: River House
 name: Tucked Away
 size: XL

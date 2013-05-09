@@ -5,6 +5,7 @@ keywords: Mossbrae Falls, waterfall, Dunsmuir, California
 tags: ['Mossbrae Falls', 'Waterfall', 'Sacramento River', 'Landscape', 'Dunsmuir', 'California']
 alt: The large center section of Mossbrae Falls
 date: 2010-8-13
+created: 2010-8-13
 noun: Mossbrae Falls
 name: Front and Center
 size: XL

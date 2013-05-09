@@ -1,6 +1,7 @@
 ---
 title: Lunging Horse - Whoa Now!
 date: 2010-5-8
+created: 2010-5-8
 noun: Lunging Horse
 name: Whoa Now!
 smug_key: 'QJ77tNC'

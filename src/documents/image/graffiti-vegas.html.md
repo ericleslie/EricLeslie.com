@@ -5,6 +5,7 @@ keywords: graffiti, vegas, tagging, urbex
 tags: ['graffiti', 'tagging', 'vegas', 'urbex']
 alt:  Vegas graffiti on wall of an abandoned building
 date: 2010-6-27
+created: 2010-6-27
 noun: Graffiti
 name: Vegas
 size: XL

@@ -5,6 +5,7 @@ keywords: Brandy creek, whiskeytown, creek, autumn, fall color, cascade
 tags: ['Brandy Creek', 'Cascade', 'Autumn', 'Whiskeytown', 'Creek', 'Cascade', 'Redding', 'California', 'Landscape']
 alt: Cascade flowing in Whiskeytown with Autumn color
 date: 2010-11-5
+created: 2010-11-5
 noun: Brand Creek Cascade
 name: Glee
 exposure: .8

@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
-title: About Eric Leslie
+title: About Fine-art Prints
+description: No digital screen compares to seeing an image in print. Decorate your home with local landscape images or poses from a recent portrait shoot.
 ---
 
 <ul class="breadcrumb">

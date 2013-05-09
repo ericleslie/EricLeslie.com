@@ -5,6 +5,7 @@ keywords: sunset, lichen, rock, iron canyon loop, red bluff, california, landsca
 tags: ['Sunset', 'Lichen', 'Iron Canyon Loop', 'Red Bluff', 'California', 'Landscape']
 alt: Red Bluff sunset in the Sacramento Valley.
 date: 2010-12-11
+created: 2010-12-11
 noun: Iron Canyon Loop
 name: Wait Here
 exposure: 13

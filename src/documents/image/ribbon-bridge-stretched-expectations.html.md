@@ -5,6 +5,7 @@ keywords: ribbon bridge, sacramento river, keswick reservoir, architecture
 tags: ['Ribbon Bridge', 'Sacramento River', 'Keswick Reservor', 'Architecture', 'Redding', 'California']
 alt: Looking down upon the River View
 date: 2010-12-10
+created: 2010-12-10
 noun: Ribbon Bridge
 name: Stretched Expectations
 exposure: .4

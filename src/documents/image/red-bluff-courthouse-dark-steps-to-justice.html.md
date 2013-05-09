@@ -5,6 +5,7 @@ keywords: Red Bluff, California, court house, architecture, black and white, nig
 tags: ['Black and White', 'Architecture', 'Court House', 'Red Bluff', 'California', 'Night']
 alt: Shot at night, these are the steps to the courthouse.
 date: 2010-6-21
+created: 2010-6-21
 noun: Red Bluff Court House
 name: Dark Steps to Justice
 size: XL

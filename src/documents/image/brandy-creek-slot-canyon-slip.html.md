@@ -5,6 +5,7 @@ keywords: brandy creek, whiskeytown, slot canyon, moss, landscape, redding, cali
 tags: ['Brandy Creek', 'Wiskeytown', 'Slot Canyon', 'Redding', 'California', 'Landscape']
 alt: A remote section of Brandy Creek in Whiskeytown
 date: 2010-11-15
+created: 2010-11-15
 noun: Brandy Creek Slot Canyon
 name: Slip
 exposure: 1.3

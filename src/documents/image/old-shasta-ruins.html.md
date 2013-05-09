@@ -5,6 +5,7 @@ keywords: ruins, brick, shasta, california
 tags: ['Ruins', 'Brick', 'Black and White', 'Old Shasta', 'California', 'Architecture']
 alt: Brick ruins in Old Shasta, CA
 date: 2010-7-3
+created: 2010-7-3
 noun: Old Shasta Ruins
 name: Shasta in Ruin
 size: XL

@@ -5,6 +5,7 @@ keywords: dope, graffiti, tagging, urbex
 tags: ['Dope', 'Graffiti', 'tagging', 'urbex']
 alt: Dope graffiti on the wall of an abandoned building
 date: 2010-6-27
+created: 2010-6-27
 noun: Graffiti
 name: Dope
 size: XL

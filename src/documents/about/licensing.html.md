@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
 title: Image Licensing
+description: My Images are licensed Creative Commons Non-commercial With Attribution and require additional licensing to be used commercially.
 ---
 
 <ul class="breadcrumb">

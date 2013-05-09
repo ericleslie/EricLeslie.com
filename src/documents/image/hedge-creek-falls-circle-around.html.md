@@ -5,6 +5,7 @@ keywords: Hedge Creek Falls, waterfall, landscape, Dunsmuir, California
 tags: ['Hedge Creek Falls', 'Waterfall', 'Landscape']
 alt: The backside of Hedge Creek Falls in Dunsmuir, CA
 date: 2010-7-4
+created: 2010-7-4
 noun: Hedge Creek Falls
 name: Circle Around
 size: XL

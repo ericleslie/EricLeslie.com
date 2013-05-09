@@ -5,6 +5,7 @@ keywords: Sacramento River, Sundial Bridge, river, sandbar, bluffs, Shasta Bally
 tags: ['Sacramento River', 'Sundial Bridge', 'River', 'Shasta Bally', 'Redding', 'California']
 alt: From the Bluffs in Redding above the Sacramento River and Sundial Bridge
 date: 2010-11-3
+created: 2010-11-3
 noun: Sacramento River
 name: Redding Skyline
 exposure: 1/160

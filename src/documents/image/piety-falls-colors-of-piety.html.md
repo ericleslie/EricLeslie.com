@@ -5,6 +5,7 @@ keywords: piety falls, piety trail, sandstone, waterfall, redding, Caliifornia
 tags: ['Piety Falls', 'Sandstone', 'Waterfall', 'Redding', 'California', 'Landscape']
 alt: Piety Falls is a season waterfall that flows over colorful sandstone in Redding California
 date: 2010-12-8
+created: 2010-12-8
 noun: Piety Falls
 name: Colors of Piety
 exposure: 2.5

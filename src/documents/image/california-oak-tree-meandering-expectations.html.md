@@ -5,6 +5,7 @@ keywords: Oak tree, rolling hills, landscape, California, Black and White
 tags: ['Oak Tree', 'Rolling Hills', 'Landscape', 'Black and White', 'California']
 alt: At the base of rolling hills is a single Oak Tree
 date: 2010-7-31
+created: 2010-7-31
 noun: California Oak Tree
 name: Meandering Expectations
 size: XL

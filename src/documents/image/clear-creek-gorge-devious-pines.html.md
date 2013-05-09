@@ -5,6 +5,7 @@ keywords: pine trees, clear creek gorge, landscape, redding, california
 tags: ['Pine Trees', 'Clear Creek Gorge', 'Landscape', 'Redding', 'California', 'Sunset']
 alt: Pine tree silhouettes at sunset at Clear Creek Gorge.
 date: 2010-11-7
+created: 2010-11-7
 noun: Clear Creek Gorge
 name: Devious Pines
 exposure: 5

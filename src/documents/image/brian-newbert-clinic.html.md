@@ -1,6 +1,7 @@
 ---
 title: Brian Newbert Clinic - Etna
 date: 2010-4-9
+created: 2010-4-9
 noun: Etna Arena
 name: Brian Newbert Demo
 smug_key: KGPD92N

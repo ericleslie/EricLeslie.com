@@ -5,6 +5,7 @@ keywords: natural land bridge, creek, geology, massacre, moss
 tags: ['Natural Land Bridge', 'Creek', 'Landscape', 'Hayfork', 'California']
 alt: Mossy boulders laying in a creek under the Natural Land Bridge in Hayfork California
 date: 2010-11-11
+created: 2010-11-11
 noun: Hayfork Natural Land Bridge
 name: A Time Forgotten
 exposure: 4

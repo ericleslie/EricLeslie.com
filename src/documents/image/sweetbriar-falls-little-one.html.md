@@ -5,6 +5,7 @@ keywords: sweetbriar falls, waterfall, autumn, snow, moss, castella, california,
 tags: ['Sweetbriar Falls', 'Waterfall', 'Autumn', 'Castella', 'California', 'Landscape']
 alt: Sweetbriar falls with a splash of snow and fall color. 
 date: 2010-11-26
+created: 2010-11-26
 noun: Sweetbriar Falls
 name: Little One
 exposure: 5

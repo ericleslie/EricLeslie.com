@@ -5,6 +5,7 @@ keywords: clear creek, granite, landscape, river, redding, California
 tags: ['Clear Creek', 'River', 'Landscape', 'Redding', 'California']
 alt: Clear creek flowing through granite bedrock.
 date: 2010-11-29
+created: 2010-11-29
 noun: Clear Creek
 name: Pangaea
 exposure: 2

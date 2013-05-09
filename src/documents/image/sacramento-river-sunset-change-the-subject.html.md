@@ -5,6 +5,7 @@ keywords: sunset, sacramento river, reflection, red bluff, california
 tags: ['Sunset', 'Reflection', 'Sacramento River', 'Red Bluff', 'California', 'Landscape']
 alt: Reflecting sunset on the Sacramento River
 date: 2010-11-04
+created: 2010-11-04
 noun: Sacramento River Sunset
 name: Change the Subject
 exposure: 1/13

@@ -5,6 +5,7 @@ keywords: Mount Lassen, Manzanita Lake, forest, California, lake, Black and Whit
 tags: ['Mount Lassen', 'Manzanita Lake', 'Lake', 'Peak', 'Mountains', 'Forest', 'California', 'Black and White']
 alt: Manzanita Lake and Mount Shasta
 date: 2010-7-10
+created: 2010-7-10
 noun: Mount Lassen
 name: Late Start
 size: XL

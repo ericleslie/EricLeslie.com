@@ -5,6 +5,7 @@ keywords: classic car, grille, chevy, chevrolet, chrome, americana, automotive
 tags: ['Classic Car', 'Grille', 'Chevy', 'Chevrolet', 'Chrome', 'Americana']
 alt: The tarnished chrome grill on an old Chevy Pickup
 date: 2010-6-22
+created: 2010-6-22
 noun: Chevrolet Grille
 name: I'm Not Allowed to Call this a Chevy
 size: XL

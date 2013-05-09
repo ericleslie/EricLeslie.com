@@ -5,6 +5,7 @@ keywords: graffiti, art, spray paint, love, tagging
 tags: ['graffiti', 'love', 'tagging']
 alt: A tagged wall with Love graffiti
 date: 2010-6-27
+created: 2010-6-27
 noun: Graffiti
 name: Love
 size: XL

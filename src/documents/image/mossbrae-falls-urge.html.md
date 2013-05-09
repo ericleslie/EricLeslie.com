@@ -5,6 +5,7 @@ keywords: Mossbrae Falls, waterfall, Sacramento River, Dunsmuir, California, Lan
 tags: ['Mossbrae Falls', 'Waterfall', 'Sacramento River', 'Landscape', 'Dunsmuir', 'California', 'Black and White']
 alt: Across the Sacramento River is Mossbrae Falls
 date: 2010-8-13
+created: 2010-8-13
 noun: Mossbrae Falls
 name: Urge
 size: XL

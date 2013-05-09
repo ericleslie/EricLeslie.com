@@ -5,6 +5,7 @@ keywords: frog, garden, log, amphibian, animal, wildlife
 tags: ['Frog', 'Amphibian', 'Wildlife', 'Animal']
 alt: A small frog sitting in a split log.
 date: 2010-7-20
+created: 2010-7-20
 noun: Frog
 name: Hide and Seek
 size: XL

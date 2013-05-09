@@ -2,8 +2,8 @@
 layout: page-sidebar
 ---
 
-<article id="post" class="post">
-	<h2><%= @document.title %></h2>
+<article id="post" class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<h2 itemprop="name headline"><%= @document.title %></h2>
 	
 	<div class="social-icons">
 		<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @document.title %>">Tweet</a></tweet></div>	
@@ -15,9 +15,9 @@ layout: page-sidebar
 
 	</div>
 	<div class="clearfix"></div>
-	<p class="muted"><%= @document.date.toLocaleDateString() %> by <a href="mailto:<%- @document.email %>"><%= @document.author %></a></p>
-	<br >
-	<div class="post-content"><%- @content %></div>
+	<p class="muted"><time datetime="<%= @document.date.toISOString() %>"  itemprop="datePublished"><%= @document.date.toLocaleDateString() %></time> by <a href="mailto:<%- @document.email %>" itemprop="author"><%= @document.author %></a></p>
+	<br>
+	<div class="post-content" itemprop="articleBody"><%- @content %></div>
 
 	
 </article>

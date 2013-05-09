@@ -5,6 +5,7 @@ keywords: Brandy Creek, Whiskeytown, bear grass, cascade, Redding, California
 tags: ['Brandy Creek', 'Whiskeytown', 'Bear Grass', 'Cascade', 'Redding', 'California']
 alt: A cascade on Brandy Creek in Whiskeytown
 date: 2010-8-11
+created: 2010-8-11
 noun: Brandy Creek
 name: Paradise
 size: XL

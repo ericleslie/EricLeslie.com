@@ -5,6 +5,7 @@ keywords: Sundial Bridge, Sacramento River, Black and White, Landscape, bluffs, 
 tags: ['Sundial Bridge', 'Sacrmanto River', 'Bluffs', 'Redding', 'California', 'Black and White', 'Square Crop', 'Shasta Bally']
 alt: The bend below the Redding Bluffs on the Sacramento River
 date: 2010-11-3
+created: 2010-11-3
 noun: Sacramento River
 name: Time Warp
 exposure: 1/80

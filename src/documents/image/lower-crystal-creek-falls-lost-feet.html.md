@@ -4,7 +4,8 @@ description: Lower Crystal Creek Falls in autumn color.
 keywords: lower crystal creek falls, whiskeytown, waterfall, autumn, redding, california
 tags: ['Lower Crystal Creek Falls', 'Crystal Creek', 'Whiskeytown', 'Waterfall', 'Autumn']
 alt: Lower Crystal Creek Falls in the Fall
-date: 20101-11-21
+date: 2010-11-21
+created: 2010-11-21
 noun: Lower Crystal Creek Falls
 name: Lost Feet
 exposure: .5

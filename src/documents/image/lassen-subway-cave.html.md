@@ -5,6 +5,7 @@ keywords: cave, subway cave, lava tube, Lassen, spelunking
 tags: ['Cave', 'Subway Cave', 'Lava Tube', 'Lassen', 'Spelunking', 'Landscape']
 alt: The subway cave bending into darkness
 date: 2010-7-10
+created: 2010-7-10
 noun: Subway Cave
 name: Don't Turn Your Back on Me
 size: XL
