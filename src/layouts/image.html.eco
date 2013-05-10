@@ -83,7 +83,6 @@ genre: Landscape
 
 	</div>
 
-<% created = new Date(@document.created) %>
 
 	<div class="span4">
 		<h4>Photo Details</h4>
@@ -101,7 +100,7 @@ genre: Landscape
 			<dt>Lens</dt>
 			<dd><%= @document.lens %></dd>
 			<dt>Created</dt>
-			<dd><time datetime="<%= created.toISOString() %>" itemprop="dateCreated"><%= created.toLocaleDateString() %></time></dd>
+			<dd><time datetime="<%= @document.created.toISOString() %>" itemprop="dateCreated"><%= @document.created.toLocaleDateString() %></time></dd>
 			<dt>Published</dt>
 			<dd><time datetime="<%= @document.date.toISOString() %>" itemprop="datePublished"><%= @document.date.toLocaleDateString() %></time></dd>
 			<dt>Genre</dt>
