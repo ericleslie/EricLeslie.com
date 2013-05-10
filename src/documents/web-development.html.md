@@ -5,6 +5,11 @@ keywords: php, mysql, wordpress, custom, javascript, jquery, bootstrap, foundati
 description: Please fill this out!
 ---
 
+<ul class="breadcrumb">
+	<li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+	<li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">Web Development</span></li>
+</ul>
+
 <div class="hero-unit">
 <h2>Web Development</h2>
 <p>Do you need a fresh and modern website that's easy to maintain on your own?</p>

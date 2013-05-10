@@ -3,6 +3,12 @@ layout: page-sidebar
 title: Red Bluff Wedding Photography
 ---
 
+
+<ul class="breadcrumb">
+	<li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+	<li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">Wedding Photography</span></li>
+</ul>
+
 <h2>Wedding Photography <br><small>More than great images, a great experience</small></h2>
 I know that a couple's wedding is one of the biggest events in their lives, and the memories saved in the photography are a major part of it. As an artist, I want to go that extra step to create beautiful images. I go beyond the traditional posed shots delivering a huge album of hand-processed images (Usually 400+). Along with all the photos, I am here for you. Not only will we have a great time, but I work to make the experience as positive as possible. That shows in both the list of services you get (see below) and how I treat you with outstanding customer service.
 

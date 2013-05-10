@@ -5,9 +5,9 @@ description: No digital screen compares to seeing an image in print. Decorate yo
 ---
 
 <ul class="breadcrumb">
-  <li><a href="/">Home</a> <span class="divider">/</span></li>
-  <li><a href="/about/">About</a> <span class="divider">/</span></li>
-  <li class="active">Prints</li>
+  <li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+  <li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/about/" itemprop="url"><span itemprop="title">About</a></a> <span class="divider">/</span></li>
+  <li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">Prints</span></li>
 </ul>
 
 ###Artist Proof Prints

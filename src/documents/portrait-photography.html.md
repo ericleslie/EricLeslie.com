@@ -4,6 +4,11 @@ title: Red Bluff Portrait Photographer
 description: The premier portrait photographer serving Red Bluff, Redding and Chico
 ---
 
+<ul class="breadcrumb">
+	<li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+	<li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">Portrait Photography</span></li>
+</ul>
+
 ###Let's capture your life's moments together.
 I know what an honor and a privilege it is to be entrusted with your memories, so I treat every shoot like gold. I also know how awkward it can be to have a stranger (me) take pictures of you, so I always keep the mood relaxed and fun. My clients always loosen right up and we have a great time.
 

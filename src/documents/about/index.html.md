@@ -5,8 +5,8 @@ description: Eric and Crystal Leslie are photographers based out of Northern Cal
 ---
 
 <ul class="breadcrumb">
-  <li><a href="/">Home</a> <span class="divider">/</span></li>
-  <li class="active">About</li>
+  <li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+  <li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">About</span></li>
 </ul>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/H9n2tYeACE0" frameborder="0" allowfullscreen></iframe>

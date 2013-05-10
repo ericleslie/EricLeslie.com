@@ -5,9 +5,9 @@ description: My Images are licensed Creative Commons Non-commercial With Attribu
 ---
 
 <ul class="breadcrumb">
-  <li><a href="/">Home</a> <span class="divider">/</span></li>
-  <li><a href="/about/">About</a> <span class="divider">/</span></li>
-  <li class="active">Licensing</li>
+  <li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider">/</span></li>
+  <li itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><a href="/about/" itemprop="url"><span itemprop="title">About</a></a> <span class="divider">/</span></li>
+  <li class="active" itemscope itemtype="http://www.data-vocabulary.org/Breadcrumb"><span itemprop="title">Licensing</span></li>
 </ul>
 
 I believe art is meant to be shared and not hoarded. So my licensing policies are designed to balance the costs of producing and distributing the images with the hope that they may inspire people around the world. In a nutshell, for non-commercial use, you are **free** to use my images however you want so long as you give me a link back to EricLeslie.com. Cool right? Otherwise, additional licensing is required for commercial use.
