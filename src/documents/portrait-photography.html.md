@@ -26,23 +26,28 @@ I know what an honor and a privilege it is to be entrusted with your memories, s
 	</div>
 </div>
 
-##The Portrait Package
-Every shoot shares the same base features. A lot of time, a lot of great pictures and a lot of fun! Below you'll find all the specifics for the different kinds of shoots.
+##The Portrait Sessions
+Every shoot shares the same base features. Plenty of time, a lot of great pictures and a lot of fun! Below you'll find all the specifics for the different kinds of sessions and print.
 
- * **Tons of Images**  
- Just like time limits, you're not paying for a package of say 5 images. You get everything I shoot and each photo is hand processed. It depends on how long we shoot, but trust me, you get a lot of shots.
+ * **Unlimited Outfits**  
+ You can wear as many outfits as can reasonibly fit into the length of your session. You don't want to spend all of your time changing clothes :)
  * **Free Online Gallery**  
- All of your images are available in an online gallery, forever. There are no time limits so you can rest assured that your images are backed-up in state of the art cloud storage. Prints will always be available as well.
- * **Personal Usage Rights**  
- You are free to use the images how ever you like, so long as it's personal (non-commercial). So you can share them on Facebook or post them to your blog. I deliver Facebook sized images in a link for you download.
+ All of your images are available in an online gallery, forever. There are no time limits so you can rest assured that your images are backed-up in state of the art cloud storage. Prints are offered at a discounted prices for two weeks after the viewing. 
  * **Order Prints A La Carte**  
- You can order prints in any combination of size, medium and quantity right off the online gallery from a professional lab. This is really convenient for family members who would like prints of their own. All prints are made at a Pro Lab, where print quality is excellent and they will last a lifetime using museum-rated archival papers and inks. There is not comparison with prints made at your local retail store.
- * **HD Photos with Every Print**  
- For every print ordered, I make the High Definition images for those poses available to you at no extra charge.
+ You can order prints in any combination of size, medium and quantity right off the online gallery from a professional lab. This is really convenient for family members who would like prints of their own. All prints are made at a Pro Lab, where print quality is second to none and they will last a lifetime using museum-rated archival papers and inks. There is no comparison with prints made at your local retail store.
+ * **Facebook Photos with Every Print**  
+ For every pose ordered in a product, I make social-media sized digital images available to you at no extra charge. Notes, images are watermarked.
 
+##The Sessions
+ * **The Expedition - $145**  
+ We can shoot on-location upto 30 miles from my studio. There is upto four hours of shooting. This is great for those that live active lifestyles or love adventure sports. I will hike out into the wilderness and shoot you kayaking over a waterfall if that's what you're into.
+ * **The Standard - $95**  
+ Shoot is outdoors upto 20 miles from my studio. Upto 3 hours of shooting. This is the most popular session. It's perfect for families, seniors, newborns and models.
+ * **The Quicky - $45**  
+ Shoot outdoors upto 10 miles from my stuido and for 1/2 hour.
 
+##The Print Packs
 <br>
-
 <div class="tabbable tabs-left">
 	<ul class="nav nav-tabs">
 		<li class="active"><a href="#tab1" data-toggle="tab">Families</a></li>
@@ -52,7 +57,7 @@ Every shoot shares the same base features. A lot of time, a lot of great picture
 		<li><a href="#tab5" data-toggle="tab">Kids</a></li>
 		<li><a href="#tab6" data-toggle="tab">Maternity</a></li>
 		<li><a href="#tab7" data-toggle="tab">Lifestyle</a></li>
-		<li><a href="#tab8" data-toggle="tab">Head Shots</a></li>
+		<li><a href="#tab8" data-toggle="tab">The Basics</a></li>
 	</ul>
 	<div class="tab-content">
 		<div class="tab-pane active" id="tab1">
